@@ -27,6 +27,8 @@ const NEWS_QUERIES = [
   'streetwear trend OR "streetwear brand" OR hypebeast',
   'menswear trend OR "men\'s fashion" OR "men clothing"',
   'fashion resale OR thrift OR vintage clothing OR "secondhand fashion"',
+  'sneaker drop OR streetwear drop OR "brand collab" OR capsule collection',
+  '"hip hop fashion" OR rapper clothing line OR "celebrity wore"',
 ];
 
 // 品牌词库（从 data/brand-library.json 读取，风向情报项目共用同一份库）
@@ -132,6 +134,96 @@ const NOISE_PATTERNS = [
   /BoF 500/i,
   /The People Shaping the Global Fashion Industry/i,
 ];
+
+// ---- 新品牌发现：从资讯标题里自动提取词库外的品牌名 ----
+const DISCOVERY_CONTEXT = /brand|drop|collab|collection|sneaker|hoodie|tee|streetwear|label|launch|release|resell|resale|capsule|wore|wearing|debut/i;
+
+// 已知非品牌词（人名/地名/通用词，命中即跳过）
+const NON_BRAND_WORDS = new Set([
+  'nike','adidas','puma','vogue','wwd','guardian','reuters','forbes','google','youtube',
+  'paris','london','tokyo','japan','china','italy','milan','korea','korean','india',
+  'american','british','french','italian','japanese','national','fashion','week',
+  'complexcon','met','oscars','grammys','nfl','nba','mlb','fifa','olympic',
+  'january','february','march','april','june','july','august','september','october','november','december',
+  'monday','tuesday','wednesday','thursday','friday','saturday','sunday',
+  'joe','trump','biden','kanye','kim','rihanna','beyonce','taylor','drake','jay',
+  'gen','ai','us','uk','eu','nyc','la','lvmh','kering',
+  // 常见通用词（会以首字母大写形式出现在标题里）
+  'collection','capsule','guide','edition','exclusive','review','look','looks',
+  'out','outfit','outfits','new','best','top','sale','shop','store','online',
+  'street','style','styles','wear','clothing','dress','dresses','shirt','shirts',
+  'hoodie','hoodies','sneaker','sneakers','shoes','boots','denim','jeans',
+  'jacket','jackets','coat','coats','pants','shorts','sweater','knit','bag','bags',
+  'watch','watches','spring','summer','fall','winter','resort','prefall',
+  'festival','tour','show','shows','runway','market','industry','business',
+  'daily','post','times','magazine','journal','news','report','reports',
+  'standing','coming','going','making','building','trying','getting',
+]);
+
+// 从标题提取候选品牌名（1-3个首字母大写词的组合）
+function extractBrandCandidates(titles, knownBrandWords) {
+  const counter = new Map();
+  for (const raw of titles) {
+    if (!DISCOVERY_CONTEXT.test(raw)) continue;
+    // 匹配连续的、每个词都首字母大写的 1-3 词组合
+    const matches = raw.matchAll(/\b([A-Z][a-zA-Z&0-9']{1,15}(?:\s+(?:[A-Z][a-zA-Z&0-9']{1,15}|\d+)){0,2})\b/g);
+    for (const m of matches) {
+      const candidate = m[1].trim();
+      const words = candidate.toLowerCase().split(/\s+/);
+      // 跳过：包含已知品牌词、非品牌词、或纯数字
+      if (words.some(w => knownBrandWords.has(w) || NON_BRAND_WORDS.has(w) || /^\d+$/.test(w))) continue;
+      // 单词候选必须够独特（首字母大写专名），双词组合最可靠
+      if (words.length === 1 && candidate.length < 4) continue;
+      const key = candidate;
+      if (!counter.has(key)) counter.set(key, { count: 0, sample: raw.slice(0, 100) });
+      counter.get(key).count++;
+    }
+  }
+  return counter;
+}
+
+async function discoverBrands(newsItems, youtubeItems, brandItems) {
+  const knownBrandWords = new Set();
+  for (const b of BRAND_POOL) {
+    // 已知品牌的查询词和别名拆成单词，用于排除
+    (b.query.toLowerCase().match(/[a-z0-9]+/g) || []).forEach(w => knownBrandWords.add(w));
+    (b.aliases || []).forEach(a => (a.toLowerCase().match(/[a-z0-9]+/g) || []).forEach(w => knownBrandWords.add(w)));
+    b.label.toLowerCase().match(/[a-z0-9]+/g).forEach(w => knownBrandWords.add(w));
+  }
+
+  const titles = [
+    ...newsItems.map(i => i.title),
+    ...youtubeItems.map(i => i.title),
+    ...brandItems.map(i => i.title),
+  ];
+  const counter = extractBrandCandidates(titles, knownBrandWords);
+
+  // 合并历史发现（data/discovered-brands.json，Actions 每次运行会提交回仓库，长期累积）
+  const discPath = path.join(DATA_DIR, 'discovered-brands.json');
+  let history = {};
+  try { history = JSON.parse(await fs.readFile(discPath, 'utf-8')); } catch {}
+
+  for (const [name, info] of counter) {
+    if (!history[name]) history[name] = { totalMentions: 0, firstSeen: new Date().toISOString(), sample: info.sample };
+    history[name].totalMentions += info.count;
+    history[name].lastSeen = new Date().toISOString();
+  }
+
+  // 只保留提及 >= 2 次的，按总提及排序
+  const sorted = Object.entries(history)
+    .filter(([, v]) => v.totalMentions >= 2)
+    .sort((a, b) => b[1].totalMentions - a[1].totalMentions)
+    .slice(0, 60);
+  await fs.writeFile(discPath, JSON.stringify(Object.fromEntries(sorted), null, 2), 'utf-8');
+
+  return sorted.slice(0, 15).map(([name, v], index) => ({
+    rank: index + 1,
+    title: name,
+    url: `https://news.google.com/search?q=${encodeURIComponent(name + ' fashion')}&hl=en-US`,
+    hot: `累计提及 ${v.totalMentions} 次`,
+    platform: 'discovery'
+  }));
+}
 
 // 1. 行业资讯（Google News，多查询合并去重）
 async function fetchFashionNews() {
@@ -330,10 +422,13 @@ async function main() {
     fetchTwitterFashion()
   ]);
 
+  const discovery = await discoverBrands(news, youtube, brands);
+
   const data = {
     lastUpdated: new Date().toISOString(),
     platforms: {
       brands: { name: '品牌池动态', icon: '🔥', items: brands },
+      discovery: { name: '新品牌发现', icon: '🧭', items: discovery },
       news: { name: '行业资讯', icon: '📰', items: news },
       youtube: { name: 'YouTube 时尚频道', icon: '📺', items: youtube },
       tiktok: { name: 'TikTok 时尚', icon: '🎵', items: tiktok },

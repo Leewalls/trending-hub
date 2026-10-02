@@ -177,6 +177,7 @@ async function buildHTML() {
     .platform-header.toutiao { border-left: 4px solid #ff4500; }
     .platform-header.news { border-left: 4px solid #4285f4; }
     .platform-header.brands { border-left: 4px solid #e0245e; }
+    .platform-header.discovery { border-left: 4px solid #9333ea; }
     
     .platform-icon {
       font-size: 1.5rem;
