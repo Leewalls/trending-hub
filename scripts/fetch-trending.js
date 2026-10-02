@@ -26,6 +26,17 @@ const NEWS_QUERIES = [
   'fashion week OR luxury brand OR streetwear',
 ];
 
+// 跨境男装品牌池（敦煌词库验证过的方向，社媒动向 → C级信号 → DH词库验证后升级）
+const BRAND_POOL = [
+  { label: 'Hellstar', query: 'Hellstar' },
+  { label: 'BAPE', query: 'BAPE OR "A Bathing Ape" OR "Baby Milo"' },
+  { label: 'Sp5der', query: 'Sp5der OR "Young Thug"' },
+  { label: 'Chrome Hearts', query: '"Chrome Hearts"' },
+  { label: 'Denim Tears', query: '"Denim Tears"' },
+  { label: 'Amiri', query: '"Mike Amiri" OR "Amiri jeans" OR "Amiri shirt" OR "Amiri hoodie"' },
+  { label: 'Nike Miler', query: '"Nike Miler"' },
+];
+
 // 服装领域关键词（用于过滤 X 热搜等泛数据源）
 const FASHION_KEYWORDS = [
   'fashion', 'style', 'outfit', 'ootd', 'sneaker', 'streetwear', 'runway',
@@ -180,6 +191,41 @@ async function fetchFashionYouTube() {
   return result;
 }
 
+// 2.5 品牌池动态（每个品牌单独监控，标签标明品牌）
+async function fetchBrandPool() {
+  const all = await Promise.all(BRAND_POOL.map(async brand => {
+    const items = await fetchRSS(
+      `https://news.google.com/rss/search?q=${encodeURIComponent(brand.query)}&hl=en-US&gl=US&ceid=US:en`,
+      6
+    );
+    return items.map(item => ({ ...item, brand: brand.label }));
+  }));
+
+  const flat = all.flat()
+    .filter(i => i.title)
+    .sort((a, b) => new Date(b.pubDate || 0) - new Date(a.pubDate || 0));
+
+  const seen = new Set();
+  const result = [];
+  for (const item of flat) {
+    // Google News 标题带 " - 媒体名" 后缀，拆掉
+    const idx = item.title.lastIndexOf(' - ');
+    const title = idx > 0 ? item.title.slice(0, idx) : item.title;
+    const key = title.toLowerCase().slice(0, 60);
+    if (seen.has(key)) continue;
+    seen.add(key);
+    result.push({
+      rank: result.length + 1,
+      title,
+      url: item.link,
+      hot: item.brand,
+      platform: 'brands'
+    });
+    if (result.length >= 30) break;
+  }
+  return result;
+}
+
 // 3. TikTok 时尚媒体账号（尽力而为）
 async function fetchTikTok(rssHub) {
   const all = await Promise.all(TIKTOK_ACCOUNTS.map(handle =>
@@ -253,8 +299,9 @@ async function main() {
   const rssHub = await getWorkingRSSHub();
   console.log(`📡 Using RSSHub: ${rssHub}`);
 
-  const [news, youtube, tiktok, twitter] = await Promise.all([
+  const [news, brands, youtube, tiktok, twitter] = await Promise.all([
     fetchFashionNews(),
+    fetchBrandPool(),
     fetchFashionYouTube(),
     fetchTikTok(rssHub),
     fetchTwitterFashion()
@@ -263,6 +310,7 @@ async function main() {
   const data = {
     lastUpdated: new Date().toISOString(),
     platforms: {
+      brands: { name: '品牌池动态', icon: '🔥', items: brands },
       news: { name: '行业资讯', icon: '📰', items: news },
       youtube: { name: 'YouTube 时尚频道', icon: '📺', items: youtube },
       tiktok: { name: 'TikTok 时尚', icon: '🎵', items: tiktok },
