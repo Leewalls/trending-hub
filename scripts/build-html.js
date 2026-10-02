@@ -27,9 +27,9 @@ async function buildHTML() {
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>热点聚合 - Trending Hub</title>
-  <meta name="description" content="实时聚合 X/Twitter、TikTok、Bilibili、YouTube、Instagram、微博等平台热点">
-  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🔥</text></svg>">
+  <title>服装行业雷达 - Fashion Radar</title>
+  <meta name="description" content="实时聚合服装领域的行业资讯、YouTube、TikTok、X 动态">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>👗</text></svg>">
   <style>
     :root {
       --bg-primary: #0f0f0f;
@@ -175,6 +175,7 @@ async function buildHTML() {
     .platform-header.baidu { border-left: 4px solid var(--baidu); }
     .platform-header.douyin { border-left: 4px solid var(--douyin); }
     .platform-header.toutiao { border-left: 4px solid #ff4500; }
+    .platform-header.news { border-left: 4px solid #4285f4; }
     
     .platform-icon {
       font-size: 1.5rem;
@@ -322,8 +323,8 @@ async function buildHTML() {
 </head>
 <body>
   <header class="header">
-    <h1>🔥 热点聚合 Trending Hub</h1>
-    <p class="subtitle">实时追踪全球社交媒体热门话题</p>
+    <h1>👗 服装行业雷达 Fashion Radar</h1>
+    <p class="subtitle">追踪服装领域的行业资讯与海外社媒动态</p>
     <p class="last-updated">最后更新: <span id="lastUpdated">${new Date(data.lastUpdated).toLocaleString('zh-CN', { timeZone: 'Asia/Shanghai' })}</span></p>
     <div class="refresh-notice">
       <span class="pulse"></span>
