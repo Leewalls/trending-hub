@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-02T13:36:12.403Z",
+  "lastUpdated": "2026-10-02T13:46:14.252Z",
   "platforms": {
     "brands": {
       "name": "品牌池动态",
@@ -407,6 +407,26 @@
         }
       ]
     },
+    "discovery": {
+      "name": "新品牌发现",
+      "icon": "🧭",
+      "items": [
+        {
+          "rank": 1,
+          "title": "Zara",
+          "url": "https://news.google.com/search?q=Zara%20fashion&hl=en-US",
+          "hot": "累计提及 16 次",
+          "platform": "discovery"
+        },
+        {
+          "rank": 2,
+          "title": "John Galliano",
+          "url": "https://news.google.com/search?q=John%20Galliano%20fashion&hl=en-US",
+          "hot": "累计提及 10 次",
+          "platform": "discovery"
+        }
+      ]
+    },
     "news": {
       "name": "行业资讯",
       "icon": "📰",
@@ -422,7 +442,7 @@
           "rank": 2,
           "title": "When It Comes to AI Adoption, Fashion Apparel is Ahead of the Curve",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQUg1eFlKbl9ZTFB3amFpanBYVkphd0FkZ3NDd3BwX19DMWtTZXJDSjQ4bFRBVDR2aHdoQWJWM1VPSFVBMFN6MUZiLWxqOTV2b1ZxQmtaR3huY2x2MFNTZVRsb3dYX2lvUEc2QzR5Q2xOTTZScUxEdU1zWjQ4VmVJY1Rhdk5MNTVWam41c1p3dUdDM3BYTk5zQVp6WXJBZDE2MW1SMDRPVUpFWkowdG1DdmZiRFluZUMt?oc=5",
-          "hot": "WWD",
+          "hot": "wwd.com",
           "platform": "news"
         },
         {
@@ -625,7 +645,7 @@
           "rank": 31,
           "title": "EXCLUSIVE: John Galliano’s Zara Collection Has Landed, Quietly, in a Paris Mansion",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNX3FzYXlRVE1lNU1yNVA5TFYzb3dTQWkzc1FSWjZGZktuOENKTF92dkdNaC1vLTBMMnZKVVEtOS0wVGw2QWxCUERtR0o3cnl0alpCdmNyNFl2d2lIRGJETnFiUTNXNjBkNnVBUnRjM2VhV216NmFsRjVPRjJ0TVRKVTNDYklVdThoRXphTW5pc1RFdXdaYWhLMFF3?oc=5",
-          "hot": "WWD",
+          "hot": "wwd.com",
           "platform": "news"
         },
         {
@@ -742,23 +762,23 @@
         },
         {
           "rank": 48,
-          "title": "John Galliano's Re{form} Zara Collection [PHOTOS]",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYnp1UWVHWjFSeDJjVzUzVVliVjZWT21tVXhzWkh0QWk0MmJxcU52S2RteVh3S3kxTmt3TVpBNHY3RmlTVW51b05ScUNkaDN0RDBQVTFBNGE2Y3V4MVJjS1R5Z1daMVd2N2prSWRfZEFlOHVTbXM0dG5zRjZWLXVsdC1jTkxtdzlfNmowUk5aaW9OWDN3ZDJZamNRM1BnNm9IOTQ5Sg?oc=5",
-          "hot": "WWD",
-          "platform": "news"
-        },
-        {
-          "rank": 49,
           "title": "A First Look at John Galliano’s Collection for Zara",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNM2MxZWpnYnZBRlNKRnMzZnR3RlEyQVZJZzZNOFZIREVJczVQOFJQTU5SbkdIUk5OOV92ODYyQ0ZkT3VjWW5KdHpOSHRTaG5POHFuajlYRzBPMzQwdm1QeE5yU1dDWlZPTkltWFZrbkNIOXBDbVlnRGNFQzdxdFpCOE5oR2U4MW9XZG1WZFA0SQ?oc=5",
           "hot": "The Cut",
           "platform": "news"
         },
         {
+          "rank": 49,
+          "title": "John Galliano's Re{form} Zara Collection [PHOTOS]",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYnp1UWVHWjFSeDJjVzUzVVliVjZWT21tVXhzWkh0QWk0MmJxcU52S2RteVh3S3kxTmt3TVpBNHY3RmlTVW51b05ScUNkaDN0RDBQVTFBNGE2Y3V4MVJjS1R5Z1daMVd2N2prSWRfZEFlOHVTbXM0dG5zRjZWLXVsdC1jTkxtdzlfNmowUk5aaW9OWDN3ZDJZamNRM1BnNm9IOTQ5Sg?oc=5",
+          "hot": "wwd.com",
+          "platform": "news"
+        },
+        {
           "rank": 50,
-          "title": "‘Temu Range Rover’ Is UK Best-Seller Again as Chinese Cars Boom",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWDJScUYyU0NMUlZSc20ybjR0amJRNFlheTFzQjhUSDZiX0pCMWd4RE8zS29femZ4ZHZTMEZteGMyQ1pwZS1XbFdYMFh3cTJaaFU4ZDIwaXpjZFZhQnJWeXAyTXJXYzN6ZzFUd21TZTJ0U2tWLW5HSTVnekh0a3VYNHRlbXV1dmZNV2JwcDdETXJUVjdiNWkxN1ZaYV9WTTRFRHBLQlVSb3JlaTBoblhZMVJmWjFKSDlsRzRudXYyR0xFeE9ad240?oc=5",
-          "hot": "Bloomberg.com",
+          "title": "Shein shares sink after profits disappoint in first results since IPO",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWDBOZG5aNi1yRmlvcm1LUzVFN3d5UTVmdkRKcmd4aVdJYVAxWG9reDZHZkZFMVFKWUJhckpmLUh6REVNb3FiVjh2and1anIxcDVQblI1MFI2dXI5ZWxVbEJIZWhwT0NvdTVidUZQN2phaExERC1xSFBfSmhfbDZUUDVVdDQ?oc=5",
+          "hot": "Financial Times",
           "platform": "news"
         }
       ]
