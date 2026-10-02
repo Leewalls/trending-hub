@@ -1,14 +1,14 @@
 {
+  "John Galliano": {
+    "totalMentions": 21,
+    "firstSeen": "2026-10-02T13:45:18.455Z",
+    "sample": "Review: John Galliano’s New Collection for Zara",
+    "lastSeen": "2026-10-02T18:07:44.283Z"
+  },
   "Zara": {
     "totalMentions": 16,
     "firstSeen": "2026-10-02T13:45:18.455Z",
     "sample": "Review: John Galliano’s New Collection for Zara",
     "lastSeen": "2026-10-02T13:46:14.251Z"
-  },
-  "John Galliano": {
-    "totalMentions": 15,
-    "firstSeen": "2026-10-02T13:45:18.455Z",
-    "sample": "Review: John Galliano’s New Collection for Zara",
-    "lastSeen": "2026-10-02T14:05:31.642Z"
   }
 }
