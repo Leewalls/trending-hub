@@ -303,7 +303,7 @@ async function fetchBrandPool() {
   const all = await Promise.all(BRAND_POOL.map(async brand => {
     const items = await fetchRSS(
       `https://news.google.com/rss/search?q=${encodeURIComponent(brand.query)}&hl=en-US&gl=US&ceid=US:en`,
-      12
+      8
     );
     return items.map(item => ({
       ...item,
