@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-02T13:22:25.207Z",
+  "lastUpdated": "2026-10-02T13:36:12.403Z",
   "platforms": {
     "brands": {
       "name": "品牌池动态",
@@ -10,6 +10,9 @@
           "title": "BAPE Manhunt Tabi “Blue” Is Now Available in Japan",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBIOV9vTVhySlhqVExZeG5OemV1SHVGM19ZS2JOVVBzWktKcEZjT2VqR1dFdy1QRnJia2U4YWFvbWtIZTlYRDJZUWNHU05SM2VWMWZQLUlURVMzN2lPRlJV?oc=5",
           "hot": "BAPE",
+          "category": "日系潮牌",
+          "dh_verified": true,
+          "pubDate": "Thu, 01 Oct 2026 18:07:35 GMT",
           "platform": "brands"
         },
         {
@@ -17,6 +20,9 @@
           "title": "Hellstar Gives the adidas Megaride S2 a Black and Red Makeover",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ29lZmdESUhpVzZ5aWZoU2dMaGVBUUs4RlNzM2Jmb1FmX3ZQY3ptZzhZX1BzUm9PdzBQNWtxOHkxRV8tOGVGZjJTTjRNQXRMT1FNLVVmOUpyY0hkQVFpaFhOVmZURG51bXNUc2xraHhjRkdEVmVBTDNiZVk3TW9VZUg0UVlBOFdfa2FFMDBNN3JMOWZ3SzltYmNia0xxMHNQT3Z0ZXdyVVFMajEwQVE?oc=5",
           "hot": "Hellstar",
+          "category": "街头潮牌",
+          "dh_verified": true,
+          "pubDate": "Thu, 01 Oct 2026 18:00:41 GMT",
           "platform": "brands"
         },
         {
@@ -24,6 +30,9 @@
           "title": "As a runner, these 5 new Nike releases are helping me transition into fall training",
           "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZWhfNVlobkRzT1Y3R1pQdXUzY18xXzhxSGlZS3gtSFNYSVlKaWF5WTFmOTFEZ0V1cUpiVDNqaTRseXZIRmp6ekN4SXkzMjBNaDhlTS1xekZvU3FtaDJtdk9NdF9EVG1taHNXVlEweEtLczVJV2s3RjBoekRENXZ2b3NQT09kX1RLTThXbHNaVlhSSERrS0hHdW10c085REJsNkVYeUtDeEtURzIwazV6T0g3VU1hVjRhU0g0ZTN6aHpOR2lOZEkzSEpMUU1nV05DM1MtZ2hLZGQzc28?oc=5",
           "hot": "Nike Miler",
+          "category": "运动套装",
+          "dh_verified": true,
+          "pubDate": "Thu, 01 Oct 2026 12:05:00 GMT",
           "platform": "brands"
         },
         {
@@ -31,188 +40,369 @@
           "title": "Denim Tears Returns to Its André Leon Talley Collection With a Third Drop",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUHgya2JDNzBXT19YelRZNlhCVlJBLUg5U21zZHo0cDZKZU5TczNoYS1WUHpmRWJjQVdQZEh0aTRYbG5zSi12cXloSmp4VFRTWDNNYzBEdFZ0ZmlmMzQ1em1BUWdGLVFBdWFXdURHQm9wdWF1WlcybVJkdEFBcWFESkRaT1BPQ21HUzJyVA?oc=5",
           "hot": "Denim Tears",
+          "category": "设计师潮牌",
+          "dh_verified": true,
+          "pubDate": "Thu, 01 Oct 2026 06:00:29 GMT",
           "platform": "brands"
         },
         {
           "rank": 5,
-          "title": "Teen Reseller Says He Moves $20 Million in Chrome Hearts a Year",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaTZPMzhuQWFGamZuRk5ZcHJZS3dzVmVCRHI3T1Jib0x2cXJZcHR3YnZReVBWTVdPWVJMRWNYMU1xRWdFV0wyV05LZEpLUnE3T0kzQmtIQ2lqbFFDT29za3FlQXVyZU1HczdtZmd0eWEwRTVMRHZTaHRRRzJqV3J1ai1WOVU0STdWS3E4WUVn?oc=5",
-          "hot": "Chrome Hearts",
+          "title": "BAPE Sta “Future” 25th Anniversary Releases October 3",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nTnJMVmd2QU9TQUtPWnhobDMyS2lNTWgtRFNmU2szZUNBdWYzeW55Z3pjRUlLeHVubHdBNVlLN2Exa2FIbDVJTW9Rd3E0NVZwd3hxaHpENTVrWEM5eVJNNzJ1OFM4WVlBWnA0Sw?oc=5",
+          "hot": "BAPE",
+          "category": "日系潮牌",
+          "dh_verified": true,
+          "pubDate": "Wed, 30 Sep 2026 22:52:23 GMT",
           "platform": "brands"
         },
         {
           "rank": 6,
-          "title": "Young Thug Announces The New Generation Tour With U.S. and European Dates",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaVN4Z2IwTUZTTlcxX0ZBRzR1RXVpYUc0QUlCNVVGaUxPM0J6UXB2MXdYS1V2QVpLYThRdFRIVEphREtzWmdHYndRazRkSnJ3aFM1cV9WQmVNNThmYW1FLUIxd0hSTkdGSnB4ZUx1dXZQa2FmNUh1QWNfMUpZZGZabGJ6Sncyb053UG5SVjhtQmN5dml0ckhWdzZMRzdwRzFuOGIyb2M1YTBCenFQ?oc=5",
-          "hot": "Sp5der",
+          "title": "A Bathing Ape Marks 25th Anniversary Of The Bape Sta At ComplexCon",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeGd1LVhlQmxMbTVkWkkyQi1IYTl3QUhjYzdOMk96WFZjQW1xQjR3cHY2Y29UYTlpRXg3TFdMcy1BNk9HTUI5Wk9keDhWVU9JMlRjNmpuN3J4SkJGcnZIRkdZd0NZUGFJNjA1X0gtX20zM013VC1tVTMtSzExZnpCSG9PUlHSAYQBQVVfeXFMTnhndS1YZUJsTG01ZFpJMkItSGE5d0FIY2M3TjJPelhWY0FtcUI0d3B2NmNvVGE5aUV4N0xXTHMtQTZPR01COVpPZHg4VlVPSTJUYzZqbjdyeEpCRnJ2SEZHWXdDWVBhSTYwNV9ILV9tMzNNd1QtbVUzLUsxMWZ6QkhvT1JR?oc=5",
+          "hot": "BAPE",
+          "category": "日系潮牌",
+          "dh_verified": true,
+          "pubDate": "Wed, 30 Sep 2026 21:00:53 GMT",
           "platform": "brands"
         },
         {
           "rank": 7,
-          "title": "The Chrome Hearts Hustle",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1iM2hyLW9wSWhKVlZzMXNnQ0VJR3pndHFSWnNqYUdQTzREOFM5SDJldXJsR3EySllROTRLVlNDc2tHX2x3NXJpUWs5SWJVcG5nZnVOV1AyRnhmal9ybFNOUUY3M2JtTTdYT3VB?oc=5",
+          "title": "Teen Reseller Says He Moves $20 Million in Chrome Hearts a Year",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaTZPMzhuQWFGamZuRk5ZcHJZS3dzVmVCRHI3T1Jib0x2cXJZcHR3YnZReVBWTVdPWVJMRWNYMU1xRWdFV0wyV05LZEpLUnE3T0kzQmtIQ2lqbFFDT29za3FlQXVyZU1HczdtZmd0eWEwRTVMRHZTaHRRRzJqV3J1ai1WOVU0STdWS3E4WUVn?oc=5",
           "hot": "Chrome Hearts",
+          "category": "高端银饰/潮牌",
+          "dh_verified": true,
+          "pubDate": "Wed, 30 Sep 2026 20:52:55 GMT",
           "platform": "brands"
         },
         {
           "rank": 8,
-          "title": "LNGSHOT Fronts AAPE’s FW26 Campaign",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kSXY1bVc0Q2hMekZfX3NKTHQ4RnBNc3J4ajdlZjF3QUVadGw2NGhtQWtuVU1meU5YeFpPSi1DX2htazlzbHNiNXVmdUFnNldNSDF3VXhLVTlORnROZ3NuVWtiSFhxU0RGYmZJYXFudzFLVmQyNnJva3prMmNzUkU?oc=5",
-          "hot": "BAPE",
+          "title": "Young Thug Announces The New Generation Tour With U.S. and European Dates",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaVN4Z2IwTUZTTlcxX0ZBRzR1RXVpYUc0QUlCNVVGaUxPM0J6UXB2MXdYS1V2QVpLYThRdFRIVEphREtzWmdHYndRazRkSnJ3aFM1cV9WQmVNNThmYW1FLUIxd0hSTkdGSnB4ZUx1dXZQa2FmNUh1QWNfMUpZZGZabGJ6Sncyb053UG5SVjhtQmN5dml0ckhWdzZMRzdwRzFuOGIyb2M1YTBCenFQ?oc=5",
+          "hot": "Sp5der",
+          "category": "街头潮牌",
+          "dh_verified": true,
+          "pubDate": "Wed, 30 Sep 2026 20:10:02 GMT",
           "platform": "brands"
         },
         {
           "rank": 9,
-          "title": "Sp5der Hoodies: How a Web-Print Streetwear Label Became Pop Culture's Favorite Flex The Hype Magazine: Unveiling the Pulse of Urban Culture - From Hip Hop to Hollywood! Explore a Diverse Tapestry of Stories, Interviews, and Impactful Editorials Spann",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNGpIUktyOFRQckJCVzkwb0lEZ1ZVdHdZdUtzblBHcl9WblNrOTBiQURSLWxrUmhQSWRJM2ZxOHZLWmJDOXdPRXVnTjNjZldEMmdhSGxYai1WU1NuVWJ5Mm9BdlBpZ000S05jUC1PUndVTGJDYkVMcXZ6ZVRFaHloWEtDVkE5a25HS1JDajJwM1V5eXZFdVhlRXU1a2xhQjNZdTg4UlFEQmhZaUdNbmU4X0syV2tieHNneWpmdHZrZUs3VTA?oc=5",
-          "hot": "Sp5der",
+          "title": "The Chrome Hearts Hustle",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1iM2hyLW9wSWhKVlZzMXNnQ0VJR3pndHFSWnNqYUdQTzREOFM5SDJldXJsR3EySllROTRLVlNDc2tHX2x3NXJpUWs5SWJVcG5nZnVOV1AyRnhmal9ybFNOUUY3M2JtTTdYT3VB?oc=5",
+          "hot": "Chrome Hearts",
+          "category": "高端银饰/潮牌",
+          "dh_verified": true,
+          "pubDate": "Wed, 30 Sep 2026 11:00:27 GMT",
           "platform": "brands"
         },
         {
           "rank": 10,
-          "title": "Young Thug Insists He Would Have Died for Rich Homie Quan, Admits He Messed Up",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wQVJkVVZDSHRGZGlwekIwbnNvMVRaSmdNaDFZcHhSYmJsdzVRRHlhWXc0cUFja09HZkx1SzBYSmtrM1FsTFoxa0pTZy1VcWJobENSMnQ5UGZUcjZ5a2NaM3BjWDRNek1SZ3g1SUk2cTh3dmNjdEg4UA?oc=5",
-          "hot": "Sp5der",
+          "title": "LNGSHOT Fronts AAPE’s FW26 Campaign",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kSXY1bVc0Q2hMekZfX3NKTHQ4RnBNc3J4ajdlZjF3QUVadGw2NGhtQWtuVU1meU5YeFpPSi1DX2htazlzbHNiNXVmdUFnNldNSDF3VXhLVTlORnROZ3NuVWtiSFhxU0RGYmZJYXFudzFLVmQyNnJva3prMmNzUkU?oc=5",
+          "hot": "BAPE",
+          "category": "日系潮牌",
+          "dh_verified": true,
+          "pubDate": "Wed, 30 Sep 2026 06:47:27 GMT",
           "platform": "brands"
         },
         {
           "rank": 11,
-          "title": "HELLSTAR x adidas Megaride S2 Returns in Black/Red",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wampmS09TTEw1emt1OTQwSXBta1lxMHNFdklVSmJBVjhvM1hhRkd0aWRjamRqZnpDUXdIY1VwdWVxa2U5RzBpYTJnSXFEQVRRVHJ0NkVwT2ZyNmZNZVRza2Q1ZF9IaTJaaUJFbElwVU9zZnNyT3p3Mw?oc=5",
-          "hot": "Hellstar",
+          "title": "Sp5der Hoodies: How a Web-Print Streetwear Label Became Pop Culture's Favorite Flex The Hype Magazine: Unveiling the Pulse of Urban Culture - From Hip Hop to Hollywood! Explore a Diverse Tapestry of Stories, Interviews, and Impactful Editorials Spann",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNGpIUktyOFRQckJCVzkwb0lEZ1ZVdHdZdUtzblBHcl9WblNrOTBiQURSLWxrUmhQSWRJM2ZxOHZLWmJDOXdPRXVnTjNjZldEMmdhSGxYai1WU1NuVWJ5Mm9BdlBpZ000S05jUC1PUndVTGJDYkVMcXZ6ZVRFaHloWEtDVkE5a25HS1JDajJwM1V5eXZFdVhlRXU1a2xhQjNZdTg4UlFEQmhZaUdNbmU4X0syV2tieHNneWpmdHZrZUs3VTA?oc=5",
+          "hot": "Sp5der",
+          "category": "街头潮牌",
+          "dh_verified": true,
+          "pubDate": "Tue, 29 Sep 2026 08:10:20 GMT",
           "platform": "brands"
         },
         {
           "rank": 12,
-          "title": "BAPE x Crocs Echo Clog 2 Dropping In October",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9xVDRmUVJPR3Y1dVBBVThkeWpORVhEV3ptandhTXNtNGRUUVpSdWFleVZrNnhUWk1rY0pIbXNoNExUdEZUWFpqSFZmT0RkRVFJMWZJMjJ6QjBwOUZXczU2cG0wTVdJV0pScmJBWmJMaWhSc0Y4MWN2VGlTd9IBe0FVX3lxTE9xVDRmUVJPR3Y1dVBBVThkeWpORVhEV3ptandhTXNtNGRUUVpSdWFleVZrNnhUWk1rY0pIbXNoNExUdEZUWFpqSFZmT0RkRVFJMWZJMjJ6QjBwOUZXczU2cG0wTVdJV0pScmJBWmJMaWhSc0Y4MWN2VGlTdw?oc=5",
-          "hot": "BAPE",
+          "title": "Young Thug Insists He Would Have Died for Rich Homie Quan, Admits He Messed Up",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wQVJkVVZDSHRGZGlwekIwbnNvMVRaSmdNaDFZcHhSYmJsdzVRRHlhWXc0cUFja09HZkx1SzBYSmtrM1FsTFoxa0pTZy1VcWJobENSMnQ5UGZUcjZ5a2NaM3BjWDRNek1SZ3g1SUk2cTh3dmNjdEg4UA?oc=5",
+          "hot": "Sp5der",
+          "category": "街头潮牌",
+          "dh_verified": true,
+          "pubDate": "Mon, 28 Sep 2026 23:09:42 GMT",
           "platform": "brands"
         },
         {
           "rank": 13,
-          "title": "BAPE and Crocs are Back with More Camo on a New Set of Echo Clog 2s",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVlZmLXV1TnlzLTUyS3VyNlp6cDBzckhEMzk3dEdpVzVLYzE1ZVRxbFI0eWZNSGFMQnoybHRHUE9QLXozR1hHYWgyN2pLZC1DWmRwV1lnakZzQ3NkeWliVUpvZjNuc1NjdGxDODVhRWo0cnJlTzZpcjIwYzlrU0ZnVW1JWFdickJXTi1aa1o2cEU2dmtYVUhr?oc=5",
-          "hot": "BAPE",
+          "title": "HELLSTAR x adidas Megaride S2 Returns in Black/Red",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wampmS09TTEw1emt1OTQwSXBta1lxMHNFdklVSmJBVjhvM1hhRkd0aWRjamRqZnpDUXdIY1VwdWVxa2U5RzBpYTJnSXFEQVRRVHJ0NkVwT2ZyNmZNZVRza2Q1ZF9IaTJaaUJFbElwVU9zZnNyT3p3Mw?oc=5",
+          "hot": "Hellstar",
+          "category": "街头潮牌",
+          "dh_verified": true,
+          "pubDate": "Mon, 28 Sep 2026 20:50:52 GMT",
           "platform": "brands"
         },
         {
           "rank": 14,
-          "title": "Young Thug Fan Reportedly Figured Out How Text Rapper While He Was in Jail",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPd3lxWVV4VGVXZWdzUkZPMlN1dElzM0NqT2x6YmtfbzdhS1dtUjRtdWdZLWQwVFVBdTRRSWNfYXg3OWROWXZ4bXFmc1c3V2V3N2c0aXVvbHNxWUF4eFhIN1pVUDd1QzRfYWRrMU0wc0tkX1pXaDUzNGxGMnhqd1o1ZjZaaTJnNWNyWGpxMVNCWjVIbjlPbTNSUndXU2pLM3da?oc=5",
-          "hot": "Sp5der",
+          "title": "BAPE x Crocs Echo Clog 2 Dropping In October",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9xVDRmUVJPR3Y1dVBBVThkeWpORVhEV3ptandhTXNtNGRUUVpSdWFleVZrNnhUWk1rY0pIbXNoNExUdEZUWFpqSFZmT0RkRVFJMWZJMjJ6QjBwOUZXczU2cG0wTVdJV0pScmJBWmJMaWhSc0Y4MWN2VGlTd9IBe0FVX3lxTE9xVDRmUVJPR3Y1dVBBVThkeWpORVhEV3ptandhTXNtNGRUUVpSdWFleVZrNnhUWk1rY0pIbXNoNExUdEZUWFpqSFZmT0RkRVFJMWZJMjJ6QjBwOUZXczU2cG0wTVdJV0pScmJBWmJMaWhSc0Y4MWN2VGlTdw?oc=5",
+          "hot": "BAPE",
+          "category": "日系潮牌",
+          "dh_verified": true,
+          "pubDate": "Mon, 28 Sep 2026 17:30:26 GMT",
           "platform": "brands"
         },
         {
           "rank": 15,
-          "title": "BAPE® x Disney’s Stitch Collection Expected October 3",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5PY0hrSjZqV0lpOW91Z3VlVFRfenlmc2N3a2U3MHRXNnB3MWJFTDRWaEZCZzV6WFhzYjV5bGZfeGVpUnE2UWpPWnBiSkFVWUpDX29OeHpmYTlpakFiTVM0V3ltQ09McmRfS1ZTeTBBc2kzZElOd29xUHZR?oc=5",
+          "title": "BAPE and Crocs are Back with More Camo on a New Set of Echo Clog 2s",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVlZmLXV1TnlzLTUyS3VyNlp6cDBzckhEMzk3dEdpVzVLYzE1ZVRxbFI0eWZNSGFMQnoybHRHUE9QLXozR1hHYWgyN2pLZC1DWmRwV1lnakZzQ3NkeWliVUpvZjNuc1NjdGxDODVhRWo0cnJlTzZpcjIwYzlrU0ZnVW1JWFdickJXTi1aa1o2cEU2dmtYVUhr?oc=5",
           "hot": "BAPE",
+          "category": "日系潮牌",
+          "dh_verified": true,
+          "pubDate": "Mon, 28 Sep 2026 15:30:01 GMT",
           "platform": "brands"
         },
         {
           "rank": 16,
-          "title": "BAPE®︎ x Crocs Echo 2 Clog Surfaces in Two Camo Colorways",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNa01yVzR4cVZacHlzZnVnbzJkeVBDY19KMnlSWXYzSkpYaGtyUjFNRG9EWnRQUE5veEZXR1A4Mm5VQXR2OVJ1TVlEM3VPMjRta1RheUhfRDF1UVZHQzBYY3BLU3hJTDc3TV9CLVlpX0RXTUo3Mm1hNkprVDRYVDQtaWc0VHBmNlhpQ1k2dDZjWQ?oc=5",
-          "hot": "BAPE",
+          "title": "Farm Aid 2026: Backstage and Onstage With Neil Young, Nathaniel Rateliff, More",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPelFRdTJNS2lhQTZoYWRQZ2s1SHpoVWlCbVE5RkZDTEpIaTMtaEg3SUVSSU5yb3oxNVJHY1JSTUlsenZPTjJMZE5QWU1Sc3FPV2drX1Zkd3J1RDV0ZzI4bm03N05WT3NNZm9uZExSWHFGcjFvWjdzLTlUcVJyODBMQktvbGJNMnd3dHh2cy1kVHV4cllBamMwMg?oc=5",
+          "hot": "Chrome Hearts",
+          "category": "高端银饰/潮牌",
+          "dh_verified": true,
+          "pubDate": "Mon, 28 Sep 2026 14:59:30 GMT",
           "platform": "brands"
         },
         {
           "rank": 17,
-          "title": "Denim Tears x adidas Superstar 82 and Stan Smith 80 Releasing November 2026",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdS1PcjFkUGtmcm9KeWFMY0pBSEUtd3YtS0F2OUstQlo5SDdrNlU2UE9yUjliUFhGcEYtOGdRdmQtVWJBeXVFNEozWGxxcFhtai1uRmJ5ZXFERkZaOFdual8yRlZXbjVmVFJzeWNBQ0ItVnF4Nm1RSS1FSTAtWXJmTkw0NmVYdHFoT2I1ZnlsVDY4dWo2dmc?oc=5",
-          "hot": "Denim Tears",
+          "title": "Monday 9/28: Neil Young & the Chrome Hearts – Second Song",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZzJkMjhPQWpQMkkwRGJjSDcyR3hHY1dWVnNNdjlTZ1J6SVZDLWVzQTBkZ3RTTXF6d3Y5VmwwZlNIMUhvYVdCMmtsSm9EMHBRYlNERkt1ZTd6OWdSdWVuQURLRVQwVnJMemNvNl92dkVsSDFsOEJmeG9FZ0ZMeVFHNjZuWnlyR1BjYUw4RWZWd0UwS2JzUmM3RVpuUE02dE9rcUNyOERqbDNnZw?oc=5",
+          "hot": "Chrome Hearts",
+          "category": "高端银饰/潮牌",
+          "dh_verified": true,
+          "pubDate": "Mon, 28 Sep 2026 12:48:00 GMT",
           "platform": "brands"
         },
         {
           "rank": 18,
-          "title": "Neil Young And The Chrome Hearts Stretch Six Decades Of Songs Across 'As Time Explodes'",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUFFmbzB1QmlUdVpjT2ppLTVMUU9kQUVpZDRNd3NQYmk4ZlE2dnlBQ2pDaUhodnNyS0xJQVVQbENFS1AyRFFkZjlrZzBDX2trOHQ4QUtFa3h1S3FqMmRNZmdnTmxMUEF1b0dURFZLSDRDaGNmNGQ4azB2eTJaWHVubnpwZ0Z1Z1VqYlRrcFNYTm8yVmFGZUtfMHctMzVybU05NHRiLUhERXFuV2JtaHcwNUJ1Y2hnS3ViSm0tMDZUUU16c3RCc0E?oc=5",
-          "hot": "Chrome Hearts",
+          "title": "Young Thug Fan Reportedly Figured Out How Text Rapper While He Was in Jail",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPd3lxWVV4VGVXZWdzUkZPMlN1dElzM0NqT2x6YmtfbzdhS1dtUjRtdWdZLWQwVFVBdTRRSWNfYXg3OWROWXZ4bXFmc1c3V2V3N2c0aXVvbHNxWUF4eFhIN1pVUDd1QzRfYWRrMU0wc0tkX1pXaDUzNGxGMnhqd1o1ZjZaaTJnNWNyWGpxMVNCWjVIbjlPbTNSUndXU2pLM3da?oc=5",
+          "hot": "Sp5der",
+          "category": "街头潮牌",
+          "dh_verified": true,
+          "pubDate": "Sun, 27 Sep 2026 22:34:47 GMT",
           "platform": "brands"
         },
         {
           "rank": 19,
-          "title": "New Arrivals From HBX: Hellstar",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE42SWdpa3lqcFRaaUJvTnhGQ0ItTUQzUlpwSE5lYXRVQ0hfRkZzZTZrMFZxeVNqNEk1eWhpdHZITVc0NnhSLV94QlRvSl9oOU1yX2F2YU1nSmZ3QmdDYWYtUGZUclo1b1BtbWpWWlNR?oc=5",
-          "hot": "Hellstar",
+          "title": "BAPE® x Disney’s Stitch Collection Expected October 3",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5PY0hrSjZqV0lpOW91Z3VlVFRfenlmc2N3a2U3MHRXNnB3MWJFTDRWaEZCZzV6WFhzYjV5bGZfeGVpUnE2UWpPWnBiSkFVWUpDX29OeHpmYTlpakFiTVM0V3ltQ09McmRfS1ZTeTBBc2kzZElOd29xUHZR?oc=5",
+          "hot": "BAPE",
+          "category": "日系潮牌",
+          "dh_verified": true,
+          "pubDate": "Sun, 27 Sep 2026 21:51:11 GMT",
           "platform": "brands"
         },
         {
           "rank": 20,
-          "title": "Neil Young Reunites With The Chrome Hearts For His First Announced Show In Nearly A Year",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWFd4eUpMWGZkY1Q0YjNHSmltcjhrNi1ndVhwX041NEpUMGVCUDNUSzg3dnhqXzNjZXdxVFBpQlpLZGxhal9Ib2ktME5KWFp3Vm1yWFVsU2ZnaTlSVVJudmxmdmk0ZmJBdFV1MTNjblkxdWw4M1ZaX3RIQ1J5azByLXBkOHNUeV9fSHhLb1pB?oc=5",
-          "hot": "Chrome Hearts",
+          "title": "BAPE®︎ x Crocs Echo 2 Clog Surfaces in Two Camo Colorways",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNa01yVzR4cVZacHlzZnVnbzJkeVBDY19KMnlSWXYzSkpYaGtyUjFNRG9EWnRQUE5veEZXR1A4Mm5VQXR2OVJ1TVlEM3VPMjRta1RheUhfRDF1UVZHQzBYY3BLU3hJTDc3TV9CLVlpX0RXTUo3Mm1hNkprVDRYVDQtaWc0VHBmNlhpQ1k2dDZjWQ?oc=5",
+          "hot": "BAPE",
+          "category": "日系潮牌",
+          "dh_verified": true,
+          "pubDate": "Sun, 27 Sep 2026 19:24:22 GMT",
           "platform": "brands"
         },
         {
           "rank": 21,
-          "title": "Young Thug mentors Atlanta teens, shares message about guns and faith",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTzlUbGZVc3locDROLXFBc1NFZW9PZUZTdC11QXpNSmVZZjJVamlzTkpqaERRN005V292VFRhMlk5WVVsRnlPYW8xTTVfME5zc29MaTQ0OU1QS0V6RThERW8wN2RpbWEwOEJFRjRERlVObjB6WVlzVW9LTDJkbUR5UDJ0RjVxUlJObS1KTHc3RlltQUJWc1dHWlZlbWdoQk5YcWhyZC1ubl85Zw?oc=5",
-          "hot": "Sp5der",
+          "title": "Denim Tears x adidas Superstar 82 and Stan Smith 80 Releasing November 2026",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdS1PcjFkUGtmcm9KeWFMY0pBSEUtd3YtS0F2OUstQlo5SDdrNlU2UE9yUjliUFhGcEYtOGdRdmQtVWJBeXVFNEozWGxxcFhtai1uRmJ5ZXFERkZaOFdual8yRlZXbjVmVFJzeWNBQ0ItVnF4Nm1RSS1FSTAtWXJmTkw0NmVYdHFoT2I1ZnlsVDY4dWo2dmc?oc=5",
+          "hot": "Denim Tears",
+          "category": "设计师潮牌",
+          "dh_verified": true,
+          "pubDate": "Sun, 27 Sep 2026 07:56:28 GMT",
           "platform": "brands"
         },
         {
           "rank": 22,
-          "title": "Denim Tears Is Releasing a New Perfume With Comme Des Garçons",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOHltMmlJZlp0WDZ3YlozQXJqeE1qSE9XMkxoZ0xIenViRlRGNXY3Q1dXYmlVekRmUnl4Z19PUnJDYVdXTEZaMGdRU2wxbkhVTmZkaWhQbHdfUXpuRS1rOUJJYnllckpFdmt6M3VxMERrWGY4QWNKUGxUbVFIMW4tOEVhVlc1c0NvOENScGZuRnoyODlTbkh6OWdyOUw1NVFLNGxEb25n?oc=5",
-          "hot": "Denim Tears",
+          "title": "Neil Young And The Chrome Hearts Stretch Six Decades Of Songs Across 'As Time Explodes'",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUFFmbzB1QmlUdVpjT2ppLTVMUU9kQUVpZDRNd3NQYmk4ZlE2dnlBQ2pDaUhodnNyS0xJQVVQbENFS1AyRFFkZjlrZzBDX2trOHQ4QUtFa3h1S3FqMmRNZmdnTmxMUEF1b0dURFZLSDRDaGNmNGQ4azB2eTJaWHVubnpwZ0Z1Z1VqYlRrcFNYTm8yVmFGZUtfMHctMzVybU05NHRiLUhERXFuV2JtaHcwNUJ1Y2hnS3ViSm0tMDZUUU16c3RCc0E?oc=5",
+          "hot": "Chrome Hearts",
+          "category": "高端银饰/潮牌",
+          "dh_verified": true,
+          "pubDate": "Sat, 26 Sep 2026 16:13:10 GMT",
           "platform": "brands"
         },
         {
           "rank": 23,
-          "title": "Neil Young / The Chrome Hearts: Second Song Album Review",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUWlhN3kyWW5vX2l2NnhRVnVKaTB2U1ZIRDJuSHY5SlJqSnAzZnFEUVc4Qjg4UUk4RnRyeWNqRW53OWVuaE1wbWl5MzJ2OFVSUHgwakRwT25zS2FjSzFCSmNLUk5jWlZwRk5CckdVWGdaQU44Zm04M29rLTNadnR4c01HaGFsRTJBWlE?oc=5",
-          "hot": "Chrome Hearts",
+          "title": "New Arrivals From HBX: Hellstar",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE42SWdpa3lqcFRaaUJvTnhGQ0ItTUQzUlpwSE5lYXRVQ0hfRkZzZTZrMFZxeVNqNEk1eWhpdHZITVc0NnhSLV94QlRvSl9oOU1yX2F2YU1nSmZ3QmdDYWYtUGZUclo1b1BtbWpWWlNR?oc=5",
+          "hot": "Hellstar",
+          "category": "街头潮牌",
+          "dh_verified": true,
+          "pubDate": "Sat, 26 Sep 2026 14:06:09 GMT",
           "platform": "brands"
         },
         {
           "rank": 24,
-          "title": "Mike Amiri, special guest at the Fashion Forum’s new format",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZjFkQndFam5iZ0phdjJ2ZHp2SVpiTVk3dHhocHA4ZEpWM09CVWg0Q2ZBWnY2NzRRVW1fdURSN1I2NndiZjQtYVRSckFISFNEM2QwSFhNRWFFVmFtXzRBVWhIZmI1X0ZpbGJQY2h0RGUzUzFrdHF4OVZRbmpyQXVYb2FBV2dLbU9xWFROdlB3VUo0bzVxeWhmMktDVlRtT0NKSGQteUw4dmx5QQ?oc=5",
-          "hot": "Amiri",
+          "title": "Neil Young & the Chrome Hearts: Second Song",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5qNkxZZTB5WmlwMnVFTDd2WE9vTm9KbjE0SFRpQVZyNFNSVkJVOEU2Mk5ISnFMRjdoSFhYVW9iLXk0SU1HeGF3WThkSDVTVVN2WE1kWkZvSmwwcmlaRU5QdFRET0pnTHpacVNkZzVEM1I0QUZJWnkxQm9KREM4dw?oc=5",
+          "hot": "Chrome Hearts",
+          "category": "高端银饰/潮牌",
+          "dh_verified": true,
+          "pubDate": "Fri, 25 Sep 2026 13:36:00 GMT",
           "platform": "brands"
         },
         {
           "rank": 25,
-          "title": "Meet the Chrome Hearts Collector Who Amassed a Collection So Large He Had to Open His Own Store",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTdzdqbFE2ak1ZRXF1VmJ3eVhyemJkcHpFemVka1BVMTZrSGhHejBnS2NRYWR0dXlPNldVeXdyb0lKOTRqZTVQeDBybUxoU0JpVFBnRGN1aWN3emJIWDZfeVJ0LUM0TGtfdzV6MHZXQXZseDNMVjhBQ0pPSE4?oc=5",
+          "title": "Neil Young Reunites With The Chrome Hearts For His First Announced Show In Nearly A Year",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWFd4eUpMWGZkY1Q0YjNHSmltcjhrNi1ndVhwX041NEpUMGVCUDNUSzg3dnhqXzNjZXdxVFBpQlpLZGxhal9Ib2ktME5KWFp3Vm1yWFVsU2ZnaTlSVVJudmxmdmk0ZmJBdFV1MTNjblkxdWw4M1ZaX3RIQ1J5azByLXBkOHNUeV9fSHhLb1pB?oc=5",
           "hot": "Chrome Hearts",
+          "category": "高端银饰/潮牌",
+          "dh_verified": true,
+          "pubDate": "Thu, 24 Sep 2026 15:20:47 GMT",
           "platform": "brands"
         },
         {
           "rank": 26,
-          "title": "Denim Tears x COMME des GARÇONS Parfums Bottles the Smell of Cotton for Its \"Tears\" Eau de Parfum",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdThyMU0zbWpmdVhlYnlZSk1fNE5SeWRFVlpDMmJfclRCd3Rnd0lwVFNZYm9SbklDUVNqbFpVUW5qYlBQS0RxYlVVLTVZenR4ZWtkZEpJWDFJa3oyajZxb3lvUFl2QWRyWUtjRTRFNFJGNEpfV2RaQU13T1NlU1RNTzcwN1JWeERmMnZBRGFJaENtaUF6QnJEbzhFZkd5cVJC?oc=5",
+          "title": "Denim Tears x adidas Originals Drops November 2026",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNclh2V0xBWXdMbEM2bk5IejFLc1BXZmlXUmx6YWNMdnhlaUNFMlFBc3dWczAwUEkydEVxR2xQUEZvaXFPQktWYllVdC02N1lNcWMxQkduQnlwUzZBUnlUN1lFZmptbk5zTXJWN2F6bXVOM21ZVnlXQUFudkcxalpOUlJQNXc3U0FhVGxlWFNCQmY3Zw?oc=5",
           "hot": "Denim Tears",
+          "category": "设计师潮牌",
+          "dh_verified": true,
+          "pubDate": "Wed, 23 Sep 2026 20:58:50 GMT",
           "platform": "brands"
         },
         {
           "rank": 27,
-          "title": "Denim Tears Debuts Fragrance With Comme des Garçons Parfums",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbm9qMm9IcDhMMFhHRVFzOVNmZnlGOGpHYUx6YjdONGpQYjhUZ24zOFVvRlVVQkpaNnpmcWJ1dzZCX3NYX1dwbFYzaHczdTFRN3lxcmRuUkpzVU5pN2pRRU15czN4dGlId3FjekhmQTVndExCTkJFZWtGWWdmVU1HaVRyUzY4VDVwZ0lKWWZ4azh1ZUpMWjB6R0NEWEg0VWFvcmp2dFlGSEpLN0pi?oc=5",
-          "hot": "Denim Tears",
+          "title": "Neil Young Returns to the Stage with The Chrome Hearts, Joins Willie Nelson in Bridgeport",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeWhkYXA3Y05yM2l2Qng3NWZBSXdHeEFuSG05UXY4MEYzUlhwOE94Y1owMjJYSzdRNlRPTzhLV1dEcW00NjRuZHAxdEZXNjNrZXllSnNBcm14cmZ1czB4MTJ4RmVMM21iQlA2YUZOc1cxY3ZINGxDS29LSXV5ekJRS29VdV9MQlNQTWtIeldPWUhITTRNSWd3YkpIRHYwZzlGNVkzaHdWeG04OGNxWkF6R2RMTmFXTkRhZmh5SXZCY2xFc1JQ?oc=5",
+          "hot": "Chrome Hearts",
+          "category": "高端银饰/潮牌",
+          "dh_verified": true,
+          "pubDate": "Wed, 23 Sep 2026 16:35:33 GMT",
           "platform": "brands"
         },
         {
           "rank": 28,
-          "title": "Mike Amiri Talks Life in Paris, New Neighbor Celine Dion and Growth Ambitions",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ2VwMHB5cjJJSW56aEZCUkppQjU1djJhOUJ4NG9qUEUzOFpWVlJQSnI0SGxSRi1GZUVnaERkVnQ3cnFoSy04UXdITEZSWkhMRW5neDkzOUJlYWdjVnpEVlFMUjNvOTYzSGRFNHNZOENiMEIxX0lzY0lkVmI0b2Z6cHVnUWJFb3lMcDV3emp4UzI3Q3lkeVNfcllta0x6anVMTzMybDZzeEdLSVg0cDlYb2kyNkQ?oc=5",
-          "hot": "Amiri",
+          "title": "Young Thug Connects With Howard’s Next Generation of Music Professionals",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNM0xoT0h3bU1EUnFnaTV5RUZ2dmhBRW1oM18xeHIxX19MamhyUm03SmQ2RlJhQXN4aTZ0MTdpam5nM1hRZ2Q2YW9uZEUxN3ZtOXFjS3BCODdQMnc0YVNhdmc4R3gyNy1nQVdXWmM1TjJjcHp6RE1WWkJ0dXZkeGkwcjMxNlpFUHFRRjk5ZS1uOFRmcjd1ZXVPN1NNT3lfczhiWUtzTXlTSlhWZ3dlMUVqSkRn?oc=5",
+          "hot": "Sp5der",
+          "category": "街头潮牌",
+          "dh_verified": true,
+          "pubDate": "Wed, 23 Sep 2026 13:00:00 GMT",
           "platform": "brands"
         },
         {
           "rank": 29,
-          "title": "Mike Amiri Is Building His ‘Community,’ One Fashion Week at a Time",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZWlidVJLS0FJS3pNWEFQUFhwek1ILXRBdjROYy1zR3pmUVdvcFJkNnV4NU9oVEZzSy1aY0dnRmZsSk9NcjMyOGZEa0lCcENFRHRBR1Z1R2Vic3REZ1JuTFVnOWllT1lOT1U4ZUhlNERnSGl5VEE1YjhRcTZEdXppN0UyUGNFS2wycHZmVHBUTkJzV1FGUUNjbXlfclU?oc=5",
-          "hot": "Amiri",
+          "title": "Young Thug mentors Atlanta teens, shares message about guns and faith",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTzlUbGZVc3locDROLXFBc1NFZW9PZUZTdC11QXpNSmVZZjJVamlzTkpqaERRN005V292VFRhMlk5WVVsRnlPYW8xTTVfME5zc29MaTQ0OU1QS0V6RThERW8wN2RpbWEwOEJFRjRERlVObjB6WVlzVW9LTDJkbUR5UDJ0RjVxUlJObS1KTHc3RlltQUJWc1dHWlZlbWdoQk5YcWhyZC1ubl85Zw?oc=5",
+          "hot": "Sp5der",
+          "category": "街头潮牌",
+          "dh_verified": true,
+          "pubDate": "Mon, 21 Sep 2026 07:00:00 GMT",
           "platform": "brands"
         },
         {
           "rank": 30,
-          "title": "Young Thug attorneys back in court over Lil Wayne bus shooting",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdDB3enhIck9yZmVxZ0ZTUld0d214OWNZOVMwcW01QjR6VjhVOW1hUlZZMTE5NzVSdWJEOTZVMEFNNV94LTJncHluMVVzeklSbTRkYTBPcDN6WDNVV2Nkbmw2U1JZOEFSOU9sVUo3QnhGMWxrb1BiVmRXRHUxaVAzSXJDSmxwb3lDd0ZGUGUzUlN6RFlSS2xYT1RR?oc=5",
+          "title": "Denim Tears Is Releasing a New Perfume With Comme Des Garçons",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOHltMmlJZlp0WDZ3YlozQXJqeE1qSE9XMkxoZ0xIenViRlRGNXY3Q1dXYmlVekRmUnl4Z19PUnJDYVdXTEZaMGdRU2wxbkhVTmZkaWhQbHdfUXpuRS1rOUJJYnllckpFdmt6M3VxMERrWGY4QWNKUGxUbVFIMW4tOEVhVlc1c0NvOENScGZuRnoyODlTbkh6OWdyOUw1NVFLNGxEb25n?oc=5",
+          "hot": "Denim Tears",
+          "category": "设计师潮牌",
+          "dh_verified": true,
+          "pubDate": "Sun, 20 Sep 2026 07:00:00 GMT",
+          "platform": "brands"
+        },
+        {
+          "rank": 31,
+          "title": "Neil Young / The Chrome Hearts: Second Song Album Review",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUWlhN3kyWW5vX2l2NnhRVnVKaTB2U1ZIRDJuSHY5SlJqSnAzZnFEUVc4Qjg4UUk4RnRyeWNqRW53OWVuaE1wbWl5MzJ2OFVSUHgwakRwT25zS2FjSzFCSmNLUk5jWlZwRk5CckdVWGdaQU44Zm04M29rLTNadnR4c01HaGFsRTJBWlE?oc=5",
+          "hot": "Chrome Hearts",
+          "category": "高端银饰/潮牌",
+          "dh_verified": true,
+          "pubDate": "Sat, 19 Sep 2026 07:00:00 GMT",
+          "platform": "brands"
+        },
+        {
+          "rank": 32,
+          "title": "Mike Amiri, special guest at the Fashion Forum’s new format",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZjFkQndFam5iZ0phdjJ2ZHp2SVpiTVk3dHhocHA4ZEpWM09CVWg0Q2ZBWnY2NzRRVW1fdURSN1I2NndiZjQtYVRSckFISFNEM2QwSFhNRWFFVmFtXzRBVWhIZmI1X0ZpbGJQY2h0RGUzUzFrdHF4OVZRbmpyQXVYb2FBV2dLbU9xWFROdlB3VUo0bzVxeWhmMktDVlRtT0NKSGQteUw4dmx5QQ?oc=5",
+          "hot": "Amiri",
+          "category": "设计师牛仔",
+          "dh_verified": true,
+          "pubDate": "Fri, 18 Sep 2026 07:00:00 GMT",
+          "platform": "brands"
+        },
+        {
+          "rank": 33,
+          "title": "Young Thug Introduces YSL’s New Generation Alongside NAV at Central Park SummerStage",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUnhGVWpIWnVYNU5XY0pjXzZES2c5WEd0TWNUTXZ5bDdRbGF0NWo3dDE0WmJXZEFGLVloU2NUZW5FcU02STFsUlprY1JqdHNWMG51VGlqenliT1dSTWt5MlluOXdzcl9MQ1REV09rOHQzQURhMnZSWWxmcUdJMVU4NU9KMW9LQjBoVGJ3dkxPeU4xRElEd0dQNHI1OGJLTnV5WHlhVlJ4V2RDTkwtU0tqTWVmOVpWMHM?oc=5",
           "hot": "Sp5der",
+          "category": "街头潮牌",
+          "dh_verified": true,
+          "pubDate": "Wed, 16 Sep 2026 07:00:00 GMT",
+          "platform": "brands"
+        },
+        {
+          "rank": 34,
+          "title": "Meet the Chrome Hearts Collector Who Amassed a Collection So Large He Had to Open His Own Store",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTdzdqbFE2ak1ZRXF1VmJ3eVhyemJkcHpFemVka1BVMTZrSGhHejBnS2NRYWR0dXlPNldVeXdyb0lKOTRqZTVQeDBybUxoU0JpVFBnRGN1aWN3emJIWDZfeVJ0LUM0TGtfdzV6MHZXQXZseDNMVjhBQ0pPSE4?oc=5",
+          "hot": "Chrome Hearts",
+          "category": "高端银饰/潮牌",
+          "dh_verified": true,
+          "pubDate": "Wed, 16 Sep 2026 07:00:00 GMT",
+          "platform": "brands"
+        },
+        {
+          "rank": 35,
+          "title": "Neil Young and the Chrome Hearts, ‘Second Song': Album Review",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5oTHFIOGpVSFRLeWkyRXVrcHNSN1Zqa1Q5LXEtUUcxWVZJdlFUSV9rQnlBdzZvZ0MxMHlvczdNVDRvOExhUFd6VmxCeF9TMm8tRjlpV3NLcUVaWWNoVWExc2dlZk0xQQ?oc=5",
+          "hot": "Chrome Hearts",
+          "category": "高端银饰/潮牌",
+          "dh_verified": true,
+          "pubDate": "Tue, 15 Sep 2026 07:00:00 GMT",
+          "platform": "brands"
+        },
+        {
+          "rank": 36,
+          "title": "Denim Tears x COMME des GARÇONS Parfums Bottles the Smell of Cotton for Its \"Tears\" Eau de Parfum",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdThyMU0zbWpmdVhlYnlZSk1fNE5SeWRFVlpDMmJfclRCd3Rnd0lwVFNZYm9SbklDUVNqbFpVUW5qYlBQS0RxYlVVLTVZenR4ZWtkZEpJWDFJa3oyajZxb3lvUFl2QWRyWUtjRTRFNFJGNEpfV2RaQU13T1NlU1RNTzcwN1JWeERmMnZBRGFJaENtaUF6QnJEbzhFZkd5cVJC?oc=5",
+          "hot": "Denim Tears",
+          "category": "设计师潮牌",
+          "dh_verified": true,
+          "pubDate": "Tue, 15 Sep 2026 07:00:00 GMT",
+          "platform": "brands"
+        },
+        {
+          "rank": 37,
+          "title": "Denim Tears Debuts Fragrance With Comme des Garçons Parfums",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbm9qMm9IcDhMMFhHRVFzOVNmZnlGOGpHYUx6YjdONGpQYjhUZ24zOFVvRlVVQkpaNnpmcWJ1dzZCX3NYX1dwbFYzaHczdTFRN3lxcmRuUkpzVU5pN2pRRU15czN4dGlId3FjekhmQTVndExCTkJFZWtGWWdmVU1HaVRyUzY4VDVwZ0lKWWZ4azh1ZUpMWjB6R0NEWEg0VWFvcmp2dFlGSEpLN0pi?oc=5",
+          "hot": "Denim Tears",
+          "category": "设计师潮牌",
+          "dh_verified": true,
+          "pubDate": "Tue, 15 Sep 2026 07:00:00 GMT",
+          "platform": "brands"
+        },
+        {
+          "rank": 38,
+          "title": "Mike Amiri Talks Life in Paris, New Neighbor Celine Dion and Growth Ambitions",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ2VwMHB5cjJJSW56aEZCUkppQjU1djJhOUJ4NG9qUEUzOFpWVlJQSnI0SGxSRi1GZUVnaERkVnQ3cnFoSy04UXdITEZSWkhMRW5neDkzOUJlYWdjVnpEVlFMUjNvOTYzSGRFNHNZOENiMEIxX0lzY0lkVmI0b2Z6cHVnUWJFb3lMcDV3emp4UzI3Q3lkeVNfcllta0x6anVMTzMybDZzeEdLSVg0cDlYb2kyNkQ?oc=5",
+          "hot": "Amiri",
+          "category": "设计师牛仔",
+          "dh_verified": true,
+          "pubDate": "Mon, 14 Sep 2026 07:00:00 GMT",
+          "platform": "brands"
+        },
+        {
+          "rank": 39,
+          "title": "Neil Young and the Chrome Hearts: Second Song review – shaky album occasionally strikes gold",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSnRmdE43Q2x1eXpwWXRicHp5amY1a0VKQmxKc0p1MFlwVE11ZERWLVhPcTlFSENNdlF0RmE0ekdaZ25uTjMxVG9FM2dnSHhhOUZHbTZxSVNsNW82ZXdnLUhsV3lOdGhGNk9WVnNfV3dwSFNMdHptNFFVWVhpOWtha0RNbUEwUnRRT3lFeUtCMzFLY3VLRkJ4aFpONl9SLURzT29qYURieEJBTVlUZ3hsYmNIMk1TUW5NUUhpMHNmcHc0LUM3NFB0RFc1WTNHc3Y5?oc=5",
+          "hot": "Chrome Hearts",
+          "category": "高端银饰/潮牌",
+          "dh_verified": true,
+          "pubDate": "Fri, 11 Sep 2026 07:00:00 GMT",
+          "platform": "brands"
+        },
+        {
+          "rank": 40,
+          "title": "Mike Amiri Is Building His ‘Community,’ One Fashion Week at a Time",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZWlidVJLS0FJS3pNWEFQUFhwek1ILXRBdjROYy1zR3pmUVdvcFJkNnV4NU9oVEZzSy1aY0dnRmZsSk9NcjMyOGZEa0lCcENFRHRBR1Z1R2Vic3REZ1JuTFVnOWllT1lOT1U4ZUhlNERnSGl5VEE1YjhRcTZEdXppN0UyUGNFS2wycHZmVHBUTkJzV1FGUUNjbXlfclU?oc=5",
+          "hot": "Amiri",
+          "category": "设计师牛仔",
+          "dh_verified": true,
+          "pubDate": "Wed, 09 Sep 2026 07:00:00 GMT",
           "platform": "brands"
         }
       ]
@@ -223,212 +413,352 @@
       "items": [
         {
           "rank": 1,
-          "title": "Nigo | BoF 500 | The People Shaping the Global Fashion Industry",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XY1BEWS03bkVXdGo2Y3E0LUd2bW5QcV9CUm1fb3Q0Q1ZSZW5IUmFXT0ZETWZiSnpHdGpfeXowbVhXalltYXo3ZEw3SGNxT1E0bzZaNUh6MnR5QQ?oc=5",
-          "hot": "The Business of Fashion",
-          "platform": "news"
-        },
-        {
-          "rank": 2,
           "title": "Luxury fashion brand Mira Mikati to open first U.S. boutique in Palm Beach",
           "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQYzFFaUVUUzlQNGgzVzFiSkQ5UE0tN2ViY0xGWVZESTJ6eHBoRE9kODV5cVlDXzNJalhJQnRXRXBlWnVDV2J3Y1BHS1dfT2RWWlozekZFb3R2c0xHMmQ2ckNMeV9odGRGbVpnQU51NnhvbjRrZDkxV2ZON3VqUlRiaFUxcHEtMk5FTEoyT2NtbTZxV0JyMnU4ZzFUQ1pNbjZ5TVdtczNPQ01TSEpMbkNVZnVXcWdKZElIZHZCbEp4b1VYLTJELTVuZVM1ekFvbnpqX2UtTA?oc=5",
           "hot": "The Palm Beach Post",
           "platform": "news"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "When It Comes to AI Adoption, Fashion Apparel is Ahead of the Curve",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQUg1eFlKbl9ZTFB3amFpanBYVkphd0FkZ3NDd3BwX19DMWtTZXJDSjQ4bFRBVDR2aHdoQWJWM1VPSFVBMFN6MUZiLWxqOTV2b1ZxQmtaR3huY2x2MFNTZVRsb3dYX2lvUEc2QzR5Q2xOTTZScUxEdU1zWjQ4VmVJY1Rhdk5MNTVWam41c1p3dUdDM3BYTk5zQVp6WXJBZDE2MW1SMDRPVUpFWkowdG1DdmZiRFluZUMt?oc=5",
           "hot": "WWD",
           "platform": "news"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Pakistan’s fashion brand Khaadi plans record IPO next month",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ1dQbU1sbzdfN3NNRzFUcno3SDMwbzFjV1RTaURWNERXR3l3aXp6dXljaEYxZFNGMGZxUWtSTTNBa3owNnJLR1VPZXlhdTBueFROV0RLUkhaOURrR0pKY3NySUlKUUFtUWZFTEt4ZE4tR3Bkd0R4V29JM09NZDU4SjB1UGRUMG51QWxlb2VLUnE5QWNOWVlXQlJlRkFEUFJmS1luRWIzM0xTekE?oc=5",
           "hot": "FashionNetwork USA",
           "platform": "news"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Peta claimed victory when fashion stopped using fur – so why are they back hijacking catwalks?",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOXdUVjN6QjVMZ1hiVlI1SVQzN3NJakExeXdpWkN2RWJRREdVSWNSZ1JQcmZnVElVdE9GRU1SdXF1Q1YwaWZ2dVY2TUFyc1pRd1g1dXA3LWdlWXRXd2JHWVN5UE1rcUwxamNxcW5LS0hod1BDbVlISXQwQ01sMlc4ekNUWmZVQTc2?oc=5",
           "hot": "The Guardian",
           "platform": "news"
         },
         {
-          "rank": 6,
+          "rank": 5,
           "title": "Australian Fashion Council Brings 12 Designers to Paris",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcWlSTDlzSEdqcnNmakplRFp0Q1Izbmtfbm16QlloU1l0SUY3WEc5cm1nU1JfdWJ4M21OallNNE5Sa0FoNXBLZVZrNmxRUTN3bVhVazlNUjU1NS1mai13eVR4TW5GclpremJ1clpnOWZPd0tEYUtiZzlTZ1lQMkZtb05Ja1I?oc=5",
           "hot": "dscene magazine",
           "platform": "news"
         },
         {
-          "rank": 7,
-          "title": "Zain Ahmad | BoF 500 | The People Shaping the Global Fashion Industry",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9LNWxRQUF5Rk84eXdzTXlGMUxJR0h3b244RkdMM1BEREEwaXB5M0NLWVgyYjdfR0dnSzY1YkVxcU9lUEtSU2xRU0JYLWR3Y0F5MC13Z3c1QW85U1pmNWZRdUlB?oc=5",
-          "hot": "The Business of Fashion",
-          "platform": "news"
-        },
-        {
-          "rank": 8,
-          "title": "Kai Cenat | BoF 500 | The People Shaping the Global Fashion Industry",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCb1ZER3JaUE5rcXZRMEJFWVE4Q3BzSExKZUZfakJ3X20zSU1WazBGeFJRZWJBTzBJNzQzcmRXX0FvVTNpU3Yzd2owREYxLWhvZ1dOdFZEeGg2Y1RTU08weA?oc=5",
-          "hot": "The Business of Fashion",
-          "platform": "news"
-        },
-        {
-          "rank": 9,
-          "title": "Stephanie Cavalli | BoF 500 | The People Shaping the Global Fashion Industry",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5EajR3akFlRlZDaTFVdVdNb09YTURIdndVOFAxQ19Pd3l1b3dJR0cyZjJpV185T0s4U2ZtcGJYLXlTV2E4X1UwR2VSdE0wQlFBOVlRR1FmOEJPVTBoYXY4dUVuVUlYMWtGWHZN?oc=5",
-          "hot": "The Business of Fashion",
-          "platform": "news"
-        },
-        {
-          "rank": 10,
-          "title": "Dr. Akin Faminu | BoF 500 | The People Shaping the Global Fashion Industry",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5mZUxEbGpxLS1mTWJCeldtdXFrODAtTXY2MFVUOXQ4RldjTVlfQUFIaDRZZFNKVDJMY1h5dS02SUFEakktay1rQW0temtzZ29xMkFiTTVxWncteEpsTnhDRjBxbw?oc=5",
-          "hot": "The Business of Fashion",
-          "platform": "news"
-        },
-        {
-          "rank": 11,
-          "title": "Audrey Hu | BoF 500 | The People Shaping the Global Fashion Industry",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92WmN2Z2JMdU93eDdUaVM1c0ZCeVE0UlBRbUF3WU5MU3c4YzBMMnFYWGN3LXdRSTVGMU9fOE50M0JWeVlxNjhnaEJBMUdieHBCb3N5YzBCcEo2bmg0Z3p4TQ?oc=5",
-          "hot": "The Business of Fashion",
-          "platform": "news"
-        },
-        {
-          "rank": 12,
-          "title": "P Venkatesalu | BoF 500 | The People Shaping the Global Fashion Industry",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zS1U3QjQ5MkJ0M3FQYWZUQm5Gb1hWMk5manBianB1bHlQTjZiZjJrTTdFRl9rX043aHZRX1YyZFRaS3JfOE1oQXRzZ2x2dHhtS3VUMlVYcFVRSElnMGZWN0RnU3NCQQ?oc=5",
-          "hot": "The Business of Fashion",
-          "platform": "news"
-        },
-        {
-          "rank": 13,
-          "title": "Fakemink | BoF 500 | The People Shaping the Global Fashion Industry",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0bTRhVW1MSmpmRFJnY0ZYbTlqUWI1b3NzYVVCcG5uRm5hQnNtSUNuX1BrRllVSjNEc0Z5S1RPTG1XNHRveGo1eTZpN2k4TmZTbUoycEJFak9oLW9NN1BN?oc=5",
-          "hot": "The Business of Fashion",
-          "platform": "news"
-        },
-        {
-          "rank": 14,
-          "title": "Frédérique Nanan | BoF 500 | The People Shaping the Global Fashion Industry",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9saWc0Y1hyTXdjS2xtVUJzU3B5MVAzeVNVQm5URklYY3NOc1A1aldKdnd3c0JWZldqSFpyVTFCcnc3Y09SSkpTRlVSdnRoR2Y5WnVwblZRYVpKX1ZBN0o0OVRLVHR6a25GTnc?oc=5",
-          "hot": "The Business of Fashion",
-          "platform": "news"
-        },
-        {
-          "rank": 15,
-          "title": "Marek Piechocki | BoF 500 | The People Shaping the Global Fashion Industry",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE03REp2dWlTTFNoU05kREx3V1BLYVNmWDJyVTZRa0ZJalpBVUd6ZFUxU09wVDlGeWRZeWpXYUhKLUxydXZrekJBb1lzbVlHYy1nSW1lejBzZ0pIcm5pd2FhN1N4UDRmYlU?oc=5",
-          "hot": "The Business of Fashion",
-          "platform": "news"
-        },
-        {
-          "rank": 16,
-          "title": "Introducing The BoF 500 Class of 2026",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdDRuNnJ3cGhTVnN5aWlVUjRwN3owanpzbkNqQmF1N3ZUMjlmcFJEYTNCVkZEVzRpUjFEOXFlc2tzaTZxbmszbnZnLWRxLTMwVkNXZmhHVU5iTlJTalVsTy12blBqYVVSa0N1UVdKSzJFczdZeFpsa0xhaWt5VXlGYnpKdGRjR1hpSG12WFE4VEFfY25FdnhwQVpnYw?oc=5",
-          "hot": "The Business of Fashion",
-          "platform": "news"
-        },
-        {
-          "rank": 17,
-          "title": "Vidit Aatrey | BoF 500 | The People Shaping the Global Fashion Industry",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBuUzltbWtVNVJNa2xTeVdjNlg3MEVzRldHYjNSbS1EMkUyLUZpQng1V2thQXd3ck04ZTBqWFk4N1hYLUxhTGU2SVJYQk0tSTJCV2draHhTRGh3cHlpNzVZa2ktekk?oc=5",
-          "hot": "The Business of Fashion",
-          "platform": "news"
-        },
-        {
-          "rank": 18,
-          "title": "Bhavitha Mandava | BoF 500 | The People Shaping the Global Fashion Industry",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rdDNVbUduZWFMM2lHLWlVR3c5VUh2MDlVRkdfOF9iV2lSb1ZsZmJmTFpTY296QWtselp1QnNwbGVjVl95MjJUaTVNS3pYcWNZc1ppMHRWSG1XY3pKcEtiaEw4OVB6dGEtUmc?oc=5",
-          "hot": "The Business of Fashion",
-          "platform": "news"
-        },
-        {
-          "rank": 19,
-          "title": "Aha Zhang & Lolo Zhang | BoF 500 | The People Shaping the Global Fashion Industry",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBOcnhlUC1hX1VMOWdfZkJNejFkbldJeEk4SnpIVFU1Y05sbnpHdEYxTkZXS05XVm1HNnQwZWUtZTRIaFk3SFprekFxVXVnVFRRLXlaZ1hPSmY4VGVGaENmYVZVSEdaY0tiSFY0ei0yTQ?oc=5",
-          "hot": "The Business of Fashion",
-          "platform": "news"
-        },
-        {
-          "rank": 20,
-          "title": "Joram Muzira | BoF 500 | The People Shaping the Global Fashion Industry",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SU3gyeEJKNUNUeHpBc1M3cm5zTGFnc3U4bS16S3U2eFgzTk5Mdkx2dmlxa1kySUFNbmZPVUo1Zk4yUEJjNTg4b0tqWjdPOGRkQnFBNjlSa0RId09NMWszV0RRZlA?oc=5",
-          "hot": "The Business of Fashion",
-          "platform": "news"
-        },
-        {
-          "rank": 21,
+          "rank": 6,
           "title": "Thrifting used to be about saving money. Now it’s a major fashion trend, and resale companies are cashing in on a $240 billion industry",
           "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPaXFia0J4bmVLNUZ3cmtDbTZCNTNDaWJjM0dMUXZkeEg2TVB4cWN2UUVvd0ktQ3pCNjRRRXotcVN5SlkzbG1pYTlYYnRDaUJGZnBZa2xFUFZ1NTJPMlR6MjdOOXgxZ1VXTVNEWU9wTUdTcVpkaWxVQ0tBalN2N3dBT0RxZzRTU2tuWFZOUTcweUU0eG4wNWlHeUc1NmZxNnh4OEQtQUtoRk1SMFRoNGJkZTlKbkViUVNORFFDOXlDaHM1eGlBSlJWSm1LaXJwNjM0ajM4TmR2NG52eW04ZUdCRXotMER1VE9DdzEtUE5QVTlzeDJIRU9xVkFlRkI2WGVOQXJZQ0czaFFtbXAzT0VXa1Q5OFpjcG5q?oc=5",
           "hot": "Yahoo Creators",
           "platform": "news"
         },
         {
-          "rank": 22,
+          "rank": 7,
           "title": "Learning About A Local Sustainable Fashion Brand",
           "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPazdVNnRaeHIzbDFBT1JwNUNjOU1STk5FRHJCVDRHaWNMOXU5bGQwSGVoWmNvNmMxUktGTU82cW5SZkx6UkpEbWFfd3kzUmE4TGxIdE80R1FyV3NJS2p1dXR3UXkyeHFpVjIzUE1waFZBOGotZ2l1dDlSZUJfV1hKajRkWlF3dkxUMTY3eWpsTGJ1OUtpbnFlenAzaXNLc1hWY2k2OFAwX0ZTM2Nnc19LNFpiS3RLQm10TEJLZ2JQOHpZb2VTa2hreHJXdDl3UFZ3US1OekpvdmdPMTQ0OWR3RTBSSG5kYU43M3lDbFRqM1ljRGJyZ2JaXzd0S2RPZXNX?oc=5",
           "hot": "WWLTV.com",
           "platform": "news"
         },
         {
-          "rank": 23,
+          "rank": 8,
           "title": "The Fashion Brand’s Guide to Standing Out on TikTok",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPa2VOUzZ2VVdPRW1Dc1Z2Ry1XMkduUzNiODJSQ01zaHZuaDJINGd4NUZRNFJLWHNrYjZ0dGJwZ0hiOUNyOEFla3V5YzhNUzZOemF3cGJvc1N6c1VJc3g2OTRFZ082WnZ5b3dfd2Qxd05sN25KMmVWZDBzZ1BHYlVjcFlHeEJhblFrNVlrUGZ1QTJOOUpmd29IdkM0QzIxcW5IMWc?oc=5",
           "hot": "The Business of Fashion",
           "platform": "news"
         },
         {
-          "rank": 24,
+          "rank": 9,
           "title": "Shares of fast-fashion's Shein plunge 14% to record low after profit slides",
           "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdWZjMUtCelNMN3AzUkZReWtMdXBRbm9CQktZanlXQVJxVS1TeGUwZjR2M05jNnc4djlXQTZYcng5R0ZMdVhfZ09YM3dCbUJNckVFaE51Q0JmTE1UOVNkVnhIMEkwajBnSnpQRjdNRjBvMDhJQlhnMjZaM3RILUdxT29WamdBZm54Zk9hb1V4dnZ3WjRCSGJvbTRHODFQVkxaT1Ezc1k4Ympval9PZGhjb2ZiOVVIb0xpNlhOVjNuNVRDS3ZHX3hzakNKdFdRTUln?oc=5",
           "hot": "Reuters",
           "platform": "news"
         },
         {
-          "rank": 25,
+          "rank": 10,
           "title": "Is Fashion Avenue Ready for Hemp Textiles?",
           "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcGlka2FCbUhtaE1IVFlUSGFYV2t0cnlaS3M5Nnp2d1pweHBneW5MU2V3V3pnQVpiY0Z6WTRnWW1RMHhRU2dueFBHLV9sOTBkeThHODFsQlJhbFd3S3BTck5UbHFza2J2MHRuMDdxV0NEUTEwTVFVNUMydGxXNlNLZ1lzSmtfT0lHVFNic25CTTlGQVhYSDh6OGlWcUhjWHZoeFRlUFJ6WDJZX0VabUdkb0tvUmRyLUpCQzJMQnNqaGY4d3haWjYzbmdBMEgwUmRyMlVLeUpVQzhQQQ?oc=5",
           "hot": "Lancaster Farming",
           "platform": "news"
         },
         {
-          "rank": 26,
+          "rank": 11,
+          "title": "‘Fashion needs to make less.’ Another Tomorrow founder Vanessa Barboni Hallik wants fashion to avoid obsolescence",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPV1czUE9vWHplTFM2LVNFaG1USWI0T25OcEVoaUlETTIwVnRlLWpwQ1lDNDAxZUlnS3ZBZzEwOENBdk51d1ctNU9mT1Z6RFVqYTVtZG0xNTdrOGxXLW04RVdSNnU2SGoyazYtX1lNVjVnTThlUHM4R2stUDRST0I2U0g4UVRjMTRvM1dn?oc=5",
+          "hot": "Monocle",
+          "platform": "news"
+        },
+        {
+          "rank": 12,
+          "title": "How ‘Effort Signaling’ Became Fashion’s Antithesis to AI",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUXBubVYxdzg1NHl5TC11N2ZENHNoYk40UUs5UjRUend6N3ZNRl9XaldmTHpjVFhZTW8zX045RVNuV2xjMDZkNHVXZmJ2R0k5U3N4Mk9xMy16dllIaDhVeDFuRnh3STRiVVQ1MUduUUVRT08tLWpMRldHZkEzcHVSQVJTNHNaY016TUZZ?oc=5",
+          "hot": "Vogue",
+          "platform": "news"
+        },
+        {
+          "rank": 13,
+          "title": "Meet MAZ, the Colombian Slow Fashion Brand Redefining Global Artisanship",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVnlxMGFsU1NJa3dJd1hvaHdFbWQ5US1PenBVc1NHS19ZRnEtNXJKWU1hd0JWRE9sOV9MOTdRTVkxdll6N2d4RlIxZUk1SUxEcFlmNXIweEptd3k2Sy1BZm9HVjNNbHFFX3BJdmc4OXRWV0x2Q082RlZySU1QS09BUzBwbGFfUjJrQWw0eGF6a0NxVzBWSEpOZEF2bXY?oc=5",
+          "hot": "ELLE",
+          "platform": "news"
+        },
+        {
+          "rank": 14,
+          "title": "The Business of Fashion: Data Behind the Industry",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSnh4UGtJVlBwb1RCQVQtc2tKLVRocjZqYWl4U1BLczZlNXo2SHVHZHBVaFpXQ2g0MGlKUDJaRVdSbUtPX2JDTjNqam9SY083RFpZbHpZRkt0SThMUmlqVDNLbGFDa2U2S0ZxR3RSSFQ4WjI3T3Q5cFdsWXpmYktJa3dNbWV0SDVOaHo4cFluLVVNRXBVbVMtdEEtZWprOVU0dnA4?oc=5",
+          "hot": "The Business Manual",
+          "platform": "news"
+        },
+        {
+          "rank": 15,
+          "title": "How 10 People Are Reclaiming Their Disabilities Through Fashion",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQUI2WmRZb0c3UGl2eUk5UUlFUHRKQWdxQVNpUExUUDhESzZCOWREcGVXX2hCdk5Gb0ZXVW9KNlBqb3B5OWpmVUI2bG9fZU11SjVESV9LYWNTNUJtc05vZHNhTHZ4MG9ra3FUakRaTFg3bEszWDlXckVUNlo0WUNOU1BnUzE4OXc?oc=5",
+          "hot": "The Zoe Report",
+          "platform": "news"
+        },
+        {
+          "rank": 16,
+          "title": "Levi’s, Marks & Spencer launch renewable energy initiative for fashion suppliers",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUk1ZNXVxbVF1Tks2QVBsVG5pMkNNUThQS3pYQXJpa2M0YzhYU0NGaTZhZ2dEc3pPQlIxOFFpUUo5WUg5UVFZYnk0OV9XWkI5NVgzODNqcUJfMlczdncyWEd2TExCdUFOSy1JbGYyazZqWXhKWGUxTHNmM3dOWWRadS1CSGo1WnlUN3duUDRoRGZjd1NNZDBZ?oc=5",
+          "hot": "Yahoo Finance",
+          "platform": "news"
+        },
+        {
+          "rank": 17,
+          "title": "Exclusive | Fashion insiders come unpinned as top industry gig goes to fraying Anna Wintour’s longtime accolyte",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeWd2TTcyamJWRTZHaW1Dd05CTXJRSExlemVOcWUwZElCZVFPVUJSMV9IOTRBWTlvMmFoRS1nb2RlUmNIdF9LWFVCdEM2SV9HVG5ST2RCN2VfM0hvcmFjV3J5VEwzTVRKblY1R0p5WjVDQUNSTXNvV01KcV9IOTBtQkxXQWZ5N2N6YkNjSjBfakstUlR0Rkh4MlRROUI2VzJZemV5eXJpVmtmR2lKc3VUX1A4bmY1dzNf?oc=5",
+          "hot": "Page Six",
+          "platform": "news"
+        },
+        {
+          "rank": 18,
+          "title": "British Luxury Fashion Brand JW Anderson to Open at SoHo’s 138 Wooster Street",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZVIwNFgzQkhUa216RVljS3RfRUlPejJjdWlwYVlPOGpqczU5aHFtS2toNE0tX3Jrb2VqbXhJYzV4c2NVblF1LVF1Mm1uZGdpWEdDTEplZDhpb3VWOFRGWFFHZmJ0YVFBWEM1TkxhZnc1Q01XVjRibDVUX3VVbGM4a0MxNk9BNmZu?oc=5",
+          "hot": "Commercial Observer",
+          "platform": "news"
+        },
+        {
+          "rank": 19,
+          "title": "I Love Boosters: an absurdist critique of the fashion industry",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNmFPSlR0blltQXZJVWd5T3pJQVZmTTdVUWl2SkpEeDFlNTdiR3JqTWJGZlZ1MFIxODdtdE5RTExqS19vbnlhNnhlNGthS0p3VGM2dnFac196VHlHanpaVF9ENlh0X1pHU1lIOFRlQmVWM3k4TTdlWExTamFnT1RmS1JpSDRrVnhnbk1EbDVBWUs2cXFMSUUwamRHcw?oc=5",
+          "hot": "Freedom Socialist Party",
+          "platform": "news"
+        },
+        {
+          "rank": 20,
+          "title": "Worldview | Asian, African and Arab Fashion Leaders Forge Ties in Moscow",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZ0hONE9CZlBJcEpLYmJxVnpGbDczQkxqSUVhWUJXbjIzd0V0Vl91bHh2dEN1eXRjdlJMZlBQa1dKaTRhVG1ERUZUalYwWlNVUW1GbHdQVVJ3ajlBN1FOamZIcVR0cW5VeHpoTEo3bFpxOUZDcTctM2c2WmJLSEdCa1AyRENKYkJjYTlkQk5Gd1hIX3pNWHB3UTlYeTRDbmlHSkctRVJEVTJkRGJYcEd0eDAwRzVqTVF6ZjVySVF0NEE2Y29WS19r?oc=5",
+          "hot": "The Business of Fashion",
+          "platform": "news"
+        },
+        {
+          "rank": 21,
+          "title": "Sustainable Fashion Market Size, Share | Forecast Report [2034]",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9uVlJiZVpGWmFZVWhYemxRaGx5ZGpkV0kwSkhpeVQzakVCVGhzbC0tTHRtLURrbUphcVIyVUgtTkhsQ21QQU9EbVN6ZGRQUnpVdDlKczkzbmdKeURMbnZiUFY3eklKc2p5alZhbXFobzQybVIwbWdVM01DbFBKdw?oc=5",
+          "hot": "Fortune Business Insights",
+          "platform": "news"
+        },
+        {
+          "rank": 22,
+          "title": "How 9/11 Changed the Fashion Industry",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWHpzcDI2aVNFZlBhWGswQXRzdTFqZFNiRzVObTNYTHB6WVJhWmVtV2ZicmtXN2tXVEpYa0dDa1pjZldWWVhjQnlIdzlWSVRPM3lQdjNRcDBEMTJSR2pZN0ZQM1Rrb2M5OGlrZGFDTzRHenRYblRONm1SZEdKVXRYZVBCeERfQkNxMi02QS1xd1paRHdTX1FB?oc=5",
+          "hot": "Harper's BAZAAR",
+          "platform": "news"
+        },
+        {
+          "rank": 23,
+          "title": "Fashion promised to go green. Here’s how the New York Climate Week, behind closed doors, exposed the chall",
+          "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQTXRCVjktZjBwUGhIYU5kdUN6aUM2LTBmWU41c0NkbUFUYlljN2JRQTlVVG5XTm9Ed3laRnlHQmUxRmw2N0wwYzFVV0FXWmZvTEc1ZGNPOGtXV2txTjVTaHVMV2JRV0tLWlRsMlFRazBiMHR5ZXFhQURHbWhDaFF3Y0k3OHdpdUY0cTAzNHlZX01hck9JdUFPOVJQWDJFRFBhM0VXQ0JfNDdMalRzVWYtWU1OREVJR1FGLVJoQldVTFdxU2V3ZTd3a1IyOGQzR0RzVG9HZG1iUjhjbTktSFQwWWl1YTNxaVpzaXdhVmF0dlh0cHZBbVptZzdZd2VBS255YUJMQm80bWgyZzN0TFd6ZV9HR3JvZi1taXA0UGdlVEYzWVJ4X0lza1hXWU45TmtNYWlOQ3hQQVVkZjZRZ2VCalJmMzdLUdIBywJBVV95cUxQX2sxNHR3MFlWTWtjcV95clFMaVVPQWtFb05xQ1NFdGRMaVlqZjR2Yk1lWUJYNXdHcE83aXc1ZWJZd1EyWGhlSVZHdFZ1SHl0U01FS2MxVkwtbEdscDJIZjJrM0VNNFREZ1hMTnRvdUdRck1DWWhSbTBObGxqS1pxNEZJWVJqRkxMNEctdWRfWEpDWXBHWHNRR0p6Qy1LM2dDRFhtbFlSN2dtWDhPZDBjMjRQNGVYR1RNdDJwNGp0ZllNMmpoOVpXRFFtTkVvdUlzV2lxUFhEeFBDODlGTFNJZTJwRHdES1ZoeWRRRWphZmwyTVZDWmRVZ3B1Q18weUJVdXpEV0hMb3J3Qm00QzZoaG1RclZ3U196MWFfZXhvaVp5bFI1VnRXMU05aVJTUjNXMGtNdmQwY3ZSM0lwTGhjNzRRMkNsbjhCUkh3?oc=5",
+          "hot": "The Economic Times",
+          "platform": "news"
+        },
+        {
+          "rank": 24,
+          "title": "Marina Larroudé Is Disrupting the Fashion Industry One Shoe at a Time",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1pYWhxQ2pfUk50ZTNoUk9NNHdLRWlIOVdZcmsxWC1wUWE0d01PQ3YtNFVLdEJCbGNXN001Ylp4cTdzRGlZamlpWTRfemF4THVLeFFMUnFaZkRlNHhsZ3NkZnZKOVpIVnhJdnF4T2lxVmRhUQ?oc=5",
+          "hot": "Time Magazine",
+          "platform": "news"
+        },
+        {
+          "rank": 25,
           "title": "In the Queue for John Galliano’s Zara",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBTRzVNUHF1SktURTBjVTJvbjdRYWhoeUxwWUJRZEhKeVJCLVo0d3JsUWpOT09RaUlvbDNiUkxkUTVJWVRHYlFoNjY5U1ZkOS02aUZwbC16bGhJMXlFOGwwWjFJQUd6aU5oOW11R2NhekVPMUFX?oc=5",
           "hot": "Vogue",
           "platform": "news"
         },
         {
-          "rank": 27,
+          "rank": 26,
           "title": "Review: John Galliano’s New Collection for Zara",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1STW1qWmdPeGpfdm8tZkxVX2p4em9sVERSZExheGNvNThJb0RjLWJMTFRIRlNSaUhkeGNGalF1cjRFeDhpa3ltZDh3MUwwZkxXTlVua1JzbF9reTlBbEhYalZ5cVVIUzBPOVJaejZhNXMwQQ?oc=5",
           "hot": "The New York Times",
           "platform": "news"
         },
         {
-          "rank": 28,
+          "rank": 27,
           "title": "Zara pulls Halloween costume likened to uniform for inmates at concentration camps",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPamU5M1VLZUFUYUFua3U3dVZFc0JhYXQ3S2pNUjY2Y2NIVTFGam9EcmthaU4zdlNQYTNZNkIxVkhVTjJ6eG1acERPb09faFBjdjFVaVFtV2dZblhqWF9QejVPZnBDZHRLTEJCX2t6MWM5OFpjMFpQeEFSdkV3SHA1T0UyYjFuMlE1TlQzS2RvdGNPZjJSQ0VJaTBUd0huc0xndEplNDBZa2EyYVJvWWVFdC1Cd9IBuAFBVV95cUxOb2JSeTVDcFpua1NDeVpLeDFqSXU3bmI2OVF4VzJjZkhoRWhyZlhmdmlWcVVIaHFhQzk1amRaRW9ZeWJ6T242NmdWeVM3RjhDSXJXQ0RwNmtlMDlVc3RyUnJjRzUzdDdYNkhnLTQ2UDZZczh2MjZPUkVOeV85NF9XdU5DME9uNXZjTlNYZGFjNkdvVWFiTGIxQTMxS0UxWUIwa3QzbHFpeWZNN3Y2dzlKX29mZEZFWnBL?oc=5",
           "hot": "The Times of Israel",
           "platform": "news"
         },
         {
-          "rank": 29,
+          "rank": 28,
           "title": "Uniqlo is opening 2 stores in the Miami area. Check the dates and local focus",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90SVpxckI4Y1lPNGU0eUxDdXgwcmt2d0VpejEzaDJhR1VMemFjd2lNZ0NvZURKUlMwb2JVNGprRVRucDZmRWxWZlB0eUpWWUtONGRNVHE2ZkZLNmd5YzlGWG5XdjctUk84QnV0cnltN2nSAXBBVV95cUxQX3c0SFhWdjZtMlJqMkc1SHBScE5NRmR0U1E5MUU5MURkNGoybzVBUXZFakNnZndjTUFQSldhNzlSTlZ3SWhMZ292YmdtYjBXTHI2bkxRMmVrY3FHOUlUTGNFVk1YZ3UtN0xZYllfYnVQ?oc=5",
           "hot": "Miami Herald",
           "platform": "news"
         },
         {
-          "rank": 30,
+          "rank": 29,
           "title": "Goldman Sachs bought Shein shares worth $220mn after dismal IPO",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPd3l5TUFvRWZES0VMQlRhanB0QmNHclZLVU5ERXRJUnNaMExVcVdDTUFuWWdCUmZxWnVaME42MHlteWtBYkdWdDRVbE5teWx0MXozcmtNN1pHUWlZVUN6X2FaN2gwclJELXJCVmEtSTR5R2VzcG9CREJ6VHAta3c4WE01Y1U?oc=5",
           "hot": "Financial Times",
+          "platform": "news"
+        },
+        {
+          "rank": 30,
+          "title": "Terrible idea or major coup? Galliano’s Zara collection launches after Met controversy",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbXhnTjNWakhiUjBjSDZyWDB6bzZaaGV1a01Nc1R6dm9RZnN0TktSMnNtbnppY2VTX01SdmZKRFRpSWFmVktMSXlfWERwNHNLRzhNeTlMdHpZYVZpSUpySmhkaTF5bWdnWFgyWEZtTDNST0NSLTB4MXB1ME1iaFhDaVZiVC1RSmZFT2RyckxGblRTNXNncEhHY0ZJa2dCVUFBWFhGaFNJakFTdy13cDc3eHBDX2pSTlk?oc=5",
+          "hot": "The Guardian",
+          "platform": "news"
+        },
+        {
+          "rank": 31,
+          "title": "EXCLUSIVE: John Galliano’s Zara Collection Has Landed, Quietly, in a Paris Mansion",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNX3FzYXlRVE1lNU1yNVA5TFYzb3dTQWkzc1FSWjZGZktuOENKTF92dkdNaC1vLTBMMnZKVVEtOS0wVGw2QWxCUERtR0o3cnl0alpCdmNyNFl2d2lIRGJETnFiUTNXNjBkNnVBUnRjM2VhV216NmFsRjVPRjJ0TVRKVTNDYklVdThoRXphTW5pc1RFdXdaYWhLMFF3?oc=5",
+          "hot": "WWD",
+          "platform": "news"
+        },
+        {
+          "rank": 32,
+          "title": "‘Temu Range Rover’ Is UK Top-Seller Again as China Cars Boom",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORGE2ZVZ2UzdualQ1M2pGcHNoa2pGcEs5WThGbE9Sb3hXeGM3V3RSaV83OGx5YnNZdW9GbEtENXlsajNqV1NuZFEyVmZxX21jdmEwTlc4NzlmQmxzMnNfZlpZUzl1em1WU2VJdC0tLW5GSy1ydmRhQWtpNjdNazAtcmJwUjdfT1VOTXlxeV9Ma19pSWJSOV94cHMtb2lnWU03LU1xWl9zNUNIb1QtR2oyckVCNA?oc=5",
+          "hot": "Bloomberg.com",
+          "platform": "news"
+        },
+        {
+          "rank": 33,
+          "title": "Zara and John Galliano Launch Debut \"Re{form}\" Vol. 1 Collection",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWVEya3VQZDJPTlVvQUFmRXd3dXV0R3JXazQ1WFNtNDdYcWZQMUlFaWhlX21yZmhXQmtRaHZ6RFdxWFlRenphRFluYzE3NWF1UUJRdjRvbHlkS3pqZzE0alM3MDFjTVpGdVRPUTZZX0V4ZjRxdHNBeklfSmdoRE9DOEVYVHhfSTJNLVZUamRhLWVuVjBlV3FRR2tlRWpLbHc?oc=5",
+          "hot": "Hypebeast",
+          "platform": "news"
+        },
+        {
+          "rank": 34,
+          "title": "John Galliano Just Brought Haute Couture to Zara—15 Pieces I Predict Will Sell Out First",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZ20xVUJ3RUVnREltd2NMaVVIa3RTRHJVNVpXSU9LdDNyNlJhendMblBJaXRwRGNKRDJiOWtQZHdreF9hNkcxeUlRdEtkQUVJWUNvTTFRTGlUM0tYUHE1aXZiLS1DVHpPR0VLV0FPcXZNdnd3M21CZTFJTWl3cWtKMms0Zw?oc=5",
+          "hot": "Who What Wear",
+          "platform": "news"
+        },
+        {
+          "rank": 35,
+          "title": "Watch Zara Larsson, Sexyy Red Perform ‘Looking for the Hoes’ Live in Los Angeles",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcVdtaVpOZmZyV0FzV3lGUFljckk2MjRQTmZBQmlIREhYa3RrZjRUMVhFYUdIekt4ZERqeF9NaUNyVS02VkNxcWF6RWdmbmVOcDNjckVFWW1WSUtDYVU5UGwtMEN0cHFzdzM2Z3ZZcGJyTWhBRGNFRTJoZ3pkRnVPS2R5cGlkeC11LXd3NDMyNU5YVF9QRnE2RDEzUWZUSEdQYUI1RmNJRVIwcGs4ZmFmLTdHdVhLZURU?oc=5",
+          "hot": "Rolling Stone",
+          "platform": "news"
+        },
+        {
+          "rank": 36,
+          "title": "John Galliano’s First Zara Collection Is Here",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdXNYWDEtU1phdDVoNGM5VDJJS0dGVnRiUzBDOEdwMUNSSmpFcDNZTFB3dE4zeUk1SjJnUEU3UmhKeTF4NnBLUmVmRWdyc25iMU5TRFFRSlI1NG9SY29uMTFlSFZHRFZqa28teGxpWWcyZnlSbkZtN2duVXNRX3ZzUDRsUEw?oc=5",
+          "hot": "W Magazine",
+          "platform": "news"
+        },
+        {
+          "rank": 37,
+          "title": "Fast-fashion retailer quietly closes over 4K stores",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS0xtUWEtQWxGSGtYcnpVMmp5c1M1STNJZG1EVFMtd3AzU0hRUm5aMFNxWGZqelZuTmd3N1ItNV9QdnRXaWVhMXZVS1NfWDExNkRXNXRSN1pmMHdwbmp5LXJsQ0VqVjktMlVEdVhHS3QxbG9GRWg3ZXIxdDJPRllPLTFFUmw4V3BSSFg2VGhadUIxMTY3clNkMm5KQdIBrwFBVV95cUxPWUljR2FGdDJyS2h4blRDeDNVdnBfcWRSY3RPdjMtdERSVWdTaExSb1FpR1ptYTkyeUl3SHFpWHgtUl94VUNZS1FhVWdweVN5cHhQYXlaSVFESHZocG5PLXNQS2R6Vk5mQkxZU3pTMi1nTjNOS3hQb012eVN1eGlLZjVGSmZETHZIQkRxVjgzZ3pHWmJQRWlKZDFoOEY3N3NzQ3dEZXNOUEN3TUhLd3Bj?oc=5",
+          "hot": "Cleveland.com",
+          "platform": "news"
+        },
+        {
+          "rank": 38,
+          "title": "Zara removes children’s costume after concentration camp uniform criticism",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQM1lIalpiYWxiM1ZPelFsRC1LLVhCdUtYMjQ4bDA5WWtIaXNLcUR4cGcwUkZ3RHJTbTFGWWJndlRyUTY3Zk82bzVFNXc2TnVYNTBfQmUwS0xPUHFRejRvTmN6OUFGckNCQ2pZTkZvUExYYzM3UVlxUThCNmNpWURPcFh5VUplMnNUak1WZ2w5VUFzLUF4eUkybzdka1QyWC16NS12bS1BZHE2UUtvWHZmVVJmbmRZRDdDalVmSXh6VFl4bVBpN2laa1R4anR5dVNJ?oc=5",
+          "hot": "UA.NEWS",
+          "platform": "news"
+        },
+        {
+          "rank": 39,
+          "title": "Marketing winners and losers of the week",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNT0pUUy1lYnY1TlQxai1YRDh6VHIyNU8zaWJpZWVkRVhOaXZWUVNxcU5LbktrNUYzUE5hV0h4TDhia3JSOEhjM3hDaERRT2Nod3RpTHlhMzdKSE5RbllsZkNOYXNRYlRhZUxDUTYzdkdWNUdMOENHdmJicmVGNFB0ZmRfOFBOREYtV1E?oc=5",
+          "hot": "Ad Age",
+          "platform": "news"
+        },
+        {
+          "rank": 40,
+          "title": "Shein quarterly profit falls 67% as costs jump, Europe sales slump",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUlF3Y00zX25UdUVycHZwTHFMMFd3VnVpeVk5dUZfRXVDbmh3MkV6QlRtTERFdlhmODI3ZmJKYVpqcTRmWG4yS3A0ZVZoVkNsRDhSR0VRejVDNTBaTEtfdkxWZVV2dU9hMnB6dURic01Oem1SeGxHaGtlUERjaVJleTFjWFE0R1RrWDFSSFUtVTJlamdUZHVyQWw3eHM?oc=5",
+          "hot": "Reuters",
+          "platform": "news"
+        },
+        {
+          "rank": 41,
+          "title": "Shop John Galliano’s First Collection For Zara",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUlV6R2IxQjZhYlU0b2lJNUg2bWxkNVFHQXFwdmcxbndxa0YxSnhfdFVMMVpvZDZxQS1DOElyWU54dlRDaTFHZ0NSTE5nQUVFQ0xiQlNEZ3M1a19rdmo3Q0tOTHp1Um8xeWVySmFrVnZYdkVYcWVYU1AtUWhIdmh3VVgzejJKVVl2Q3ZzWWplZEEtcmRJYkJabU93eUNoNVpM?oc=5",
+          "hot": "Vogue",
+          "platform": "news"
+        },
+        {
+          "rank": 42,
+          "title": "Uniqlo, 7-Eleven Check Japan’s Consumer Health: Asia Earnings Week Ahead",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUE9JeTIxdm1kT2d4MVlWZGZZT0h3ZU1XV2FYVUF3SDZ2OFVISU9xVjVfdHBfYUJ1Z2l4LUdYVVlxeWdteEtFMTRGdGxUMkpfUUk2dVU3d01uV0NSLUtLUmYtWnhTSjgxZmhDRDZ6TFBSUkFwZ29GTUpaQkxBR3NsRlZEY2ZIUFBCU1pPTlVTb1VaU0xiUktueVp1b19BMjRRUkptZUk2RVkwNDBILXFic3gxVXFqRy1HTWZyNFR3?oc=5",
+          "hot": "Bloomberg.com",
+          "platform": "news"
+        },
+        {
+          "rank": 43,
+          "title": "John Galliano’s Next Move: Remaking the Zara Archives Into Something “Almost Haute Couture”",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1hUE94OGxGajBpZG5vcy1pVWZwTFFWRjFqYWxzQVNzWlZkdk1iM3VEWjVfT3FnWkpYNFdLNlAtR0tHNGkxU0hCRDcxNWNwdFpVNmJwUUx3Zjl3OTlwNk5BU1FWWk1UNTZmWkJn?oc=5",
+          "hot": "Vogue",
+          "platform": "news"
+        },
+        {
+          "rank": 44,
+          "title": "John Galliano Reworks Zara’s Archive Through a Couture Lens for His First Collection",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOd2dzQ2VHN0VUNzlkaXAwSnVlOWJrc3JxWnNhOHZJN0VmSnBKZkt1ZnRxMHRabFhVclZXaENmbHhaZGlFQ0VLZkxhS1pwQTVCVzV6OWxrRXFLRElaN3lBblhwQnY0a0VxTTg5Y1hPUFc0NzR2QlpmdkdfQ1dRMlhkMWpLOGowU2I4RUhYcVA3NnRxUkZ0dUVQYmNVWEFiNmotMGV3VUU4SUJTRmtsVVo5a3E5X2g?oc=5",
+          "hot": "The Hollywood Reporter",
+          "platform": "news"
+        },
+        {
+          "rank": 45,
+          "title": "Zara’s First John Galliano Collection Lands",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUlBidzJ0eTJTcHduZlhzWWpObXRZU2hwQWNWanFiNzF3UmIxY3hYMXhVS29HUnNaaUNzVlhaWmtuRmJsTTQxVzIzNFFXVWtrelhpTHJ5NmpXTHlfVl9wekpPMl9HNDFvSkFxRlhtVVNRSVhHNUtGS096Z3NnOTJTWkZtbVRzZ1djQ0E?oc=5",
+          "hot": "The Business of Fashion",
+          "platform": "news"
+        },
+        {
+          "rank": 46,
+          "title": "Unlike His Met Exhibit, John Galliano’s Zara Collab Has Come to Fruition",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE45RVRBcDdwWkhSVVA3MHpJZ0FkWTlmbkJkNGlIWHdNbmlzM0h1VFhSQXZqaktEbXVXVXg5TkZuM0pxemtmVWE3eXhoeGlsYmRGTVZRM3Rtbjk1NnZFX2NDN1p1WFVzV0YyOTE4bXA3Rm9PU1hH?oc=5",
+          "hot": "fashionista.com",
+          "platform": "news"
+        },
+        {
+          "rank": 47,
+          "title": "We Finally Have a Glimpse of John Galliano's Collection for Zara",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY2E1Slh5cFZzZXp1bV9Da1BCN3R1bnFZc3o1dFRQZ0hOYW1YVXRQcER6WUpxTmdsTXlUY0JSem8yQWlUREVSRTF2RWpZbXpBeUFBcUkxZ05NcWdjS3FrWFVsV01uWm5vX2xwSnBUM3NpWUxCWGJWZndjVUd6Z0dEZmsteE5pLUVDaVppMWZweG1fQUZnNUx3?oc=5",
+          "hot": "Harper's BAZAAR",
+          "platform": "news"
+        },
+        {
+          "rank": 48,
+          "title": "John Galliano's Re{form} Zara Collection [PHOTOS]",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYnp1UWVHWjFSeDJjVzUzVVliVjZWT21tVXhzWkh0QWk0MmJxcU52S2RteVh3S3kxTmt3TVpBNHY3RmlTVW51b05ScUNkaDN0RDBQVTFBNGE2Y3V4MVJjS1R5Z1daMVd2N2prSWRfZEFlOHVTbXM0dG5zRjZWLXVsdC1jTkxtdzlfNmowUk5aaW9OWDN3ZDJZamNRM1BnNm9IOTQ5Sg?oc=5",
+          "hot": "WWD",
+          "platform": "news"
+        },
+        {
+          "rank": 49,
+          "title": "A First Look at John Galliano’s Collection for Zara",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNM2MxZWpnYnZBRlNKRnMzZnR3RlEyQVZJZzZNOFZIREVJczVQOFJQTU5SbkdIUk5OOV92ODYyQ0ZkT3VjWW5KdHpOSHRTaG5POHFuajlYRzBPMzQwdm1QeE5yU1dDWlZPTkltWFZrbkNIOXBDbVlnRGNFQzdxdFpCOE5oR2U4MW9XZG1WZFA0SQ?oc=5",
+          "hot": "The Cut",
+          "platform": "news"
+        },
+        {
+          "rank": 50,
+          "title": "‘Temu Range Rover’ Is UK Best-Seller Again as Chinese Cars Boom",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWDJScUYyU0NMUlZSc20ybjR0amJRNFlheTFzQjhUSDZiX0pCMWd4RE8zS29femZ4ZHZTMEZteGMyQ1pwZS1XbFdYMFh3cTJaaFU4ZDIwaXpjZFZhQnJWeXAyTXJXYzN6ZzFUd21TZTJ0U2tWLW5HSTVnekh0a3VYNHRlbXV1dmZNV2JwcDdETXJUVjdiNWkxN1ZaYV9WTTRFRHBLQlVSb3JlaTBoblhZMVJmWjFKSDlsRzRudXYyR0xFeE9ad240?oc=5",
+          "hot": "Bloomberg.com",
           "platform": "news"
         }
       ]
