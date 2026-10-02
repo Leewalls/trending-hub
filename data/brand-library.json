@@ -1,0 +1,63 @@
+{
+  "version": "2026-10-02",
+  "project": "服装行业雷达 - 品牌词库",
+  "note": "本文件是品牌词库的唯一数据源：抓取脚本读取它做定向监控，风向情报项目可通过 https://leewalls.github.io/trending-hub/data/brand-library.json 直接拉取。dh_verified=true 表示该词已在敦煌网 7 天热词库中出现过（A级候选方向）。",
+  "brands": [
+    {
+      "id": "hellstar",
+      "label": "Hellstar",
+      "category": "街头潮牌",
+      "query": "Hellstar",
+      "aliases": ["hellstartshirts", "hellstar shirt", "hellstar shorts"],
+      "dh_verified": true
+    },
+    {
+      "id": "bape",
+      "label": "BAPE",
+      "category": "日系潮牌",
+      "query": "BAPE OR \"A Bathing Ape\" OR \"Baby Milo\"",
+      "aliases": ["bapetshirts", "baby milo", "monkey print", "ape shirt"],
+      "dh_verified": true
+    },
+    {
+      "id": "sp5der",
+      "label": "Sp5der",
+      "category": "街头潮牌",
+      "query": "Sp5der OR \"Young Thug\"",
+      "aliases": ["spider hoodie"],
+      "dh_verified": true
+    },
+    {
+      "id": "chrome-hearts",
+      "label": "Chrome Hearts",
+      "category": "高端银饰/潮牌",
+      "query": "\"Chrome Hearts\"",
+      "aliases": ["chrome heartlong sleeve", "chrome heartstshirt"],
+      "dh_verified": true
+    },
+    {
+      "id": "denim-tears",
+      "label": "Denim Tears",
+      "category": "设计师潮牌",
+      "query": "\"Denim Tears\"",
+      "aliases": ["denimtearshorts"],
+      "dh_verified": true
+    },
+    {
+      "id": "amiri",
+      "label": "Amiri",
+      "category": "设计师牛仔",
+      "query": "\"Mike Amiri\" OR \"Amiri jeans\" OR \"Amiri shirt\" OR \"Amiri hoodie\"",
+      "aliases": ["amiri jeans"],
+      "dh_verified": true
+    },
+    {
+      "id": "nike-miler",
+      "label": "Nike Miler",
+      "category": "运动套装",
+      "query": "\"Nike Miler\"",
+      "aliases": ["nikenike miller sets", "miller set", "miller running set"],
+      "dh_verified": true
+    }
+  ]
+}

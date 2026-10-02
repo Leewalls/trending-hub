@@ -24,18 +24,23 @@ const NEWS_QUERIES = [
   'fashion industry OR "fashion brand" OR apparel',
   '"fast fashion" OR SHEIN OR Zara OR "H&M" OR Uniqlo OR Temu',
   'fashion week OR luxury brand OR streetwear',
+  'streetwear trend OR "streetwear brand" OR hypebeast',
+  'menswear trend OR "men\'s fashion" OR "men clothing"',
+  'fashion resale OR thrift OR vintage clothing OR "secondhand fashion"',
 ];
 
-// 跨境男装品牌池（敦煌词库验证过的方向，社媒动向 → C级信号 → DH词库验证后升级）
-const BRAND_POOL = [
-  { label: 'Hellstar', query: 'Hellstar' },
-  { label: 'BAPE', query: 'BAPE OR "A Bathing Ape" OR "Baby Milo"' },
-  { label: 'Sp5der', query: 'Sp5der OR "Young Thug"' },
-  { label: 'Chrome Hearts', query: '"Chrome Hearts"' },
-  { label: 'Denim Tears', query: '"Denim Tears"' },
-  { label: 'Amiri', query: '"Mike Amiri" OR "Amiri jeans" OR "Amiri shirt" OR "Amiri hoodie"' },
-  { label: 'Nike Miler', query: '"Nike Miler"' },
-];
+// 品牌词库（从 data/brand-library.json 读取，风向情报项目共用同一份库）
+import fsSync from 'fs';
+const BRAND_LIBRARY = JSON.parse(
+  fsSync.readFileSync(path.join(__dirname, '..', 'data', 'brand-library.json'), 'utf-8')
+);
+const BRAND_POOL = BRAND_LIBRARY.brands.map(b => ({
+  label: b.label,
+  query: b.query,
+  aliases: b.aliases || [],
+  category: b.category || '',
+  dh_verified: !!b.dh_verified
+}));
 
 // 服装领域关键词（用于过滤 X 热搜等泛数据源）
 const FASHION_KEYWORDS = [
@@ -73,36 +78,38 @@ async function fetchWithTimeout(url, timeoutMs = 15000) {
   }
 }
 
-// 通用 RSS 解析（兼容 RSS <item> 和 Atom <entry> 两种格式）
+// 通用 RSS 解析（兼容 RSS <item> 和 Atom <entry>，失败自动重试一次）
 async function fetchRSS(url, maxItems = 20) {
-  try {
-    const res = await fetchWithTimeout(url);
-    const xml = await res.text();
-    const $ = cheerio.load(xml, { xmlMode: true });
-    const items = [];
-    // RSS 2.0 格式
-    $('item').slice(0, maxItems).each((i, el) => {
-      items.push({
-        title: $(el).find('title').text().trim(),
-        link: $(el).find('link').text().trim(),
-        pubDate: $(el).find('pubDate').text().trim()
-      });
-    });
-    // Atom 格式（YouTube 等）
-    if (items.length === 0) {
-      $('entry').slice(0, maxItems).each((i, el) => {
+  for (let attempt = 1; attempt <= 2; attempt++) {
+    try {
+      const res = await fetchWithTimeout(url);
+      const xml = await res.text();
+      const $ = cheerio.load(xml, { xmlMode: true });
+      const items = [];
+      // RSS 2.0 格式
+      $('item').slice(0, maxItems).each((i, el) => {
         items.push({
-          title: $(el).find('title').first().text().trim(),
-          link: $(el).find('link').attr('href') || '',
-          pubDate: ($(el).find('published').text() || $(el).find('updated').text()).trim()
+          title: $(el).find('title').text().trim(),
+          link: $(el).find('link').text().trim(),
+          pubDate: $(el).find('pubDate').text().trim()
         });
       });
+      // Atom 格式（YouTube 等）
+      if (items.length === 0) {
+        $('entry').slice(0, maxItems).each((i, el) => {
+          items.push({
+            title: $(el).find('title').first().text().trim(),
+            link: $(el).find('link').attr('href') || '',
+            pubDate: ($(el).find('published').text() || $(el).find('updated').text()).trim()
+          });
+        });
+      }
+      if (items.length > 0 || attempt === 2) return items;
+    } catch (error) {
+      if (attempt === 2) console.error(`Failed to fetch ${url}:`, error.message);
     }
-    return items;
-  } catch (error) {
-    console.error(`Failed to fetch ${url}:`, error.message);
-    return [];
   }
+  return [];
 }
 
 // 解析 YouTube handle -> channel_id（运行时自动解析并缓存）
@@ -120,12 +127,18 @@ async function resolveChannelId(handle) {
   return null;
 }
 
+// 低行动价值噪音（标题命中即丢弃，不进简报）
+const NOISE_PATTERNS = [
+  /BoF 500/i,
+  /The People Shaping the Global Fashion Industry/i,
+];
+
 // 1. 行业资讯（Google News，多查询合并去重）
 async function fetchFashionNews() {
   const seen = new Set();
   const merged = [];
   const all = await Promise.all(NEWS_QUERIES.map(q =>
-    fetchRSS(`https://news.google.com/rss/search?q=${encodeURIComponent(q)}&hl=en-US&gl=US&ceid=US:en`, 25)
+    fetchRSS(`https://news.google.com/rss/search?q=${encodeURIComponent(q)}&hl=en-US&gl=US&ceid=US:en`, 40)
   ));
 
   for (const items of all) {
@@ -138,13 +151,15 @@ async function fetchFashionNews() {
         source = item.title.slice(idx + 3);
         title = item.title.slice(0, idx);
       }
+      // 过滤低行动价值噪音
+      if (NOISE_PATTERNS.some(p => p.test(title))) continue;
       const key = title.toLowerCase().slice(0, 60);
       if (seen.has(key)) continue;
       seen.add(key);
       merged.push({ title, source, url: item.link, pubDate: item.pubDate });
     }
   }
-  return merged.slice(0, 30).map((item, index) => ({
+  return merged.slice(0, 50).map((item, index) => ({
     rank: index + 1,
     title: item.source ? `${item.title}` : item.title,
     url: item.url,
@@ -196,9 +211,14 @@ async function fetchBrandPool() {
   const all = await Promise.all(BRAND_POOL.map(async brand => {
     const items = await fetchRSS(
       `https://news.google.com/rss/search?q=${encodeURIComponent(brand.query)}&hl=en-US&gl=US&ceid=US:en`,
-      6
+      12
     );
-    return items.map(item => ({ ...item, brand: brand.label }));
+    return items.map(item => ({
+      ...item,
+      brand: brand.label,
+      category: brand.category,
+      dh_verified: brand.dh_verified
+    }));
   }));
 
   const flat = all.flat()
@@ -219,9 +239,12 @@ async function fetchBrandPool() {
       title,
       url: item.link,
       hot: item.brand,
+      category: item.category,
+      dh_verified: item.dh_verified,
+      pubDate: item.pubDate,
       platform: 'brands'
     });
-    if (result.length >= 30) break;
+    if (result.length >= 40) break;
   }
   return result;
 }
