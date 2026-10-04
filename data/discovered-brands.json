@@ -1,9 +1,15 @@
 {
   "John Galliano": {
-    "totalMentions": 50,
+    "totalMentions": 52,
     "firstSeen": "2026-10-02T13:45:18.455Z",
     "sample": "Review: John Galliano’s New Collection for Zara",
-    "lastSeen": "2026-10-04T02:14:19.433Z"
+    "lastSeen": "2026-10-04T08:36:49.540Z"
+  },
+  "Ready": {
+    "totalMentions": 18,
+    "firstSeen": "2026-10-03T12:08:36.278Z",
+    "sample": "Balenciaga Spring 2027 Ready-to-Wear Collection [PHOTOS]",
+    "lastSeen": "2026-10-04T08:36:49.540Z"
   },
   "Zara": {
     "totalMentions": 16,
@@ -11,29 +17,23 @@
     "sample": "Review: John Galliano’s New Collection for Zara",
     "lastSeen": "2026-10-02T13:46:14.251Z"
   },
-  "Ready": {
-    "totalMentions": 15,
-    "firstSeen": "2026-10-03T12:08:36.278Z",
-    "sample": "Balenciaga Spring 2027 Ready-to-Wear Collection [PHOTOS]",
-    "lastSeen": "2026-10-04T02:14:19.433Z"
-  },
   "These": {
-    "totalMentions": 10,
+    "totalMentions": 12,
     "firstSeen": "2026-10-03T12:08:36.278Z",
     "sample": "These popular Adidas sneakers are 67% off right now — this sale won’t last long",
-    "lastSeen": "2026-10-04T02:14:19.433Z"
+    "lastSeen": "2026-10-04T08:36:49.540Z"
   },
   "Where": {
-    "totalMentions": 10,
+    "totalMentions": 12,
     "firstSeen": "2026-10-03T12:08:36.278Z",
     "sample": "Bad Bunny x adidas Gazelle Indoor Solar: Release Date & Where to Buy",
-    "lastSeen": "2026-10-04T02:14:19.433Z"
+    "lastSeen": "2026-10-04T08:36:49.540Z"
   },
   "PHOTOS": {
-    "totalMentions": 8,
+    "totalMentions": 10,
     "firstSeen": "2026-10-03T16:33:24.887Z",
     "sample": "Balenciaga Spring 2027 Ready-to-Wear Collection [PHOTOS]",
-    "lastSeen": "2026-10-04T02:14:19.433Z"
+    "lastSeen": "2026-10-04T08:36:49.540Z"
   },
   "Pieces Are All": {
     "totalMentions": 2,
@@ -58,5 +58,35 @@
     "firstSeen": "2026-10-04T02:14:19.433Z",
     "sample": "These 5 Zara Pieces Are All You Need to Build the Perfect Fall Capsule Wardrobe",
     "lastSeen": "2026-10-04T02:14:19.433Z"
+  },
+  "Spent": {
+    "totalMentions": 2,
+    "firstSeen": "2026-10-04T08:36:49.540Z",
+    "sample": "I Spent a Full Day Shopping at Zara—Whoever Designed Its Fall Collection Owes My Wallet an Apology",
+    "lastSeen": "2026-10-04T08:36:49.540Z"
+  },
+  "Full Day Shopping": {
+    "totalMentions": 2,
+    "firstSeen": "2026-10-04T08:36:49.540Z",
+    "sample": "I Spent a Full Day Shopping at Zara—Whoever Designed Its Fall Collection Owes My Wallet an Apology",
+    "lastSeen": "2026-10-04T08:36:49.540Z"
+  },
+  "Whoever Designed Its": {
+    "totalMentions": 2,
+    "firstSeen": "2026-10-04T08:36:49.540Z",
+    "sample": "I Spent a Full Day Shopping at Zara—Whoever Designed Its Fall Collection Owes My Wallet an Apology",
+    "lastSeen": "2026-10-04T08:36:49.540Z"
+  },
+  "My Wallet": {
+    "totalMentions": 2,
+    "firstSeen": "2026-10-04T08:36:49.540Z",
+    "sample": "I Spent a Full Day Shopping at Zara—Whoever Designed Its Fall Collection Owes My Wallet an Apology",
+    "lastSeen": "2026-10-04T08:36:49.540Z"
+  },
+  "Apology": {
+    "totalMentions": 2,
+    "firstSeen": "2026-10-04T08:36:49.540Z",
+    "sample": "I Spent a Full Day Shopping at Zara—Whoever Designed Its Fall Collection Owes My Wallet an Apology",
+    "lastSeen": "2026-10-04T08:36:49.540Z"
   }
 }
