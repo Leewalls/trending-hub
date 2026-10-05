@@ -1,15 +1,15 @@
 {
   "John Galliano": {
-    "totalMentions": 62,
+    "totalMentions": 64,
     "firstSeen": "2026-10-02T13:45:18.455Z",
     "sample": "Review: John Galliano’s New Collection for Zara",
-    "lastSeen": "2026-10-05T00:19:29.962Z"
+    "lastSeen": "2026-10-05T05:58:50.439Z"
   },
   "Ready": {
-    "totalMentions": 29,
+    "totalMentions": 30,
     "firstSeen": "2026-10-03T12:08:36.278Z",
     "sample": "Balenciaga Spring 2027 Ready-to-Wear Collection [PHOTOS]",
-    "lastSeen": "2026-10-05T00:19:29.962Z"
+    "lastSeen": "2026-10-05T05:58:50.439Z"
   },
   "Zara": {
     "totalMentions": 16,
@@ -35,17 +35,23 @@
     "sample": "These popular Adidas sneakers are 67% off right now — this sale won’t last long",
     "lastSeen": "2026-10-04T08:36:49.540Z"
   },
+  "Berkeley": {
+    "totalMentions": 10,
+    "firstSeen": "2026-10-04T18:27:52.183Z",
+    "sample": "Founders of fashion brand killed in hills neighborhood near Berkeley campus",
+    "lastSeen": "2026-10-05T05:58:50.439Z"
+  },
   "BEAMS": {
     "totalMentions": 8,
     "firstSeen": "2026-10-04T14:30:21.327Z",
     "sample": "BEAMS x Lacoste Turned the Iconic Crocodile Into a \"BEAMS\" Logo for the Label's 50th",
     "lastSeen": "2026-10-05T00:19:29.962Z"
   },
-  "Berkeley": {
-    "totalMentions": 7,
-    "firstSeen": "2026-10-04T18:27:52.183Z",
+  "Founders": {
+    "totalMentions": 6,
+    "firstSeen": "2026-10-04T21:45:33.593Z",
     "sample": "Founders of fashion brand killed in hills neighborhood near Berkeley campus",
-    "lastSeen": "2026-10-05T00:19:29.962Z"
+    "lastSeen": "2026-10-05T05:58:50.439Z"
   },
   "Spent": {
     "totalMentions": 5,
@@ -77,11 +83,11 @@
     "sample": "I Spent a Full Day Shopping at Zara—Whoever Designed Its Fall Collection Owes My Wallet an Apology",
     "lastSeen": "2026-10-04T18:27:52.183Z"
   },
-  "Founders": {
+  "Oakland Hills": {
     "totalMentions": 4,
-    "firstSeen": "2026-10-04T21:45:33.593Z",
-    "sample": "Founders of fashion brand killed in hills neighborhood near Berkeley campus",
-    "lastSeen": "2026-10-05T00:19:29.962Z"
+    "firstSeen": "2026-10-05T00:19:29.962Z",
+    "sample": "Berkeley luxury fashion brand founders found dead outside upscale Oakland Hills home",
+    "lastSeen": "2026-10-05T05:58:50.439Z"
   },
   "Pieces Are All": {
     "totalMentions": 2,
@@ -106,11 +112,5 @@
     "firstSeen": "2026-10-04T02:14:19.433Z",
     "sample": "These 5 Zara Pieces Are All You Need to Build the Perfect Fall Capsule Wardrobe",
     "lastSeen": "2026-10-04T02:14:19.433Z"
-  },
-  "Oakland Hills": {
-    "totalMentions": 2,
-    "firstSeen": "2026-10-05T00:19:29.962Z",
-    "sample": "Berkeley luxury fashion brand founders found dead outside upscale Oakland Hills home",
-    "lastSeen": "2026-10-05T00:19:29.962Z"
   }
 }
