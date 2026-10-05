@@ -6,10 +6,10 @@
     "lastSeen": "2026-10-05T13:46:29.305Z"
   },
   "Ready": {
-    "totalMentions": 32,
+    "totalMentions": 33,
     "firstSeen": "2026-10-03T12:08:36.278Z",
     "sample": "Balenciaga Spring 2027 Ready-to-Wear Collection [PHOTOS]",
-    "lastSeen": "2026-10-05T13:46:29.305Z"
+    "lastSeen": "2026-10-05T21:17:38.819Z"
   },
   "Zara": {
     "totalMentions": 16,
@@ -18,10 +18,16 @@
     "lastSeen": "2026-10-02T13:46:14.251Z"
   },
   "PHOTOS": {
-    "totalMentions": 15,
+    "totalMentions": 16,
     "firstSeen": "2026-10-03T16:33:24.887Z",
     "sample": "Balenciaga Spring 2027 Ready-to-Wear Collection [PHOTOS]",
-    "lastSeen": "2026-10-04T21:45:33.593Z"
+    "lastSeen": "2026-10-05T21:17:38.819Z"
+  },
+  "Berkeley": {
+    "totalMentions": 16,
+    "firstSeen": "2026-10-04T18:27:52.183Z",
+    "sample": "Founders of fashion brand killed in hills neighborhood near Berkeley campus",
+    "lastSeen": "2026-10-05T21:17:38.819Z"
   },
   "Where": {
     "totalMentions": 13,
@@ -29,17 +35,17 @@
     "sample": "Bad Bunny x adidas Gazelle Indoor Solar: Release Date & Where to Buy",
     "lastSeen": "2026-10-04T14:30:21.327Z"
   },
-  "Berkeley": {
-    "totalMentions": 13,
-    "firstSeen": "2026-10-04T18:27:52.183Z",
-    "sample": "Founders of fashion brand killed in hills neighborhood near Berkeley campus",
-    "lastSeen": "2026-10-05T13:46:29.305Z"
-  },
   "These": {
     "totalMentions": 12,
     "firstSeen": "2026-10-03T12:08:36.278Z",
     "sample": "These popular Adidas sneakers are 67% off right now — this sale won’t last long",
     "lastSeen": "2026-10-04T08:36:49.540Z"
+  },
+  "Founders": {
+    "totalMentions": 11,
+    "firstSeen": "2026-10-04T21:45:33.593Z",
+    "sample": "Founders of fashion brand killed in hills neighborhood near Berkeley campus",
+    "lastSeen": "2026-10-05T21:17:38.819Z"
   },
   "BEAMS": {
     "totalMentions": 8,
@@ -47,17 +53,11 @@
     "sample": "BEAMS x Lacoste Turned the Iconic Crocodile Into a \"BEAMS\" Logo for the Label's 50th",
     "lastSeen": "2026-10-05T00:19:29.962Z"
   },
-  "Founders": {
-    "totalMentions": 8,
-    "firstSeen": "2026-10-04T21:45:33.593Z",
-    "sample": "Founders of fashion brand killed in hills neighborhood near Berkeley campus",
-    "lastSeen": "2026-10-05T13:46:29.305Z"
-  },
   "Oakland Hills": {
-    "totalMentions": 6,
+    "totalMentions": 8,
     "firstSeen": "2026-10-05T00:19:29.962Z",
     "sample": "Berkeley luxury fashion brand founders found dead outside upscale Oakland Hills home",
-    "lastSeen": "2026-10-05T13:46:29.305Z"
+    "lastSeen": "2026-10-05T21:17:38.819Z"
   },
   "Spent": {
     "totalMentions": 5,
@@ -112,5 +112,11 @@
     "firstSeen": "2026-10-04T02:14:19.433Z",
     "sample": "These 5 Zara Pieces Are All You Need to Build the Perfect Fall Capsule Wardrobe",
     "lastSeen": "2026-10-04T02:14:19.433Z"
+  },
+  "California": {
+    "totalMentions": 2,
+    "firstSeen": "2026-10-05T21:17:38.819Z",
+    "sample": "Co-founders of luxury women’s fashion brand found shot dead at their California home",
+    "lastSeen": "2026-10-05T21:17:38.819Z"
   }
 }
