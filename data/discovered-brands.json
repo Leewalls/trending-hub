@@ -12,10 +12,16 @@
     "lastSeen": "2026-10-05T21:17:38.819Z"
   },
   "Berkeley": {
-    "totalMentions": 22,
+    "totalMentions": 24,
     "firstSeen": "2026-10-04T18:27:52.183Z",
     "sample": "Founders of fashion brand killed in hills neighborhood near Berkeley campus",
-    "lastSeen": "2026-10-06T15:20:17.589Z"
+    "lastSeen": "2026-10-06T20:26:15.795Z"
+  },
+  "Founders": {
+    "totalMentions": 18,
+    "firstSeen": "2026-10-04T21:45:33.593Z",
+    "sample": "Founders of fashion brand killed in hills neighborhood near Berkeley campus",
+    "lastSeen": "2026-10-06T20:26:15.795Z"
   },
   "Zara": {
     "totalMentions": 16,
@@ -29,17 +35,17 @@
     "sample": "Balenciaga Spring 2027 Ready-to-Wear Collection [PHOTOS]",
     "lastSeen": "2026-10-05T21:17:38.819Z"
   },
-  "Founders": {
-    "totalMentions": 16,
-    "firstSeen": "2026-10-04T21:45:33.593Z",
-    "sample": "Founders of fashion brand killed in hills neighborhood near Berkeley campus",
-    "lastSeen": "2026-10-06T15:20:17.589Z"
-  },
   "Where": {
     "totalMentions": 13,
     "firstSeen": "2026-10-03T12:08:36.278Z",
     "sample": "Bad Bunny x adidas Gazelle Indoor Solar: Release Date & Where to Buy",
     "lastSeen": "2026-10-04T14:30:21.327Z"
+  },
+  "Oakland Hills": {
+    "totalMentions": 13,
+    "firstSeen": "2026-10-05T00:19:29.962Z",
+    "sample": "Berkeley luxury fashion brand founders found dead outside upscale Oakland Hills home",
+    "lastSeen": "2026-10-06T20:26:15.795Z"
   },
   "These": {
     "totalMentions": 12,
@@ -47,17 +53,17 @@
     "sample": "These popular Adidas sneakers are 67% off right now — this sale won’t last long",
     "lastSeen": "2026-10-04T08:36:49.540Z"
   },
-  "Oakland Hills": {
-    "totalMentions": 12,
-    "firstSeen": "2026-10-05T00:19:29.962Z",
-    "sample": "Berkeley luxury fashion brand founders found dead outside upscale Oakland Hills home",
-    "lastSeen": "2026-10-06T15:20:17.589Z"
-  },
   "BEAMS": {
     "totalMentions": 8,
     "firstSeen": "2026-10-04T14:30:21.327Z",
     "sample": "BEAMS x Lacoste Turned the Iconic Crocodile Into a \"BEAMS\" Logo for the Label's 50th",
     "lastSeen": "2026-10-05T00:19:29.962Z"
+  },
+  "California": {
+    "totalMentions": 6,
+    "firstSeen": "2026-10-05T21:17:38.819Z",
+    "sample": "Co-founders of luxury women’s fashion brand found shot dead at their California home",
+    "lastSeen": "2026-10-06T20:26:15.795Z"
   },
   "Spent": {
     "totalMentions": 5,
@@ -88,12 +94,6 @@
     "firstSeen": "2026-10-04T08:36:49.540Z",
     "sample": "I Spent a Full Day Shopping at Zara—Whoever Designed Its Fall Collection Owes My Wallet an Apology",
     "lastSeen": "2026-10-04T18:27:52.183Z"
-  },
-  "California": {
-    "totalMentions": 5,
-    "firstSeen": "2026-10-05T21:17:38.819Z",
-    "sample": "Co-founders of luxury women’s fashion brand found shot dead at their California home",
-    "lastSeen": "2026-10-06T15:20:17.590Z"
   },
   "Anniversary Tees Have": {
     "totalMentions": 3,
