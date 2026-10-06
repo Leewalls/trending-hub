@@ -12,10 +12,10 @@
     "lastSeen": "2026-10-05T21:17:38.819Z"
   },
   "Berkeley": {
-    "totalMentions": 19,
+    "totalMentions": 22,
     "firstSeen": "2026-10-04T18:27:52.183Z",
     "sample": "Founders of fashion brand killed in hills neighborhood near Berkeley campus",
-    "lastSeen": "2026-10-06T08:18:30.526Z"
+    "lastSeen": "2026-10-06T15:20:17.589Z"
   },
   "Zara": {
     "totalMentions": 16,
@@ -30,10 +30,10 @@
     "lastSeen": "2026-10-05T21:17:38.819Z"
   },
   "Founders": {
-    "totalMentions": 14,
+    "totalMentions": 16,
     "firstSeen": "2026-10-04T21:45:33.593Z",
     "sample": "Founders of fashion brand killed in hills neighborhood near Berkeley campus",
-    "lastSeen": "2026-10-06T08:18:30.526Z"
+    "lastSeen": "2026-10-06T15:20:17.589Z"
   },
   "Where": {
     "totalMentions": 13,
@@ -48,10 +48,10 @@
     "lastSeen": "2026-10-04T08:36:49.540Z"
   },
   "Oakland Hills": {
-    "totalMentions": 10,
+    "totalMentions": 12,
     "firstSeen": "2026-10-05T00:19:29.962Z",
     "sample": "Berkeley luxury fashion brand founders found dead outside upscale Oakland Hills home",
-    "lastSeen": "2026-10-06T08:18:30.526Z"
+    "lastSeen": "2026-10-06T15:20:17.589Z"
   },
   "BEAMS": {
     "totalMentions": 8,
@@ -90,10 +90,28 @@
     "lastSeen": "2026-10-04T18:27:52.183Z"
   },
   "California": {
-    "totalMentions": 4,
+    "totalMentions": 5,
     "firstSeen": "2026-10-05T21:17:38.819Z",
     "sample": "Co-founders of luxury women’s fashion brand found shot dead at their California home",
-    "lastSeen": "2026-10-06T08:18:30.526Z"
+    "lastSeen": "2026-10-06T15:20:17.590Z"
+  },
+  "Anniversary Tees Have": {
+    "totalMentions": 3,
+    "firstSeen": "2026-10-06T08:18:30.526Z",
+    "sample": "UNIQLO’s Pokémon 30th Anniversary Tees Have Landed in Australia",
+    "lastSeen": "2026-10-06T15:20:17.590Z"
+  },
+  "Landed": {
+    "totalMentions": 3,
+    "firstSeen": "2026-10-06T08:18:30.526Z",
+    "sample": "UNIQLO’s Pokémon 30th Anniversary Tees Have Landed in Australia",
+    "lastSeen": "2026-10-06T15:20:17.590Z"
+  },
+  "Australia": {
+    "totalMentions": 3,
+    "firstSeen": "2026-10-06T08:18:30.526Z",
+    "sample": "UNIQLO’s Pokémon 30th Anniversary Tees Have Landed in Australia",
+    "lastSeen": "2026-10-06T15:20:17.590Z"
   },
   "Pieces Are All": {
     "totalMentions": 2,
@@ -118,23 +136,5 @@
     "firstSeen": "2026-10-04T02:14:19.433Z",
     "sample": "These 5 Zara Pieces Are All You Need to Build the Perfect Fall Capsule Wardrobe",
     "lastSeen": "2026-10-04T02:14:19.433Z"
-  },
-  "Anniversary Tees Have": {
-    "totalMentions": 2,
-    "firstSeen": "2026-10-06T08:18:30.526Z",
-    "sample": "UNIQLO’s Pokémon 30th Anniversary Tees Have Landed in Australia",
-    "lastSeen": "2026-10-06T08:18:30.526Z"
-  },
-  "Landed": {
-    "totalMentions": 2,
-    "firstSeen": "2026-10-06T08:18:30.526Z",
-    "sample": "UNIQLO’s Pokémon 30th Anniversary Tees Have Landed in Australia",
-    "lastSeen": "2026-10-06T08:18:30.526Z"
-  },
-  "Australia": {
-    "totalMentions": 2,
-    "firstSeen": "2026-10-06T08:18:30.526Z",
-    "sample": "UNIQLO’s Pokémon 30th Anniversary Tees Have Landed in Australia",
-    "lastSeen": "2026-10-06T08:18:30.526Z"
   }
 }
