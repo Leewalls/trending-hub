@@ -6,10 +6,10 @@
     "lastSeen": "2026-10-05T13:46:29.305Z"
   },
   "Ready": {
-    "totalMentions": 39,
+    "totalMentions": 40,
     "firstSeen": "2026-10-03T12:08:36.278Z",
     "sample": "Balenciaga Spring 2027 Ready-to-Wear Collection [PHOTOS]",
-    "lastSeen": "2026-10-12T11:09:52.733Z"
+    "lastSeen": "2026-10-12T20:22:02.689Z"
   },
   "Berkeley": {
     "totalMentions": 31,
@@ -160,5 +160,11 @@
     "firstSeen": "2026-10-12T03:16:59.444Z",
     "sample": "Under Armour Arc 96 x Rakai “25XX” Releases October 19 for $155",
     "lastSeen": "2026-10-12T03:16:59.444Z"
+  },
+  "Collaboration": {
+    "totalMentions": 2,
+    "firstSeen": "2026-10-12T20:22:02.689Z",
+    "sample": "The Hellstar x 2Pac Collaboration is Available Now on Complex",
+    "lastSeen": "2026-10-12T20:22:02.689Z"
   }
 }
