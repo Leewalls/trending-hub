@@ -114,10 +114,16 @@
     "lastSeen": "2026-10-04T18:27:52.183Z"
   },
   "Collaboration": {
-    "totalMentions": 4,
+    "totalMentions": 5,
     "firstSeen": "2026-10-12T20:22:02.689Z",
     "sample": "The Hellstar x 2Pac Collaboration is Available Now on Complex",
-    "lastSeen": "2026-10-13T02:08:57.167Z"
+    "lastSeen": "2026-10-13T09:36:24.362Z"
+  },
+  "Giorgio Armani": {
+    "totalMentions": 4,
+    "firstSeen": "2026-10-13T02:08:57.167Z",
+    "sample": "Giorgio Armani and Kith present 'Dreams of the Dune', the third chapter in their collaboration - Fas",
+    "lastSeen": "2026-10-13T09:36:24.362Z"
   },
   "Anniversary Tees Have": {
     "totalMentions": 3,
@@ -166,11 +172,5 @@
     "firstSeen": "2026-10-12T03:16:59.444Z",
     "sample": "Under Armour Arc 96 x Rakai “25XX” Releases October 19 for $155",
     "lastSeen": "2026-10-12T03:16:59.444Z"
-  },
-  "Giorgio Armani": {
-    "totalMentions": 2,
-    "firstSeen": "2026-10-13T02:08:57.167Z",
-    "sample": "Giorgio Armani and Kith present 'Dreams of the Dune', the third chapter in their collaboration - Fas",
-    "lastSeen": "2026-10-13T02:08:57.167Z"
   }
 }
