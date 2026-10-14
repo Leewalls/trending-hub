@@ -83,6 +83,12 @@
     "sample": "BEAMS x Lacoste Turned the Iconic Crocodile Into a \"BEAMS\" Logo for the Label's 50th",
     "lastSeen": "2026-10-05T00:19:29.962Z"
   },
+  "TNA Wrestling": {
+    "totalMentions": 8,
+    "firstSeen": "2026-10-14T00:44:48.105Z",
+    "sample": "LaMelo Ball’s Fashion Brand Agrees to Major Deal With TNA Wrestling",
+    "lastSeen": "2026-10-14T15:38:06.674Z"
+  },
   "Giorgio Armani": {
     "totalMentions": 7,
     "firstSeen": "2026-10-13T02:08:57.167Z",
@@ -96,16 +102,10 @@
     "lastSeen": "2026-10-14T10:51:00.467Z"
   },
   "LaMelo Ball": {
-    "totalMentions": 6,
+    "totalMentions": 7,
     "firstSeen": "2026-10-14T00:44:48.105Z",
     "sample": "LaMelo Ball’s Fashion Brand Agrees to Major Deal With TNA Wrestling",
-    "lastSeen": "2026-10-14T10:51:00.467Z"
-  },
-  "TNA Wrestling": {
-    "totalMentions": 6,
-    "firstSeen": "2026-10-14T00:44:48.105Z",
-    "sample": "LaMelo Ball’s Fashion Brand Agrees to Major Deal With TNA Wrestling",
-    "lastSeen": "2026-10-14T10:51:00.467Z"
+    "lastSeen": "2026-10-14T15:38:06.674Z"
   },
   "Spent": {
     "totalMentions": 5,
@@ -138,10 +138,10 @@
     "lastSeen": "2026-10-04T18:27:52.183Z"
   },
   "Ayrton Senna": {
-    "totalMentions": 4,
+    "totalMentions": 5,
     "firstSeen": "2026-10-14T05:37:28.399Z",
     "sample": "Zara launches new Ayrton Senna clothing collection inspired by F1 legend",
-    "lastSeen": "2026-10-14T10:51:00.467Z"
+    "lastSeen": "2026-10-14T15:38:06.674Z"
   },
   "Anniversary Tees Have": {
     "totalMentions": 3,
@@ -190,5 +190,11 @@
     "firstSeen": "2026-10-12T03:16:59.444Z",
     "sample": "Under Armour Arc 96 x Rakai “25XX” Releases October 19 for $155",
     "lastSeen": "2026-10-12T03:16:59.444Z"
+  },
+  "SFMTA": {
+    "totalMentions": 2,
+    "firstSeen": "2026-10-14T15:38:06.674Z",
+    "sample": "SFMTA launches merchandise line with Uniqlo",
+    "lastSeen": "2026-10-14T15:38:06.674Z"
   }
 }
