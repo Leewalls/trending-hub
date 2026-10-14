@@ -71,29 +71,29 @@
     "sample": "These popular Adidas sneakers are 67% off right now — this sale won’t last long",
     "lastSeen": "2026-10-04T08:36:49.540Z"
   },
+  "TNA Wrestling": {
+    "totalMentions": 12,
+    "firstSeen": "2026-10-14T00:44:48.105Z",
+    "sample": "LaMelo Ball’s Fashion Brand Agrees to Major Deal With TNA Wrestling",
+    "lastSeen": "2026-10-14T22:50:35.284Z"
+  },
   "California": {
     "totalMentions": 10,
     "firstSeen": "2026-10-05T21:17:38.819Z",
     "sample": "Co-founders of luxury women’s fashion brand found shot dead at their California home",
     "lastSeen": "2026-10-07T17:36:21.737Z"
   },
-  "TNA Wrestling": {
-    "totalMentions": 10,
+  "LaMelo Ball": {
+    "totalMentions": 9,
     "firstSeen": "2026-10-14T00:44:48.105Z",
     "sample": "LaMelo Ball’s Fashion Brand Agrees to Major Deal With TNA Wrestling",
-    "lastSeen": "2026-10-14T19:50:32.633Z"
+    "lastSeen": "2026-10-14T22:50:35.284Z"
   },
   "BEAMS": {
     "totalMentions": 8,
     "firstSeen": "2026-10-04T14:30:21.327Z",
     "sample": "BEAMS x Lacoste Turned the Iconic Crocodile Into a \"BEAMS\" Logo for the Label's 50th",
     "lastSeen": "2026-10-05T00:19:29.962Z"
-  },
-  "LaMelo Ball": {
-    "totalMentions": 8,
-    "firstSeen": "2026-10-14T00:44:48.105Z",
-    "sample": "LaMelo Ball’s Fashion Brand Agrees to Major Deal With TNA Wrestling",
-    "lastSeen": "2026-10-14T19:50:32.633Z"
   },
   "Giorgio Armani": {
     "totalMentions": 7,
@@ -108,10 +108,10 @@
     "lastSeen": "2026-10-14T10:51:00.467Z"
   },
   "Ayrton Senna": {
-    "totalMentions": 6,
+    "totalMentions": 7,
     "firstSeen": "2026-10-14T05:37:28.399Z",
     "sample": "Zara launches new Ayrton Senna clothing collection inspired by F1 legend",
-    "lastSeen": "2026-10-14T19:50:32.633Z"
+    "lastSeen": "2026-10-14T22:50:35.284Z"
   },
   "Spent": {
     "totalMentions": 5,
@@ -143,6 +143,12 @@
     "sample": "I Spent a Full Day Shopping at Zara—Whoever Designed Its Fall Collection Owes My Wallet an Apology",
     "lastSeen": "2026-10-04T18:27:52.183Z"
   },
+  "SFMTA": {
+    "totalMentions": 4,
+    "firstSeen": "2026-10-14T15:38:06.674Z",
+    "sample": "SFMTA launches merchandise line with Uniqlo",
+    "lastSeen": "2026-10-14T22:50:35.284Z"
+  },
   "Anniversary Tees Have": {
     "totalMentions": 3,
     "firstSeen": "2026-10-06T08:18:30.526Z",
@@ -160,12 +166,6 @@
     "firstSeen": "2026-10-06T08:18:30.526Z",
     "sample": "UNIQLO’s Pokémon 30th Anniversary Tees Have Landed in Australia",
     "lastSeen": "2026-10-06T15:20:17.590Z"
-  },
-  "SFMTA": {
-    "totalMentions": 3,
-    "firstSeen": "2026-10-14T15:38:06.674Z",
-    "sample": "SFMTA launches merchandise line with Uniqlo",
-    "lastSeen": "2026-10-14T19:50:32.633Z"
   },
   "Pieces Are All": {
     "totalMentions": 2,
