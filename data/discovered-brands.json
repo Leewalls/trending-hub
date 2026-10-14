@@ -90,10 +90,22 @@
     "lastSeen": "2026-10-13T21:54:35.714Z"
   },
   "Collaboration": {
-    "totalMentions": 6,
+    "totalMentions": 7,
     "firstSeen": "2026-10-12T20:22:02.689Z",
     "sample": "The Hellstar x 2Pac Collaboration is Available Now on Complex",
-    "lastSeen": "2026-10-13T17:14:48.254Z"
+    "lastSeen": "2026-10-14T10:51:00.467Z"
+  },
+  "LaMelo Ball": {
+    "totalMentions": 6,
+    "firstSeen": "2026-10-14T00:44:48.105Z",
+    "sample": "LaMelo Ball’s Fashion Brand Agrees to Major Deal With TNA Wrestling",
+    "lastSeen": "2026-10-14T10:51:00.467Z"
+  },
+  "TNA Wrestling": {
+    "totalMentions": 6,
+    "firstSeen": "2026-10-14T00:44:48.105Z",
+    "sample": "LaMelo Ball’s Fashion Brand Agrees to Major Deal With TNA Wrestling",
+    "lastSeen": "2026-10-14T10:51:00.467Z"
   },
   "Spent": {
     "totalMentions": 5,
@@ -125,17 +137,11 @@
     "sample": "I Spent a Full Day Shopping at Zara—Whoever Designed Its Fall Collection Owes My Wallet an Apology",
     "lastSeen": "2026-10-04T18:27:52.183Z"
   },
-  "LaMelo Ball": {
+  "Ayrton Senna": {
     "totalMentions": 4,
-    "firstSeen": "2026-10-14T00:44:48.105Z",
-    "sample": "LaMelo Ball’s Fashion Brand Agrees to Major Deal With TNA Wrestling",
-    "lastSeen": "2026-10-14T05:37:28.399Z"
-  },
-  "TNA Wrestling": {
-    "totalMentions": 4,
-    "firstSeen": "2026-10-14T00:44:48.105Z",
-    "sample": "LaMelo Ball’s Fashion Brand Agrees to Major Deal With TNA Wrestling",
-    "lastSeen": "2026-10-14T05:37:28.399Z"
+    "firstSeen": "2026-10-14T05:37:28.399Z",
+    "sample": "Zara launches new Ayrton Senna clothing collection inspired by F1 legend",
+    "lastSeen": "2026-10-14T10:51:00.467Z"
   },
   "Anniversary Tees Have": {
     "totalMentions": 3,
@@ -184,11 +190,5 @@
     "firstSeen": "2026-10-12T03:16:59.444Z",
     "sample": "Under Armour Arc 96 x Rakai “25XX” Releases October 19 for $155",
     "lastSeen": "2026-10-12T03:16:59.444Z"
-  },
-  "Ayrton Senna": {
-    "totalMentions": 2,
-    "firstSeen": "2026-10-14T05:37:28.399Z",
-    "sample": "Zara launches new Ayrton Senna clothing collection inspired by F1 legend",
-    "lastSeen": "2026-10-14T05:37:28.399Z"
   }
 }
