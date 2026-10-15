@@ -23,17 +23,17 @@
     "sample": "Founders of fashion brand killed in hills neighborhood near Berkeley campus",
     "lastSeen": "2026-10-07T17:36:21.737Z"
   },
+  "TNA Wrestling": {
+    "totalMentions": 19,
+    "firstSeen": "2026-10-14T00:44:48.105Z",
+    "sample": "LaMelo Ball’s Fashion Brand Agrees to Major Deal With TNA Wrestling",
+    "lastSeen": "2026-10-15T15:58:06.397Z"
+  },
   "PHOTOS": {
     "totalMentions": 18,
     "firstSeen": "2026-10-03T16:33:24.887Z",
     "sample": "Balenciaga Spring 2027 Ready-to-Wear Collection [PHOTOS]",
     "lastSeen": "2026-10-12T11:09:52.733Z"
-  },
-  "TNA Wrestling": {
-    "totalMentions": 18,
-    "firstSeen": "2026-10-14T00:44:48.105Z",
-    "sample": "LaMelo Ball’s Fashion Brand Agrees to Major Deal With TNA Wrestling",
-    "lastSeen": "2026-10-15T11:49:01.637Z"
   },
   "Zara": {
     "totalMentions": 16,
@@ -48,10 +48,10 @@
     "lastSeen": "2026-10-07T10:41:51.148Z"
   },
   "Where": {
-    "totalMentions": 14,
+    "totalMentions": 15,
     "firstSeen": "2026-10-03T12:08:36.278Z",
     "sample": "Bad Bunny x adidas Gazelle Indoor Solar: Release Date & Where to Buy",
-    "lastSeen": "2026-10-12T11:09:52.733Z"
+    "lastSeen": "2026-10-15T15:58:06.398Z"
   },
   "Uniqlo's Affordable Spinoff": {
     "totalMentions": 14,
@@ -83,23 +83,29 @@
     "sample": "LaMelo Ball’s Fashion Brand Agrees to Major Deal With TNA Wrestling",
     "lastSeen": "2026-10-15T11:49:01.637Z"
   },
+  "Ayrton Senna": {
+    "totalMentions": 11,
+    "firstSeen": "2026-10-14T05:37:28.399Z",
+    "sample": "Zara launches new Ayrton Senna clothing collection inspired by F1 legend",
+    "lastSeen": "2026-10-15T15:58:06.397Z"
+  },
   "California": {
     "totalMentions": 10,
     "firstSeen": "2026-10-05T21:17:38.819Z",
     "sample": "Co-founders of luxury women’s fashion brand found shot dead at their California home",
     "lastSeen": "2026-10-07T17:36:21.737Z"
   },
-  "Ayrton Senna": {
-    "totalMentions": 10,
-    "firstSeen": "2026-10-14T05:37:28.399Z",
-    "sample": "Zara launches new Ayrton Senna clothing collection inspired by F1 legend",
-    "lastSeen": "2026-10-15T11:49:01.637Z"
-  },
   "BEAMS": {
     "totalMentions": 8,
     "firstSeen": "2026-10-04T14:30:21.327Z",
     "sample": "BEAMS x Lacoste Turned the Iconic Crocodile Into a \"BEAMS\" Logo for the Label's 50th",
     "lastSeen": "2026-10-05T00:19:29.962Z"
+  },
+  "SFMTA": {
+    "totalMentions": 8,
+    "firstSeen": "2026-10-14T15:38:06.674Z",
+    "sample": "SFMTA launches merchandise line with Uniqlo",
+    "lastSeen": "2026-10-15T15:58:06.397Z"
   },
   "Giorgio Armani": {
     "totalMentions": 7,
@@ -113,11 +119,11 @@
     "sample": "The Hellstar x 2Pac Collaboration is Available Now on Complex",
     "lastSeen": "2026-10-14T10:51:00.467Z"
   },
-  "SFMTA": {
-    "totalMentions": 7,
-    "firstSeen": "2026-10-14T15:38:06.674Z",
-    "sample": "SFMTA launches merchandise line with Uniqlo",
-    "lastSeen": "2026-10-15T11:49:01.637Z"
+  "Vans Is Now": {
+    "totalMentions": 6,
+    "firstSeen": "2026-10-15T01:05:48.012Z",
+    "sample": "Vans Is Now Selling Its Sneakers at Zara",
+    "lastSeen": "2026-10-15T15:58:06.397Z"
   },
   "Spent": {
     "totalMentions": 5,
@@ -148,12 +154,6 @@
     "firstSeen": "2026-10-04T08:36:49.540Z",
     "sample": "I Spent a Full Day Shopping at Zara—Whoever Designed Its Fall Collection Owes My Wallet an Apology",
     "lastSeen": "2026-10-04T18:27:52.183Z"
-  },
-  "Vans Is Now": {
-    "totalMentions": 5,
-    "firstSeen": "2026-10-15T01:05:48.012Z",
-    "sample": "Vans Is Now Selling Its Sneakers at Zara",
-    "lastSeen": "2026-10-15T11:49:01.637Z"
   },
   "Anniversary Tees Have": {
     "totalMentions": 3,
@@ -202,5 +202,11 @@
     "firstSeen": "2026-10-12T03:16:59.444Z",
     "sample": "Under Armour Arc 96 x Rakai “25XX” Releases October 19 for $155",
     "lastSeen": "2026-10-12T03:16:59.444Z"
+  },
+  "JW Anderson": {
+    "totalMentions": 2,
+    "firstSeen": "2026-10-15T15:58:06.397Z",
+    "sample": "I Tried Uniqlo x JW Anderson’s New Academia-Themed Collection",
+    "lastSeen": "2026-10-15T15:58:06.397Z"
   }
 }
