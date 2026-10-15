@@ -41,6 +41,12 @@
     "sample": "Berkeley luxury fashion brand founders found dead outside upscale Oakland Hills home",
     "lastSeen": "2026-10-07T10:41:51.148Z"
   },
+  "TNA Wrestling": {
+    "totalMentions": 16,
+    "firstSeen": "2026-10-14T00:44:48.105Z",
+    "sample": "LaMelo Ball’s Fashion Brand Agrees to Major Deal With TNA Wrestling",
+    "lastSeen": "2026-10-15T06:03:03.180Z"
+  },
   "Where": {
     "totalMentions": 14,
     "firstSeen": "2026-10-03T12:08:36.278Z",
@@ -65,17 +71,17 @@
     "sample": "Uniqlo's Affordable Spinoff Brand Previews Stylish Winter Basics Steeped in Vintage Workwear and Mil",
     "lastSeen": "2026-10-13T17:14:48.254Z"
   },
-  "TNA Wrestling": {
-    "totalMentions": 14,
-    "firstSeen": "2026-10-14T00:44:48.105Z",
-    "sample": "LaMelo Ball’s Fashion Brand Agrees to Major Deal With TNA Wrestling",
-    "lastSeen": "2026-10-15T01:05:48.012Z"
-  },
   "These": {
     "totalMentions": 12,
     "firstSeen": "2026-10-03T12:08:36.278Z",
     "sample": "These popular Adidas sneakers are 67% off right now — this sale won’t last long",
     "lastSeen": "2026-10-04T08:36:49.540Z"
+  },
+  "LaMelo Ball": {
+    "totalMentions": 11,
+    "firstSeen": "2026-10-14T00:44:48.105Z",
+    "sample": "LaMelo Ball’s Fashion Brand Agrees to Major Deal With TNA Wrestling",
+    "lastSeen": "2026-10-15T06:03:03.180Z"
   },
   "California": {
     "totalMentions": 10,
@@ -83,23 +89,17 @@
     "sample": "Co-founders of luxury women’s fashion brand found shot dead at their California home",
     "lastSeen": "2026-10-07T17:36:21.737Z"
   },
-  "LaMelo Ball": {
-    "totalMentions": 10,
-    "firstSeen": "2026-10-14T00:44:48.105Z",
-    "sample": "LaMelo Ball’s Fashion Brand Agrees to Major Deal With TNA Wrestling",
-    "lastSeen": "2026-10-15T01:05:48.012Z"
+  "Ayrton Senna": {
+    "totalMentions": 9,
+    "firstSeen": "2026-10-14T05:37:28.399Z",
+    "sample": "Zara launches new Ayrton Senna clothing collection inspired by F1 legend",
+    "lastSeen": "2026-10-15T06:03:03.180Z"
   },
   "BEAMS": {
     "totalMentions": 8,
     "firstSeen": "2026-10-04T14:30:21.327Z",
     "sample": "BEAMS x Lacoste Turned the Iconic Crocodile Into a \"BEAMS\" Logo for the Label's 50th",
     "lastSeen": "2026-10-05T00:19:29.962Z"
-  },
-  "Ayrton Senna": {
-    "totalMentions": 8,
-    "firstSeen": "2026-10-14T05:37:28.399Z",
-    "sample": "Zara launches new Ayrton Senna clothing collection inspired by F1 legend",
-    "lastSeen": "2026-10-15T01:05:48.012Z"
   },
   "Giorgio Armani": {
     "totalMentions": 7,
@@ -112,6 +112,12 @@
     "firstSeen": "2026-10-12T20:22:02.689Z",
     "sample": "The Hellstar x 2Pac Collaboration is Available Now on Complex",
     "lastSeen": "2026-10-14T10:51:00.467Z"
+  },
+  "SFMTA": {
+    "totalMentions": 6,
+    "firstSeen": "2026-10-14T15:38:06.674Z",
+    "sample": "SFMTA launches merchandise line with Uniqlo",
+    "lastSeen": "2026-10-15T06:03:03.180Z"
   },
   "Spent": {
     "totalMentions": 5,
@@ -143,11 +149,11 @@
     "sample": "I Spent a Full Day Shopping at Zara—Whoever Designed Its Fall Collection Owes My Wallet an Apology",
     "lastSeen": "2026-10-04T18:27:52.183Z"
   },
-  "SFMTA": {
-    "totalMentions": 5,
-    "firstSeen": "2026-10-14T15:38:06.674Z",
-    "sample": "SFMTA launches merchandise line with Uniqlo",
-    "lastSeen": "2026-10-15T01:05:48.012Z"
+  "Vans Is Now": {
+    "totalMentions": 4,
+    "firstSeen": "2026-10-15T01:05:48.012Z",
+    "sample": "Vans Is Now Selling Its Sneakers at Zara",
+    "lastSeen": "2026-10-15T06:03:03.180Z"
   },
   "Anniversary Tees Have": {
     "totalMentions": 3,
@@ -196,11 +202,5 @@
     "firstSeen": "2026-10-12T03:16:59.444Z",
     "sample": "Under Armour Arc 96 x Rakai “25XX” Releases October 19 for $155",
     "lastSeen": "2026-10-12T03:16:59.444Z"
-  },
-  "Vans Is Now": {
-    "totalMentions": 2,
-    "firstSeen": "2026-10-15T01:05:48.012Z",
-    "sample": "Vans Is Now Selling Its Sneakers at Zara",
-    "lastSeen": "2026-10-15T01:05:48.012Z"
   }
 }
