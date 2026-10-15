@@ -24,10 +24,10 @@
     "lastSeen": "2026-10-07T17:36:21.737Z"
   },
   "TNA Wrestling": {
-    "totalMentions": 19,
+    "totalMentions": 21,
     "firstSeen": "2026-10-14T00:44:48.105Z",
     "sample": "LaMelo Ball’s Fashion Brand Agrees to Major Deal With TNA Wrestling",
-    "lastSeen": "2026-10-15T15:58:06.397Z"
+    "lastSeen": "2026-10-15T19:41:47.861Z"
   },
   "PHOTOS": {
     "totalMentions": 18,
@@ -71,17 +71,17 @@
     "sample": "Uniqlo's Affordable Spinoff Brand Previews Stylish Winter Basics Steeped in Vintage Workwear and Mil",
     "lastSeen": "2026-10-13T17:14:48.254Z"
   },
+  "LaMelo Ball": {
+    "totalMentions": 13,
+    "firstSeen": "2026-10-14T00:44:48.105Z",
+    "sample": "LaMelo Ball’s Fashion Brand Agrees to Major Deal With TNA Wrestling",
+    "lastSeen": "2026-10-15T19:41:47.861Z"
+  },
   "These": {
     "totalMentions": 12,
     "firstSeen": "2026-10-03T12:08:36.278Z",
     "sample": "These popular Adidas sneakers are 67% off right now — this sale won’t last long",
     "lastSeen": "2026-10-04T08:36:49.540Z"
-  },
-  "LaMelo Ball": {
-    "totalMentions": 12,
-    "firstSeen": "2026-10-14T00:44:48.105Z",
-    "sample": "LaMelo Ball’s Fashion Brand Agrees to Major Deal With TNA Wrestling",
-    "lastSeen": "2026-10-15T11:49:01.637Z"
   },
   "Ayrton Senna": {
     "totalMentions": 11,
@@ -95,17 +95,17 @@
     "sample": "Co-founders of luxury women’s fashion brand found shot dead at their California home",
     "lastSeen": "2026-10-07T17:36:21.737Z"
   },
+  "SFMTA": {
+    "totalMentions": 9,
+    "firstSeen": "2026-10-14T15:38:06.674Z",
+    "sample": "SFMTA launches merchandise line with Uniqlo",
+    "lastSeen": "2026-10-15T19:41:47.861Z"
+  },
   "BEAMS": {
     "totalMentions": 8,
     "firstSeen": "2026-10-04T14:30:21.327Z",
     "sample": "BEAMS x Lacoste Turned the Iconic Crocodile Into a \"BEAMS\" Logo for the Label's 50th",
     "lastSeen": "2026-10-05T00:19:29.962Z"
-  },
-  "SFMTA": {
-    "totalMentions": 8,
-    "firstSeen": "2026-10-14T15:38:06.674Z",
-    "sample": "SFMTA launches merchandise line with Uniqlo",
-    "lastSeen": "2026-10-15T15:58:06.397Z"
   },
   "Giorgio Armani": {
     "totalMentions": 7,
@@ -120,10 +120,10 @@
     "lastSeen": "2026-10-14T10:51:00.467Z"
   },
   "Vans Is Now": {
-    "totalMentions": 6,
+    "totalMentions": 7,
     "firstSeen": "2026-10-15T01:05:48.012Z",
     "sample": "Vans Is Now Selling Its Sneakers at Zara",
-    "lastSeen": "2026-10-15T15:58:06.397Z"
+    "lastSeen": "2026-10-15T19:41:47.861Z"
   },
   "Spent": {
     "totalMentions": 5,
@@ -173,6 +173,12 @@
     "sample": "UNIQLO’s Pokémon 30th Anniversary Tees Have Landed in Australia",
     "lastSeen": "2026-10-06T15:20:17.590Z"
   },
+  "JW Anderson": {
+    "totalMentions": 3,
+    "firstSeen": "2026-10-15T15:58:06.397Z",
+    "sample": "I Tried Uniqlo x JW Anderson’s New Academia-Themed Collection",
+    "lastSeen": "2026-10-15T19:41:47.861Z"
+  },
   "Pieces Are All": {
     "totalMentions": 2,
     "firstSeen": "2026-10-04T02:14:19.433Z",
@@ -202,11 +208,5 @@
     "firstSeen": "2026-10-12T03:16:59.444Z",
     "sample": "Under Armour Arc 96 x Rakai “25XX” Releases October 19 for $155",
     "lastSeen": "2026-10-12T03:16:59.444Z"
-  },
-  "JW Anderson": {
-    "totalMentions": 2,
-    "firstSeen": "2026-10-15T15:58:06.397Z",
-    "sample": "I Tried Uniqlo x JW Anderson’s New Academia-Themed Collection",
-    "lastSeen": "2026-10-15T15:58:06.397Z"
   }
 }
