@@ -53,17 +53,17 @@
     "sample": "Berkeley luxury fashion brand founders found dead outside upscale Oakland Hills home",
     "lastSeen": "2026-10-07T10:41:51.148Z"
   },
+  "SFMTA": {
+    "totalMentions": 16,
+    "firstSeen": "2026-10-14T15:38:06.674Z",
+    "sample": "SFMTA launches merchandise line with Uniqlo",
+    "lastSeen": "2026-10-16T21:50:09.815Z"
+  },
   "Where": {
     "totalMentions": 15,
     "firstSeen": "2026-10-03T12:08:36.278Z",
     "sample": "Bad Bunny x adidas Gazelle Indoor Solar: Release Date & Where to Buy",
     "lastSeen": "2026-10-15T15:58:06.398Z"
-  },
-  "SFMTA": {
-    "totalMentions": 15,
-    "firstSeen": "2026-10-14T15:38:06.674Z",
-    "sample": "SFMTA launches merchandise line with Uniqlo",
-    "lastSeen": "2026-10-16T18:31:24.689Z"
   },
   "Uniqlo's Affordable Spinoff": {
     "totalMentions": 14,
@@ -83,6 +83,12 @@
     "sample": "Uniqlo's Affordable Spinoff Brand Previews Stylish Winter Basics Steeped in Vintage Workwear and Mil",
     "lastSeen": "2026-10-13T17:14:48.254Z"
   },
+  "Vans Is Now": {
+    "totalMentions": 13,
+    "firstSeen": "2026-10-15T01:05:48.012Z",
+    "sample": "Vans Is Now Selling Its Sneakers at Zara",
+    "lastSeen": "2026-10-16T21:50:09.815Z"
+  },
   "These": {
     "totalMentions": 12,
     "firstSeen": "2026-10-03T12:08:36.278Z",
@@ -95,12 +101,6 @@
     "sample": "Zara launches new Ayrton Senna clothing collection inspired by F1 legend",
     "lastSeen": "2026-10-16T18:31:24.689Z"
   },
-  "Vans Is Now": {
-    "totalMentions": 12,
-    "firstSeen": "2026-10-15T01:05:48.012Z",
-    "sample": "Vans Is Now Selling Its Sneakers at Zara",
-    "lastSeen": "2026-10-16T18:31:24.689Z"
-  },
   "California": {
     "totalMentions": 10,
     "firstSeen": "2026-10-05T21:17:38.819Z",
@@ -108,10 +108,10 @@
     "lastSeen": "2026-10-07T17:36:21.737Z"
   },
   "JW Anderson": {
-    "totalMentions": 9,
+    "totalMentions": 10,
     "firstSeen": "2026-10-15T15:58:06.397Z",
     "sample": "I Tried Uniqlo x JW Anderson’s New Academia-Themed Collection",
-    "lastSeen": "2026-10-16T18:31:24.689Z"
+    "lastSeen": "2026-10-16T21:50:09.815Z"
   },
   "BEAMS": {
     "totalMentions": 8,
