@@ -24,10 +24,10 @@
     "lastSeen": "2026-10-07T17:36:21.737Z"
   },
   "TNA Wrestling": {
-    "totalMentions": 23,
+    "totalMentions": 25,
     "firstSeen": "2026-10-14T00:44:48.105Z",
     "sample": "LaMelo Ball’s Fashion Brand Agrees to Major Deal With TNA Wrestling",
-    "lastSeen": "2026-10-15T22:46:39.191Z"
+    "lastSeen": "2026-10-16T00:54:00.845Z"
   },
   "PHOTOS": {
     "totalMentions": 18,
@@ -53,6 +53,12 @@
     "sample": "Bad Bunny x adidas Gazelle Indoor Solar: Release Date & Where to Buy",
     "lastSeen": "2026-10-15T15:58:06.398Z"
   },
+  "LaMelo Ball": {
+    "totalMentions": 15,
+    "firstSeen": "2026-10-14T00:44:48.105Z",
+    "sample": "LaMelo Ball’s Fashion Brand Agrees to Major Deal With TNA Wrestling",
+    "lastSeen": "2026-10-16T00:54:00.845Z"
+  },
   "Uniqlo's Affordable Spinoff": {
     "totalMentions": 14,
     "firstSeen": "2026-10-10T12:47:05.345Z",
@@ -71,12 +77,6 @@
     "sample": "Uniqlo's Affordable Spinoff Brand Previews Stylish Winter Basics Steeped in Vintage Workwear and Mil",
     "lastSeen": "2026-10-13T17:14:48.254Z"
   },
-  "LaMelo Ball": {
-    "totalMentions": 14,
-    "firstSeen": "2026-10-14T00:44:48.105Z",
-    "sample": "LaMelo Ball’s Fashion Brand Agrees to Major Deal With TNA Wrestling",
-    "lastSeen": "2026-10-15T22:46:39.191Z"
-  },
   "These": {
     "totalMentions": 12,
     "firstSeen": "2026-10-03T12:08:36.278Z",
@@ -89,29 +89,29 @@
     "sample": "Zara launches new Ayrton Senna clothing collection inspired by F1 legend",
     "lastSeen": "2026-10-15T15:58:06.397Z"
   },
+  "SFMTA": {
+    "totalMentions": 11,
+    "firstSeen": "2026-10-14T15:38:06.674Z",
+    "sample": "SFMTA launches merchandise line with Uniqlo",
+    "lastSeen": "2026-10-16T00:54:00.846Z"
+  },
   "California": {
     "totalMentions": 10,
     "firstSeen": "2026-10-05T21:17:38.819Z",
     "sample": "Co-founders of luxury women’s fashion brand found shot dead at their California home",
     "lastSeen": "2026-10-07T17:36:21.737Z"
   },
-  "SFMTA": {
-    "totalMentions": 10,
-    "firstSeen": "2026-10-14T15:38:06.674Z",
-    "sample": "SFMTA launches merchandise line with Uniqlo",
-    "lastSeen": "2026-10-15T22:46:39.191Z"
+  "Vans Is Now": {
+    "totalMentions": 9,
+    "firstSeen": "2026-10-15T01:05:48.012Z",
+    "sample": "Vans Is Now Selling Its Sneakers at Zara",
+    "lastSeen": "2026-10-16T00:54:00.846Z"
   },
   "BEAMS": {
     "totalMentions": 8,
     "firstSeen": "2026-10-04T14:30:21.327Z",
     "sample": "BEAMS x Lacoste Turned the Iconic Crocodile Into a \"BEAMS\" Logo for the Label's 50th",
     "lastSeen": "2026-10-05T00:19:29.962Z"
-  },
-  "Vans Is Now": {
-    "totalMentions": 8,
-    "firstSeen": "2026-10-15T01:05:48.012Z",
-    "sample": "Vans Is Now Selling Its Sneakers at Zara",
-    "lastSeen": "2026-10-15T22:46:39.191Z"
   },
   "Giorgio Armani": {
     "totalMentions": 7,
@@ -156,10 +156,10 @@
     "lastSeen": "2026-10-04T18:27:52.183Z"
   },
   "JW Anderson": {
-    "totalMentions": 4,
+    "totalMentions": 5,
     "firstSeen": "2026-10-15T15:58:06.397Z",
     "sample": "I Tried Uniqlo x JW Anderson’s New Academia-Themed Collection",
-    "lastSeen": "2026-10-15T22:46:39.191Z"
+    "lastSeen": "2026-10-16T00:54:00.846Z"
   },
   "Anniversary Tees Have": {
     "totalMentions": 3,
