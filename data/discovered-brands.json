@@ -18,10 +18,10 @@
     "lastSeen": "2026-10-07T17:36:21.737Z"
   },
   "TNA Wrestling": {
-    "totalMentions": 26,
+    "totalMentions": 27,
     "firstSeen": "2026-10-14T00:44:48.105Z",
     "sample": "LaMelo Ball’s Fashion Brand Agrees to Major Deal With TNA Wrestling",
-    "lastSeen": "2026-10-16T09:59:51.222Z"
+    "lastSeen": "2026-10-16T18:31:24.689Z"
   },
   "Founders": {
     "totalMentions": 25,
@@ -35,6 +35,12 @@
     "sample": "Balenciaga Spring 2027 Ready-to-Wear Collection [PHOTOS]",
     "lastSeen": "2026-10-12T11:09:52.733Z"
   },
+  "LaMelo Ball": {
+    "totalMentions": 17,
+    "firstSeen": "2026-10-14T00:44:48.105Z",
+    "sample": "LaMelo Ball’s Fashion Brand Agrees to Major Deal With TNA Wrestling",
+    "lastSeen": "2026-10-16T18:31:24.689Z"
+  },
   "Zara": {
     "totalMentions": 16,
     "firstSeen": "2026-10-02T13:45:18.455Z",
@@ -47,17 +53,17 @@
     "sample": "Berkeley luxury fashion brand founders found dead outside upscale Oakland Hills home",
     "lastSeen": "2026-10-07T10:41:51.148Z"
   },
-  "LaMelo Ball": {
-    "totalMentions": 16,
-    "firstSeen": "2026-10-14T00:44:48.105Z",
-    "sample": "LaMelo Ball’s Fashion Brand Agrees to Major Deal With TNA Wrestling",
-    "lastSeen": "2026-10-16T09:59:51.222Z"
-  },
   "Where": {
     "totalMentions": 15,
     "firstSeen": "2026-10-03T12:08:36.278Z",
     "sample": "Bad Bunny x adidas Gazelle Indoor Solar: Release Date & Where to Buy",
     "lastSeen": "2026-10-15T15:58:06.398Z"
+  },
+  "SFMTA": {
+    "totalMentions": 15,
+    "firstSeen": "2026-10-14T15:38:06.674Z",
+    "sample": "SFMTA launches merchandise line with Uniqlo",
+    "lastSeen": "2026-10-16T18:31:24.689Z"
   },
   "Uniqlo's Affordable Spinoff": {
     "totalMentions": 14,
@@ -77,12 +83,6 @@
     "sample": "Uniqlo's Affordable Spinoff Brand Previews Stylish Winter Basics Steeped in Vintage Workwear and Mil",
     "lastSeen": "2026-10-13T17:14:48.254Z"
   },
-  "SFMTA": {
-    "totalMentions": 14,
-    "firstSeen": "2026-10-14T15:38:06.674Z",
-    "sample": "SFMTA launches merchandise line with Uniqlo",
-    "lastSeen": "2026-10-16T14:38:46.251Z"
-  },
   "These": {
     "totalMentions": 12,
     "firstSeen": "2026-10-03T12:08:36.278Z",
@@ -90,16 +90,16 @@
     "lastSeen": "2026-10-04T08:36:49.540Z"
   },
   "Ayrton Senna": {
-    "totalMentions": 11,
+    "totalMentions": 12,
     "firstSeen": "2026-10-14T05:37:28.399Z",
     "sample": "Zara launches new Ayrton Senna clothing collection inspired by F1 legend",
-    "lastSeen": "2026-10-15T15:58:06.397Z"
+    "lastSeen": "2026-10-16T18:31:24.689Z"
   },
   "Vans Is Now": {
-    "totalMentions": 11,
+    "totalMentions": 12,
     "firstSeen": "2026-10-15T01:05:48.012Z",
     "sample": "Vans Is Now Selling Its Sneakers at Zara",
-    "lastSeen": "2026-10-16T09:59:51.222Z"
+    "lastSeen": "2026-10-16T18:31:24.689Z"
   },
   "California": {
     "totalMentions": 10,
@@ -107,17 +107,17 @@
     "sample": "Co-founders of luxury women’s fashion brand found shot dead at their California home",
     "lastSeen": "2026-10-07T17:36:21.737Z"
   },
+  "JW Anderson": {
+    "totalMentions": 9,
+    "firstSeen": "2026-10-15T15:58:06.397Z",
+    "sample": "I Tried Uniqlo x JW Anderson’s New Academia-Themed Collection",
+    "lastSeen": "2026-10-16T18:31:24.689Z"
+  },
   "BEAMS": {
     "totalMentions": 8,
     "firstSeen": "2026-10-04T14:30:21.327Z",
     "sample": "BEAMS x Lacoste Turned the Iconic Crocodile Into a \"BEAMS\" Logo for the Label's 50th",
     "lastSeen": "2026-10-05T00:19:29.962Z"
-  },
-  "JW Anderson": {
-    "totalMentions": 8,
-    "firstSeen": "2026-10-15T15:58:06.397Z",
-    "sample": "I Tried Uniqlo x JW Anderson’s New Academia-Themed Collection",
-    "lastSeen": "2026-10-16T14:38:46.251Z"
   },
   "Giorgio Armani": {
     "totalMentions": 7,
@@ -185,6 +185,12 @@
     "sample": "Lil Yachty x Nike Tech Fleece: a collaboration to be unveiled on October 16, 2026",
     "lastSeen": "2026-10-16T09:59:51.222Z"
   },
+  "Lululemon": {
+    "totalMentions": 3,
+    "firstSeen": "2026-10-16T14:38:46.251Z",
+    "sample": "Alo Yoga Surpasses Lululemon in Teen Brand Recognition Amid LULU's Attractive Valuation",
+    "lastSeen": "2026-10-16T18:31:24.689Z"
+  },
   "Pieces Are All": {
     "totalMentions": 2,
     "firstSeen": "2026-10-04T02:14:19.433Z",
@@ -214,11 +220,5 @@
     "firstSeen": "2026-10-12T03:16:59.444Z",
     "sample": "Under Armour Arc 96 x Rakai “25XX” Releases October 19 for $155",
     "lastSeen": "2026-10-12T03:16:59.444Z"
-  },
-  "Lululemon": {
-    "totalMentions": 2,
-    "firstSeen": "2026-10-16T14:38:46.251Z",
-    "sample": "Alo Yoga Surpasses Lululemon in Teen Brand Recognition Amid LULU's Attractive Valuation",
-    "lastSeen": "2026-10-16T14:38:46.251Z"
   }
 }
