@@ -78,10 +78,10 @@
     "lastSeen": "2026-10-13T17:14:48.254Z"
   },
   "SFMTA": {
-    "totalMentions": 13,
+    "totalMentions": 14,
     "firstSeen": "2026-10-14T15:38:06.674Z",
     "sample": "SFMTA launches merchandise line with Uniqlo",
-    "lastSeen": "2026-10-16T09:59:51.222Z"
+    "lastSeen": "2026-10-16T14:38:46.251Z"
   },
   "These": {
     "totalMentions": 12,
@@ -113,6 +113,12 @@
     "sample": "BEAMS x Lacoste Turned the Iconic Crocodile Into a \"BEAMS\" Logo for the Label's 50th",
     "lastSeen": "2026-10-05T00:19:29.962Z"
   },
+  "JW Anderson": {
+    "totalMentions": 8,
+    "firstSeen": "2026-10-15T15:58:06.397Z",
+    "sample": "I Tried Uniqlo x JW Anderson’s New Academia-Themed Collection",
+    "lastSeen": "2026-10-16T14:38:46.251Z"
+  },
   "Giorgio Armani": {
     "totalMentions": 7,
     "firstSeen": "2026-10-13T02:08:57.167Z",
@@ -124,12 +130,6 @@
     "firstSeen": "2026-10-12T20:22:02.689Z",
     "sample": "The Hellstar x 2Pac Collaboration is Available Now on Complex",
     "lastSeen": "2026-10-14T10:51:00.467Z"
-  },
-  "JW Anderson": {
-    "totalMentions": 7,
-    "firstSeen": "2026-10-15T15:58:06.397Z",
-    "sample": "I Tried Uniqlo x JW Anderson’s New Academia-Themed Collection",
-    "lastSeen": "2026-10-16T09:59:51.222Z"
   },
   "Spent": {
     "totalMentions": 5,
@@ -214,5 +214,11 @@
     "firstSeen": "2026-10-12T03:16:59.444Z",
     "sample": "Under Armour Arc 96 x Rakai “25XX” Releases October 19 for $155",
     "lastSeen": "2026-10-12T03:16:59.444Z"
+  },
+  "Lululemon": {
+    "totalMentions": 2,
+    "firstSeen": "2026-10-16T14:38:46.251Z",
+    "sample": "Alo Yoga Surpasses Lululemon in Teen Brand Recognition Amid LULU's Attractive Valuation",
+    "lastSeen": "2026-10-16T14:38:46.251Z"
   }
 }
