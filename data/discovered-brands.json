@@ -41,6 +41,12 @@
     "sample": "LaMelo Ball’s Fashion Brand Agrees to Major Deal With TNA Wrestling",
     "lastSeen": "2026-10-16T18:31:24.689Z"
   },
+  "SFMTA": {
+    "totalMentions": 17,
+    "firstSeen": "2026-10-14T15:38:06.674Z",
+    "sample": "SFMTA launches merchandise line with Uniqlo",
+    "lastSeen": "2026-10-17T00:03:08.605Z"
+  },
   "Zara": {
     "totalMentions": 16,
     "firstSeen": "2026-10-02T13:45:18.455Z",
@@ -52,12 +58,6 @@
     "firstSeen": "2026-10-05T00:19:29.962Z",
     "sample": "Berkeley luxury fashion brand founders found dead outside upscale Oakland Hills home",
     "lastSeen": "2026-10-07T10:41:51.148Z"
-  },
-  "SFMTA": {
-    "totalMentions": 16,
-    "firstSeen": "2026-10-14T15:38:06.674Z",
-    "sample": "SFMTA launches merchandise line with Uniqlo",
-    "lastSeen": "2026-10-16T21:50:09.815Z"
   },
   "Where": {
     "totalMentions": 15,
@@ -84,10 +84,10 @@
     "lastSeen": "2026-10-13T17:14:48.254Z"
   },
   "Vans Is Now": {
-    "totalMentions": 13,
+    "totalMentions": 14,
     "firstSeen": "2026-10-15T01:05:48.012Z",
     "sample": "Vans Is Now Selling Its Sneakers at Zara",
-    "lastSeen": "2026-10-16T21:50:09.815Z"
+    "lastSeen": "2026-10-17T00:03:08.605Z"
   },
   "These": {
     "totalMentions": 12,
@@ -101,17 +101,17 @@
     "sample": "Zara launches new Ayrton Senna clothing collection inspired by F1 legend",
     "lastSeen": "2026-10-16T18:31:24.689Z"
   },
+  "JW Anderson": {
+    "totalMentions": 11,
+    "firstSeen": "2026-10-15T15:58:06.397Z",
+    "sample": "I Tried Uniqlo x JW Anderson’s New Academia-Themed Collection",
+    "lastSeen": "2026-10-17T00:03:08.605Z"
+  },
   "California": {
     "totalMentions": 10,
     "firstSeen": "2026-10-05T21:17:38.819Z",
     "sample": "Co-founders of luxury women’s fashion brand found shot dead at their California home",
     "lastSeen": "2026-10-07T17:36:21.737Z"
-  },
-  "JW Anderson": {
-    "totalMentions": 10,
-    "firstSeen": "2026-10-15T15:58:06.397Z",
-    "sample": "I Tried Uniqlo x JW Anderson’s New Academia-Themed Collection",
-    "lastSeen": "2026-10-16T21:50:09.815Z"
   },
   "BEAMS": {
     "totalMentions": 8,
