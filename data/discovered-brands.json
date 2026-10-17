@@ -30,10 +30,10 @@
     "lastSeen": "2026-10-07T17:36:21.737Z"
   },
   "SFMTA": {
-    "totalMentions": 20,
+    "totalMentions": 21,
     "firstSeen": "2026-10-14T15:38:06.674Z",
     "sample": "SFMTA launches merchandise line with Uniqlo",
-    "lastSeen": "2026-10-17T12:36:53.918Z"
+    "lastSeen": "2026-10-17T16:01:56.340Z"
   },
   "PHOTOS": {
     "totalMentions": 18,
@@ -41,17 +41,17 @@
     "sample": "Balenciaga Spring 2027 Ready-to-Wear Collection [PHOTOS]",
     "lastSeen": "2026-10-12T11:09:52.733Z"
   },
+  "Vans Is Now": {
+    "totalMentions": 18,
+    "firstSeen": "2026-10-15T01:05:48.012Z",
+    "sample": "Vans Is Now Selling Its Sneakers at Zara",
+    "lastSeen": "2026-10-17T16:01:56.340Z"
+  },
   "LaMelo Ball": {
     "totalMentions": 17,
     "firstSeen": "2026-10-14T00:44:48.105Z",
     "sample": "LaMelo Ball’s Fashion Brand Agrees to Major Deal With TNA Wrestling",
     "lastSeen": "2026-10-16T18:31:24.689Z"
-  },
-  "Vans Is Now": {
-    "totalMentions": 17,
-    "firstSeen": "2026-10-15T01:05:48.012Z",
-    "sample": "Vans Is Now Selling Its Sneakers at Zara",
-    "lastSeen": "2026-10-17T12:36:53.918Z"
   },
   "Zara": {
     "totalMentions": 16,
@@ -71,6 +71,12 @@
     "sample": "Bad Bunny x adidas Gazelle Indoor Solar: Release Date & Where to Buy",
     "lastSeen": "2026-10-15T15:58:06.398Z"
   },
+  "JW Anderson": {
+    "totalMentions": 15,
+    "firstSeen": "2026-10-15T15:58:06.397Z",
+    "sample": "I Tried Uniqlo x JW Anderson’s New Academia-Themed Collection",
+    "lastSeen": "2026-10-17T16:01:56.340Z"
+  },
   "Uniqlo's Affordable Spinoff": {
     "totalMentions": 14,
     "firstSeen": "2026-10-10T12:47:05.345Z",
@@ -88,12 +94,6 @@
     "firstSeen": "2026-10-10T12:47:05.345Z",
     "sample": "Uniqlo's Affordable Spinoff Brand Previews Stylish Winter Basics Steeped in Vintage Workwear and Mil",
     "lastSeen": "2026-10-13T17:14:48.254Z"
-  },
-  "JW Anderson": {
-    "totalMentions": 14,
-    "firstSeen": "2026-10-15T15:58:06.397Z",
-    "sample": "I Tried Uniqlo x JW Anderson’s New Academia-Themed Collection",
-    "lastSeen": "2026-10-17T12:36:53.918Z"
   },
   "Ayrton Senna": {
     "totalMentions": 13,
