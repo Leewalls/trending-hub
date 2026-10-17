@@ -36,10 +36,10 @@
     "lastSeen": "2026-10-17T16:01:56.340Z"
   },
   "Vans Is Now": {
-    "totalMentions": 19,
+    "totalMentions": 20,
     "firstSeen": "2026-10-15T01:05:48.012Z",
     "sample": "Vans Is Now Selling Its Sneakers at Zara",
-    "lastSeen": "2026-10-17T18:38:51.442Z"
+    "lastSeen": "2026-10-17T21:08:53.064Z"
   },
   "PHOTOS": {
     "totalMentions": 18,
@@ -53,6 +53,12 @@
     "sample": "LaMelo Ball’s Fashion Brand Agrees to Major Deal With TNA Wrestling",
     "lastSeen": "2026-10-16T18:31:24.689Z"
   },
+  "JW Anderson": {
+    "totalMentions": 17,
+    "firstSeen": "2026-10-15T15:58:06.397Z",
+    "sample": "I Tried Uniqlo x JW Anderson’s New Academia-Themed Collection",
+    "lastSeen": "2026-10-17T21:08:53.064Z"
+  },
   "Zara": {
     "totalMentions": 16,
     "firstSeen": "2026-10-02T13:45:18.455Z",
@@ -64,12 +70,6 @@
     "firstSeen": "2026-10-05T00:19:29.962Z",
     "sample": "Berkeley luxury fashion brand founders found dead outside upscale Oakland Hills home",
     "lastSeen": "2026-10-07T10:41:51.148Z"
-  },
-  "JW Anderson": {
-    "totalMentions": 16,
-    "firstSeen": "2026-10-15T15:58:06.397Z",
-    "sample": "I Tried Uniqlo x JW Anderson’s New Academia-Themed Collection",
-    "lastSeen": "2026-10-17T18:38:51.442Z"
   },
   "Where": {
     "totalMentions": 15,
