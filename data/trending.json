@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-17T21:08:53.065Z",
+  "lastUpdated": "2026-10-17T23:14:49.316Z",
   "platforms": {
     "brands": {
       "name": "品牌池动态",
@@ -7,16 +7,76 @@
       "items": [
         {
           "rank": 1,
-          "title": "France in flames: 550,000 protesters take to the streets as Macron erupts, ‘Let them come and get me!’",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRnJyM0plUWZJZjJRMDFHNG42TktVVlpKOURTejZkbzZwWDdnUlV1bGFWUG1hSEw4dXI1eWpuOTROWm04Szd1VzYweVNQQ3NEcXpWVG40ZlUwOWNSaXhha1A0U0doYkJhLWdJYWVBbEJDV1l5REVHUjBxZ0hzV0poa2c4djNQNVpkdFpGN1VQZG5xNHlsNUpxM3lISXZBYk11VDZIYnhfeWtEQ0RFZkZyNnVnVHhWc281aENZQjJnRGJWSG8?oc=5",
-          "hot": "Louis Vuitton / LV",
-          "category": "奢侈",
+          "title": "Ann M. Barbour 1928-2026",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBIM3k3UU9lM2pWaWJlQjc1QjNNVFc0NXV1ekFzT01ZNzNHSUxTSnBkLWxLcXRiLWlFczg1cVlrTm1aUFJmNXM2VGwwMklwQjlGRFdRTFJXRHhSRm9VYlVv?oc=5",
+          "hot": "Barbour",
+          "category": "英伦户外",
           "dh_verified": true,
-          "pubDate": "Sat, 17 Oct 2026 20:06:00 GMT",
+          "pubDate": "Sat, 17 Oct 2026 23:00:27 GMT",
           "platform": "brands"
         },
         {
           "rank": 2,
+          "title": "Ralph Lauren shoppers are at the center of its next big move",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbUttMFo3cklzN0dSTGN0T2pYa2xqUXhsdEhsOHFVYl8yWnhIdXpHMkJLSnhGUUFXV1REdUlJUW8yT2NxaUJSWFlQRnhqeC1HZ19GQjFWblRVUG16UnJMXy1id3BIR1dpMEx5VFd2TVZxTnNPelpVMkEyR18xSU1vSGNBRlZRU3Ex?oc=5",
+          "hot": "Polo Ralph Lauren",
+          "category": "美式休闲",
+          "dh_verified": true,
+          "pubDate": "Sat, 17 Oct 2026 22:47:00 GMT",
+          "platform": "brands"
+        },
+        {
+          "rank": 3,
+          "title": "Aviator Nation Bolt Stitch Sets Are Our New Fall Obsession",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZG51aThvLTFNdFlLZ1UzcFZpbzNpenQyNHlnVGo3bTBHN0E2b09sby1FcmhXWnNJNmEzVTZRY0VGU3lfMmg1Vi0tVkZYRGFEaFFTWTFsdTdmNWRDTEFsWFdIb3VkcVlqdzNXdFZrRnNVcE5iVjdvMlBEa21RM0hQbnRNNmdNR3k4c090X3RZWXBlenBhOVFqVVpoeVNMQQ?oc=5",
+          "hot": "Aviator Nation",
+          "category": "潮牌",
+          "dh_verified": true,
+          "pubDate": "Sat, 17 Oct 2026 22:28:41 GMT",
+          "platform": "brands"
+        },
+        {
+          "rank": 4,
+          "title": "Patrick Mahomes Can't Get Enough of Brittany's Adidas Workout Photos—He's Left Heart-Eyes Twice",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbC1vYXp2RXNHeUhucUkzbkZUa3BIRHJmdmdPNFJYLWRGQ0ZDYWg5T3FNUUI3UXBqdC0tZjJQdlB2RVBDc3MyT3BRZnBfaDRLNFBSeUZzbEpCMWx2ZDhOakFsYnZkVHJUQlFIYzFYM19mUG1YRDc4cnYzX0tiMGptQWd0VW5BcjBYa0ljcVNyMG14bk03VGpPcW9OMF9WZUp6eXYydmRkcU5yQnM?oc=5",
+          "hot": "Adidas",
+          "category": "运动",
+          "dh_verified": true,
+          "pubDate": "Sat, 17 Oct 2026 22:15:53 GMT",
+          "platform": "brands"
+        },
+        {
+          "rank": 5,
+          "title": "Lil Baby Unveils 'Fresh' Tracklist That Includes Future and Young Thug Feature",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOEJtZFEwT1J5TVBPYmxjSU50M1hKZXc1V1VfMDdBM3lvSjd5R0Fzc0xYYmdkZnpmTGhGbk95bmZmSzBENjhGUExLc3FjVDBTNzIwRnF0UVE2Z3NnRU9lX3F6eTNnZkR0WkVDaWJPWXJFVnE1aW9NZ0RpVzR4SmVaQVNTWFNQU1pvaWpkNk43RDFiUVY3bXlReThiRGU?oc=5",
+          "hot": "Sp5der",
+          "category": "街头潮牌",
+          "dh_verified": true,
+          "pubDate": "Sat, 17 Oct 2026 21:03:06 GMT",
+          "platform": "brands"
+        },
+        {
+          "rank": 6,
+          "title": "🇫🇷 This genius tries to loot a Lacoste store during the riots in France and gets an IMMEDIATE LESSON in consequences Writer: Oliver",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03ZUZTc2cxNE1XeGxteVp6NC1tSWsyb3ZfQm9Xb2QxRlMweGJxakF4aWlEd0F0WmZXVzNFU2trald3YlVjRnlseXkwYVdlWURiUzNkaU9iWjFGanRzcktBbVhZRWxWR3ZYcEg0LQ?oc=5",
+          "hot": "Lacoste",
+          "category": "运动休闲",
+          "dh_verified": true,
+          "pubDate": "Sat, 17 Oct 2026 20:32:33 GMT",
+          "platform": "brands"
+        },
+        {
+          "rank": 7,
+          "title": "Shea McGee Is Having a Ralph Lauren Christmas",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMWdzcVBmc1lNOF9nMGw4U2ZCc3ZVWU4yT0RfbjlMMzhsNWJtQ2pCSF9PRV8ta2Fnam9WdlF3ZE1RMzN3Xy1GTjFtYzJsN0JxSG9rbFBIQkxUaGQxSmJyTWI3RmVuZXJoeGd3M215SmdVWjdzdXlBZnlhcDlKMWVhZkRhODE4dw?oc=5",
+          "hot": "Polo Ralph Lauren",
+          "category": "美式休闲",
+          "dh_verified": true,
+          "pubDate": "Sat, 17 Oct 2026 20:00:00 GMT",
+          "platform": "brands"
+        },
+        {
+          "rank": 8,
           "title": "Keri Russell proves why this checked Barbour jacket is a great match for jeans this autumn",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNlowT2ExSFFPUXA5dDlscHQwYUZ0LVZ2aEY0SUtYSEtET2hMbTloX0w5THAweXhpSjlhRE01dUpVVE00cElzeGJfNHhQelFoUFhoQy1LcHJ2aVdCX2N1Z3p0dVFUVGdleFJuNHVGWVA2RUgyNUVmbU51ZkNQUS1JZzd4eWdJZ0dQVE1ubXhqYw?oc=5",
           "hot": "Barbour",
@@ -26,7 +86,7 @@
           "platform": "brands"
         },
         {
-          "rank": 3,
+          "rank": 9,
           "title": "The Hellstar x Tupac Collaboration is Available Now on Complex",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLUxTRVZUaURhOGhyZTVSYktXLWhSUzRFcmxVcjhxZWdlb25pdEwwMUwtdl8yUXFjWjFVajF0OGFzUWQ2R0NxZzZnOW5PMDFlRGpRalpvQlM1czJFNFBHMnZGNE15UTg5d0d1cXJWTkdfdWdxRmJleFljc2dqSkFkTk9BLVZLNnFGd3FCa2luTS1qNkQwQXZkNnVWVTBGMU0yYTJDQ1dlLXFEUQ?oc=5",
           "hot": "Hellstar",
@@ -36,7 +96,7 @@
           "platform": "brands"
         },
         {
-          "rank": 4,
+          "rank": 10,
           "title": "Zara Tindall debuts unexpected Gothic manicure ahead of private family celebrations",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQS2hjTkNMOHF5bmtiOEFfVm1IcjNSalFGbWVmV0REVlFYbmlqcHNfWWJMQmtZaXZyTmpMZHM3bFJ5bUxmMzBGdEJRTFlnV1o4aFY5amVBekNVbkxTNHNWRF9od1U0dmhFS3p2NFdjaDdPS2szUGYwZVgxdjVYdXFLbXBRWFdKV3E2MlVQS213WVQ1UC0zQ1ZFZ3lvOENuVGZnWHh2cmlUR0xKcVEwNmxr?oc=5",
           "hot": "Zara",
@@ -46,7 +106,7 @@
           "platform": "brands"
         },
         {
-          "rank": 5,
+          "rank": 11,
           "title": "Nine analysts give Canada Goose stock a USD 11.78 target",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWHE1TUhTZ1hYTlJGNVhtbU11b3lPNW1Edk5VTExrNHJOMldjZHNhQkRMWm5GZHNMTkRNNjRZX1JOZTVEbjNjNWt0Sms2dWhiSVRES3d0dHBZeDlSREdDejBlMWF6OTliR24xd3AwMEpVQmMxRVMyUzI2SExoUGY1UVdlUG1wbG1UT2lqaFR2YUstT2gtTkg5SzFEM08zVG9TYmpPd1RVaVFQN1JTNkN1WW5HNXN1Zw?oc=5",
           "hot": "Canada Goose",
@@ -56,7 +116,7 @@
           "platform": "brands"
         },
         {
-          "rank": 6,
+          "rank": 12,
           "title": "Queen Camilla joins Zara Tindall for race day at Ascot",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb21wbXJwZGx2cHB1LXcxT1c5N295aDhpOHR1ZERfZ3hkU0VjY0w5eUI3QmhRVVlTaW5rTE1NNGRuc1Jtc3ZyNS1OX3k3QnNCVDJacHJvdW91V0ZOXzVxaFBoM2wwdWNwdjhLcUxUUllMWnpLLWx6UGtTR09rY1k2MzNLeWFsalhSSnQ4MzhDS2k0RnhxbnhvbFNRcjUxNDNsNVE?oc=5",
           "hot": "Zara",
@@ -66,17 +126,7 @@
           "platform": "brands"
         },
         {
-          "rank": 7,
-          "title": "Loreal Sarkisian rocks white bodysuit, Louis Vuitton skirt for Texas-Florida",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOG1iRkxtZWEzaFRYeXhlUFlGajFxb25ETFp2YlItZEFVVGhSZC0xc0s2MVNHMGJKdkhPZjFVSVlFQkkzLXRpREExNnhRUTctRktqY3haRkgxTGlZeURkWmkzQnplNXRwSFY4MzNpS0tkWHRubjZNeFpzQzBTMTlxNWo5aEFDUWVIUHI2OVVEbw?oc=5",
-          "hot": "Louis Vuitton / LV",
-          "category": "奢侈",
-          "dh_verified": true,
-          "pubDate": "Sat, 17 Oct 2026 16:39:13 GMT",
-          "platform": "brands"
-        },
-        {
-          "rank": 8,
+          "rank": 13,
           "title": "Ralph Lauren (RL) Ties Pay To AI Rollout, Is The Stock Undervalued?",
           "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaFdiMDJyUkczUDhhT0ZNbHBiTWU4d0F0a05mUmE2azRHc2NObG4xN3pQem92Z0dJLXZUYm5EOGVQSm1XNTdsUmFHODRoMEJ4WUV2TTd2M0UtQnpuRWhXOWZXaW9lbGVBMEx0ZWRzN1BsYnQtZDBnWUdkRGxTNFFfUjNKSjlJRHVQcUNiRkcxeWo1SHBSa1dvajFYNHNyclFtUjNhTFVEdHBYNVduZ1JQbmc5NTJLSEdBME1BRmsxZ0J6S2pmUjd3RGFheGQ2R01BVGfSAdcBQVVfeXFMUHB1OGU0OTRHdktPeV96eDIybzhKUW04NEQ4UkkyNGV5Y083NkdWZHRjZVQxbUQxanl0c1Q5T25uVm9fX19aRmdGeFVVcVluVEM4NDBsRkphRC1pSUdpYXFKWF9MNmNrUUo3bktlZFVBZzV5cEVaMkVkUm1YeU8zb1lIcmFLejUxTEtteTIyRU1lNTgxTHI1elZpREZFRW44czNpdl80dmFVX3BCbVVPMk1pUWJJQUhfblpsdk1zakJNVlZFa0tCMG51ak5Gd1NUT1psS282ZWs?oc=5",
           "hot": "Polo Ralph Lauren",
@@ -86,7 +136,7 @@
           "platform": "brands"
         },
         {
-          "rank": 9,
+          "rank": 14,
           "title": "Alo could be opening a store in downtown Seattle",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVEhCdUlHejFGOFdxVXFWVy1xajk0NnZCSFo1Wndtb2ZSME1HQXRjWjVwZFFqLTFnbXh4cDQ4N19jQzNpWUhCUkV0RWozVHVXQnFsNjFMRUNHa0d3LWNBdHlfVGkySkJFWnFiY0NhaWE0d25rc2N4cHBBOUc3cmktUFFhMGlVaUJiQ0hiZWlYWmtxbC1FRlMzeTRYdEg4WGNLdUlNQlZMZTJnbl9MaVQzRlhZZVQ1VmNxRFVJ0gG7AUFVX3lxTE5USEJ1SUd6MUY4V3FVcVZXLXFqOTQ2dkJIWjVad21vZlIwTUdBdGNaNXBkUWotMWdteHhwNDg3X2NDM2lZSEJSRXRFajNUdVdCcWw2MUxFQ0drR3ctY0F0eV9UaTJKQkVacWJjQ2FpYTR3bmtzY3hwcEE5RzdyaS1QUWEwaVVpQmJDSGJlaVhaa3FsLUVGUzN5NFh0SDhYY0t1SU1CVkxlMmduX0xpVDNGWFllVDVWY3FEVUk?oc=5",
           "hot": "Alo Yoga",
@@ -96,7 +146,7 @@
           "platform": "brands"
         },
         {
-          "rank": 10,
+          "rank": 15,
           "title": "Cut in half: ASICS Sonicblast 2 Review (2026)",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1NZXU3WnVhdGdLRzcwY1M4eTg4Ymx3Z19TWlU3bks3b0JZQXJfTlFSV1FMLXJueDQ2U19qZUU4WURiZ0pCOUZTczJaVDdyWU9fY0E?oc=5",
           "hot": "Asics",
@@ -106,7 +156,7 @@
           "platform": "brands"
         },
         {
-          "rank": 11,
+          "rank": 16,
           "title": "New Palace Caravaggio Jacket Is in Poor Taste and More",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8xMlRnelVjQzctbEZZcEg0cDhsdVY4VmFRQzNBZEFscFphdG1KaktrdGdVb2pCMjdlMEVVdnMzTmppZURuV3pSRDVxcDFLN1RubW4zMkpjM3lxTXdWZ2c?oc=5",
           "hot": "Palace",
@@ -116,7 +166,7 @@
           "platform": "brands"
         },
         {
-          "rank": 12,
+          "rank": 17,
           "title": "Unlike Mbappé: On Ambassador Sydney Schertenleib Continues to Wear Adidas Predator Boots",
           "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOU1J2X29zR3dsTEVTWDFFelBDck1BRHZYRk1oWHcxQnpBZFRkaUkyN2x0WjFYZ3RldmhWU056TkZ0T2N2c2NFVWtHeEg2MGhKaWY1YnhqQkJwel9BLXVwVUNZMjFMa2xOeExTZkxOMDdlODkwT25Bb0l5WEx4X2RscTN2U0xTQ0tMaGhkOXd6WnlCaHp1Q2xxbHN6NFVVWXRBUkZSSENjVUhiUnVEXzRwS1FhRjVnTkdSLTBEREh6OGJtTVJ1bHVDVjdmVjdZSU0?oc=5",
           "hot": "Adidas",
@@ -126,7 +176,7 @@
           "platform": "brands"
         },
         {
-          "rank": 13,
+          "rank": 18,
           "title": "If Kai Cenat gets T-boned in that, he's in for a world of pain Writer: Ian",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1iTFN1Q19VSzdkeW93ZVNxZzFLQjhUeGhNYVlUVmRpV01VR2VKMXVFY0RpZG9JeXJXVU5FUVpLYk9QdGt3MDJ5V1NCbWhkM3dMODllQ20zWDVLb1NrVEszVnB5VXUtUUZSQ1ZRUw?oc=5",
           "hot": "Kai Cenat 相关",
@@ -136,7 +186,7 @@
           "platform": "brands"
         },
         {
-          "rank": 14,
+          "rank": 19,
           "title": "North Dakota ranchers fought a pipeline company over compensation for easements across their land; after",
           "url": "https://news.google.com/rss/articles/CBMilgNBVV95cUxOTVFESnltNnhMZlcxTEYwMkFhdTdYN0ttZTg0U0hjOE53YmVQa1dwYXVkMGo3Y0pESlcxSDJfZVItd1d6Qk5wOFN0OWRQQ1lON1NEdDV0TVZtTmxuUHZyN0M1OENGa1RIenJ3TzJ2ekRGN3owbHZsQU9peWZGcldTaEJsR2FHSFdiTFRiNlBnUnRGUV9HTndpd0diNzdNeVJkbWxLVGdsd2wzYk12NTFSSnpTRUh6ZmEzbTJsdG9YbEVDYlNCVC1pXzNfT0VoT3NzbUhOUE14UVRoN3RJbjNxdkdMOXpDVWllMXlMeHpLLVdfM0UzVkpzY240SEZjSXVDTTF5b1JLcTZmZnRHMFc5aGdEUUhPVnJxQ2l6WlpiS3hzalk0YmRKV3VFUnduNkw1RjZ2OG1Hc1hHeWpPZDZ0dE1qa0V2S1MwaDBLRXpwMlpEbGJZU0MtejFSUVAxMnZ6NVhZbW1UNW1jbTlzMWhSOV8tblFlNHB0N1piamdnNmhTbXVIbEd5NVBDdDN3b0h2NmdONWRB0gGbA0FVX3lxTFBZWFV0bkJZUk92LUl1cl9MbVVmbTBvNWxZelFCVXE2R0ExaEQ4VFBpamlHN09YSDM4SU5uOWhsMWkxdkZpcWJya1RnRjJkWXlfNHZXRVNpR3lhMm94RkRZa0NmNXg3Ukh3NDVIOENZTEVLVmtXc1poeXY3eEdrVzV5TGg2ekkwdTZsSVZ5dVJzVXZrd2NGRUtPSnM4Sml3aFNwd0dEUi1hNGpJSXZRbUd6QjA1Rkl6V1FjLXluN0M5QTl4dmdZQnVpcTNtdkEtRklCLTRhVy1fZ0lLeEtFNW55NzNfbXdobkN4bnJYSWlXRExoYk43dW5IMXN4YmhGaGdIcnNoTkxDODZyNHFXdFdPV29rbEJEN2NpNmlUdnVRcDlmanNvYmd4a1laZWxqUXhFNnRxUmRsNlQ5WEFuN1hWN2ZIbkdPTFlQT3V0anZfbzBscVQtbEQ1dFpqNmJTaFhuN3JJby13VlptVTVWRUx1R3M0eHNPUk9Camt1eWgwT2YwMjQwTFNkY2FqVzZ2TVR6azJUa0dpX0FMRQ?oc=5",
           "hot": "Supreme",
@@ -146,7 +196,7 @@
           "platform": "brands"
         },
         {
-          "rank": 15,
+          "rank": 20,
           "title": "BABY MILO® Debuts \"12 Zodiac Blind Box Series\" for FW26",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMUFyYUludkZRSDJoTWFrZkhQZUI4cm50dmFsc2hzcDJHWjY3UDVCSU5UZC16MzdNT2hrZDUtZHNNZ0FVcXMzSFc4eXBwLUJmVVd2TUNPaWtrSmszVVFNNDJIVDIzdkdVN3BYRDAtWHk3WXBiUHpCb19sMWFTNWY5OUFfakQ2NTE0dGVTYnlTWlZaT011cDJDazBqUQ?oc=5",
           "hot": "BAPE",
@@ -156,7 +206,7 @@
           "platform": "brands"
         },
         {
-          "rank": 16,
+          "rank": 21,
           "title": "NBA legend Tony Parker’s 53-acre mansion with its own waterpark that featured in Kai Cenat’s streams goes",
           "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNUFVQRFFCUXBDZHo3STVOSzJYdGZiaEN4Y281RGoxbEdoWTNIeDVCSUVEUktIUGRvU3lJN2JOcDU4WUY5TXRmb2JaREdsMTVDOER3cURWaG1KQ3hRZnlFLTVQZWpTcjRnajN5cllGcV9RNWlpVENJaFJTLTdoclhxdnhBNFhnLTlvYzFITTZNRUdXUW1TX2duTm93ejNaQjZ3YTNjbjlfMDNVU0RXVWlPMzhYY1daUF85TjZuUU55WUpFQm9NdVNCbXZhNjFZVy11VlNrS1dJMWFjcHVlTmpZMzJwaE9NRlptc0l3TzJXbndxQ2V5dUtpWGlwRzQzaVRPbGNrME1jbjh2UXJDeklhaWxvcU1Fd2dHRG5pN1hmem9JeWJlSHhVN2RTM1YzZkNndG9YTm1Fd1VickdSZVHSAcMCQVVfeXFMT0JXdWhCRkVselE1Vm81MHBoRzNraXJiZkVsZ3N2akdmdkViVE8yRlBvemE0eXZfUk1mREZDU1RUdXlHd0JSQzRtVm9iV2t1RHB4Y1dfVm9QbU9FcV9veTRNcE9yUm9NZTVjdHlTbWR3aFNEZ0JRa1ByWW1ZS3ZRUERJd1JLXzZDQWg4NXpRT1JhWk9NZk4yaVJJTUtsU09CVGR5WnNlazdlS2FzX3JjVkNhdWlSbVBCc29YcWhPaDlFdkRhYXl3YzdTVGVwRFY3dUpfbS05YzZpUHNOa0ZCMlZQajZXR1haZERRNTJJaDhCcXJJbTRfNVBncG1ZVE50X0o3MXFzMTNxb013MXBaWjZEZGgyU2JEUUZpUG9rQmc5a3hGcEtLSTBJQWFBMGh3eC1MVDJlcjJlWU1TOHZXNzhZY2c?oc=5",
           "hot": "Kai Cenat 相关",
@@ -166,7 +216,7 @@
           "platform": "brands"
         },
         {
-          "rank": 17,
+          "rank": 22,
           "title": "Brittany Mahomes’ Adidas Romper Barely Skims Her Thighs in Throwback Photos",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZ252eXM5VHBTWFdNMW5JVjdwMER5ckQzRGJYSXhKcHJDMTdjS0dIeC1fcjRtMDRLOS1ldERxWG84RkpCQW5haDVaeHZLNmZjTnhfbHBoQXdOUmoyZWU0SzFTYzNFcnFmVkw3MXlIbGcyaDVFdkc1TDBlTFZycjY3UHN3SFMwTzZT?oc=5",
           "hot": "Adidas",
@@ -176,7 +226,7 @@
           "platform": "brands"
         },
         {
-          "rank": 18,
+          "rank": 23,
           "title": "Acne Studios SS27",
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5SS2JVUDNzQkdqMmxBbFBMLTZoeDRwZmJQR0w3QmFJT0NJY1VvekZVUEJvYXZ6UjhmLURxYktYWk43R0RBRHhuZlhKdTdmZzZ4eWRENUpFZEp4THlDbHJOY2Z1d0NMaFVJc29TWklvVEpPYnhLTmZtWE9R?oc=5",
           "hot": "Acne Studios",
@@ -186,7 +236,7 @@
           "platform": "brands"
         },
         {
-          "rank": 19,
+          "rank": 24,
           "title": "We started a £130m sportswear brand while living with our parents",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPanpwcTV1cEhROXoxSjZEajI3ZEVOcDI1VnNDZkV5UTV6bW5fel8ySmZrMjBkUGlCTmZfSTNvWDc2UGFTU2dTMTFILTdlQ3FPdkhBQjZoMml4Zlh3Ty1YU0NqaGxId01fdzRoX1k1eUpZQ1NxYld0di1LUnc4aWpJSVlzbmg5Mk5jX0JWa3BiTVc?oc=5",
           "hot": "Montirex",
@@ -196,7 +246,7 @@
           "platform": "brands"
         },
         {
-          "rank": 20,
+          "rank": 25,
           "title": "Tate McRae’s Versace Micro Minidress Rides Up Her Thighs in ‘Housewife’ MV",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNS2tDSjVnRldrejhQSlVWVEtLcmlfZC1wUktvVUo3ak95NVlpUHVBTWQ1WmM1QllGZTJuSjNRNzRlbDBic21iaGJOaEY0VkRTZXV2cHhSRzRWSHRIRHZFei1SV09WUnltU1NuRkJ2Nkd5S3dtT1FWTzBuNHNDOG91S1FiM2hYSTAyZXJHTVNjUEg1bENSaFdXR0ZhMlIwN3FUWWNReDdYWWNiTTZ6UkZj0gG0AUFVX3lxTE1PZmVxZElQOFNXQm04WXMtRUJEVkxGV3V3SXJfQThOaWJiTzAxVFRWaGVXSXQ1cGVGenVnRGc5Q0tHc1d1U1JyWHJvQzBIdzhSenBPOW5WREpVMG12d3Y2aFA5WjFpdDFVQngtWmVwT2pqdFB4VnZoUTBzd3Fxa08tdlVKX0Y5RmVqaXNEZnRLQ2FYQVRQMERJWW5Jd01vZlBwZThzZnRlZWJnRTJVa3RDeUdnZw?oc=5",
           "hot": "Versace",
@@ -206,7 +256,7 @@
           "platform": "brands"
         },
         {
-          "rank": 21,
+          "rank": 26,
           "title": "Uniqlo x JW Anderson Is Back—9 Seriously Chic Winter Staples I Predict Won't Stay In Stock for Long",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTE1XeV9XQVBFWjdfQkIyWlQydDNiRnl3NWIzMXhPelpCaDdRWTdTUTYtVV8wSEI5eGV5M2dMV3RsZUF3RUdPN2ZoZHIyZzVtdGJtT0ZoVE84NnVfREZ3OXdRTE5NVXc2UlhhTl9jR1RValBxOFBURElmSW0tUkRuWXRLYUJzNmJoOUpvNGJVbw?oc=5",
           "hot": "Uniqlo",
@@ -216,9 +266,9 @@
           "platform": "brands"
         },
         {
-          "rank": 22,
+          "rank": 27,
           "title": "Tate McRae Matches Dolce & Gabbana Lace-up Corset With Micro Shorts",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORXNfSWhaUllCRGZrbU9YZE1kQTQta1FvQ2NoRUZLRFk2U0lrZmc5cFJ5ZkNEVGJKb2xBVVZQYW5TcUpRN21kRWxVSG1kMmduXzZRS0JrVVZSSVBMcHhJb0dDM0h4bDB3azdGRkdRM0RBMDhSUndyTlMyNFNiclpPQWo2NTBKTEpFcGpDaU0xdWZnanNKODd1OHE4MXU4RlU?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORTdKZmJzYV9iVlpmQ3lGWi16TUdVYlQzSnV6OW80Y055VlVyZWk4ak5fYXlOcm5mWk0waWduWTBXRVFNRUc3c3JCOWRDckt4R0JkZXk2di1pd2N6eERqQmZLTUI4eHJ5MzhoZVdGVzFBSUU1WkhES3NMSnRYZGhqUXVzQUpLSHZiMS1aMHZmTl9NSC00d3JNSk9XYjl4WjNvdVM1dnM4UEVRemZYOEI5RXhCZ9IBuAFBVV95cUxQaGdjVzdJNGpib1hjVTh2V2hIc1Z1dkFnT1pDYUg1eVI5ekg3ME9aTlJXaFR1Q3M4bEowMnBpLU91d3ltcE1WaTlSbDVxQl8zcko4ZVVxN1FHVExnN18tVjNpN1Itblo4MVQwTnJnSXplRGh4N0ZNN1ltQmJQeEhCejFya0syUDZUbFFBX3pHQzNob1EtY1c0RlR4OFBxNzg0MkdsYWxYQ0NNYktqTFlaejhJQ2ZaemZQ?oc=5",
           "hot": "Dolce & Gabbana",
           "category": "奢侈",
           "dh_verified": true,
@@ -226,7 +276,7 @@
           "platform": "brands"
         },
         {
-          "rank": 23,
+          "rank": 28,
           "title": "FEAR OF GOD ESSENTIALS SS TEE \"Linen\"",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQXzJxVThPZkU3YnhWUWxIa2JUQ3Z1dThzbGRLYXhUdVNMTDZhNUh2ZGFjcUh4Zm1iejlNT1cwd2o0U2czaXZTQ3ZUWEtkWU1Oam14bkVqNXVYbExMN0puR04wcDNsTkVMMU1Mbmh2T01mNGhpVmJnMndjZ21QS0xNbzJ2V2lNREhNN1B6MHRqRUxjUDVqV3RTUTVVdkRHVG0zTHc?oc=5",
           "hot": "Essentials / Fear of God",
@@ -236,7 +286,7 @@
           "platform": "brands"
         },
         {
-          "rank": 24,
+          "rank": 29,
           "title": "Air Jordan 4 ‘Metallic Gold’ — Off-White Leather, Gold Hardware, Quiet Luxury on an AJ4: Where to Buy",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX0twVXFqVHFJYlVyWVdEQlpnaVFFdEV1RUdrUk5idVFyNnd4dF9UaUFKek5ZeG1lZ09DTGNMTmZ4SHp2UWJZVmxGV0tQOG9MbHhmU0t5ZkluS1ByVGstTjVmSm1sRWt4SHV3aTlSOVB5dXpiYzVDNmU1cVR2MVpVb3Y2RGs1UEp0?oc=5",
           "hot": "Off-White",
@@ -246,7 +296,7 @@
           "platform": "brands"
         },
         {
-          "rank": 25,
+          "rank": 30,
           "title": "Canada Goose Holdings Inc. (NYSE:GOOS) Stock Rated \"Reduce\" by Wall Street Analysts",
           "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNT19jb2F1dkQ5SUNGa0lPbS03b2dpekFlRUZiUEhHT19OenVKZUU3c0JlWVlWMTdYTksxaE9oQUpiLWpDT0tYRHQ1TnIxZTBCWDNPbTdIVFd0M0U1VEZoRWM3bTh4RlJESlZEYi1wbTRVbFRVejFQVkZNN0xyVHVqODFzSXhHUEk3Z0pMaFhlRjUzZEppY0dqLTNXOG05cTUtZHk0SlA3S1N5QnFwUHZ5dkUwSEVUcW9oazBWX2dlaGt5cE5nUlNScS1XRjBxaENWYTFfMzJ4OUZEQQ?oc=5",
           "hot": "Canada Goose",
@@ -256,7 +306,17 @@
           "platform": "brands"
         },
         {
-          "rank": 26,
+          "rank": 31,
+          "title": "'It's called a phone' - why young people don't need to be in the big smoke to work in fashion",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vemN4ZXVCWC1na1RoUmFIM2JZWXZWalVBMFNkSi1aRlpTbk5FTE5Vb09yUVNIZTRwSjJya0tWRlNTS0ZMRkw3OFlmRFF1U3JESFRBc3FXb3NXWXM?oc=5",
+          "hot": "Givenchy",
+          "category": "奢侈",
+          "dh_verified": true,
+          "pubDate": "Sat, 17 Oct 2026 06:05:11 GMT",
+          "platform": "brands"
+        },
+        {
+          "rank": 32,
           "title": "The Off-White Industrial Belt defined peak streetwear. But what about now?",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE93U1pQRUZ3Qml4emVjUDNaU2pjTzhWTVQ4czBiY0xnYUFzamdDNVA1M2x4QzdocEtiamFFOXVYeXJDY3VyQXVjRlhwcG8xMkdsR3drQ0RQVnFwWWFzT0JDUUxWWFRSTDZRSl9kNGVDVGw?oc=5",
           "hot": "Off-White",
@@ -266,7 +326,7 @@
           "platform": "brands"
         },
         {
-          "rank": 27,
+          "rank": 33,
           "title": "You might be overlooking something unusual in a flock of Canada geese",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUmV3WnEzdWNrNnQtOHdwMG9uQS1YMVNRTld6dVZHZEs5dk9mLXVrRnQ0a1E5bWpRUVppeTJfc1Y1UldkV1pIOUlBUnlWVHA4WDUyRFREYmVpSUh1S1Z3bEQ0VWRyNEQ1RFJRbXpqVThGc3lvN21mYzVIQ0hmRzB2cmRtOEVBdTNGZW0xbGdIbi02QlhwNlQyNGpDcFZSUHpoUlFyRWdIZVd3RHduM3NsNGRuSWZpZw?oc=5",
           "hot": "Canada Goose",
@@ -276,7 +336,7 @@
           "platform": "brands"
         },
         {
-          "rank": 28,
+          "rank": 34,
           "title": "Collecte vêtements launches its first iPhone app for clothing pickup requests in Montréal",
           "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOVEpDWG0tMXBNX3dCazZhV1VMaDhMb0kyRXNNYlJPZWxseGk3Q3p4Uzd3V3JyekVDQ3UzQVhWNWdyS3Q2Sl9QeTFiNUtPc0hkbjRvZUt3cThuUXhjSHNUSVp2LUtEaDBhQURWazFlZ1Ixb0p6blhEOWszNmFwMFV6ZlJ6dy1OSk03RHlLS0d3a05KanBJU1J4OVA4cFMwMUJ6WjlMVkhFbWFIbWtzR1BJR2Z5anVpejBqeUk5R1pOdFJlSGpTWFNPcW9PTGpTd2FhWHM3dmpjT3h3c0p4b0djV2xNeVRFYTl5ZEZqVl9qUjJEVlBiTDhXendfeG5va1NOb3ZtVVhXbzBYNHN1bmRITDNZNmRYVHlRMkE?oc=5",
           "hot": "Vetements",
@@ -286,7 +346,7 @@
           "platform": "brands"
         },
         {
-          "rank": 29,
+          "rank": 35,
           "title": "True Religion Tests A $1 Billion Exit After Its Comeback",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUm4ydkpaM05YYV9kY3B3N0RnX2F5N1VtM1NSUHRURHd2UkFZa0l4eGx4OEVUZEh3SEJPZU56MjNISjllbnhTTmVncUJxUThWUHk1NnZyWWZ4WXpoWm1aQVBvQXpUcXZRRUgwenlMOHdHRktUb2NvNjJLV0I3b1B1eUllOVVxc2VVcW9TNw?oc=5",
           "hot": "True Religion",
@@ -296,7 +356,7 @@
           "platform": "brands"
         },
         {
-          "rank": 30,
+          "rank": 36,
           "title": "On This Day 25 Years Ago: Ozzy Osbourne Enters the New Millennium with ‘Down to Earth’",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdENvYzVIdGhvN3VGVHRPaUV1NjlNdmN6eHdGV3Z4X3pzWUxDNng1M2FXSnhhMzl4RV9iWHdlMTlmT1lLQkVGWTlfZXB6ODBFYjBjWEY3RlZOS0lScEcwWThrbHF5b2ZvS0J6YTdrNldIZjM3cDFtN3FFUlpLUXoyNHVhVTJLMkxwYjRCLVFmUnJrY0VTYVE4c0lCSVRvazExUmhZSDFXQ2NfM1RRbHQ0SWNmcDNfRlJ1WHUwaWVB?oc=5",
           "hot": "Rock Revival",
@@ -306,7 +366,7 @@
           "platform": "brands"
         },
         {
-          "rank": 31,
+          "rank": 37,
           "title": "Iron Maiden Announce 2027 Run For Your Lives Tour Dates",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORW1FTzY1cVdldUZtLUkzYllBZ3NmbXY1MFJTaXFiUTJiMG01ME95MXBfOXZOc3V6bTYwWlFxMUVEUjE2bnRaU1lMeTI5V0F3azZGTFdFbGFBY0lvamJ2NXBWMFZWM1FrR0xCODJ2R0lpc3V1RGo1WFExSER3bC14UUtJczBJdDJmT0pvd3ZrWXlKclFVYUs4RQ?oc=5",
           "hot": "Rock Revival",
@@ -316,7 +376,7 @@
           "platform": "brands"
         },
         {
-          "rank": 32,
+          "rank": 38,
           "title": "[【 Through the Lens of C.P. COMPANY] Vol. 1: Style Highlights from Music Lovers at the Ringo Music Festival.",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55TjRVTlpBZHNmQWljQUpnekl6SzR1alBtTGpVakJjYmpINTB6TFoyTUVwSkhZMTVPdUV4Wi0zSUVKY1cxVWkwQUltTmZZM2RjN1FR?oc=5",
           "hot": "C.P. Company",
@@ -326,83 +386,23 @@
           "platform": "brands"
         },
         {
-          "rank": 33,
+          "rank": 39,
+          "title": "Adidas’ Y2K Sneakers Earn Shoppers So Many Compliments and Offer ‘Plenty of Support,’ Now 30% Off",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPV3VXdml5WWFFSFVUajRBdmRXVG1kWUFuLXE2YThtSHhnQ0c4ZFdpaEJ2bHRZODJMVzFHTXh1QW5YQ0tKOVN3SHQxd2phTktOZ1p4aS1ESFNqemc5OHJldlZjUFRXS0FaMEdvNmFfaG5UUW0xSGg1ZGdYRnZkbGQ1VmE1ZVpLOUVoTnZV?oc=5",
+          "hot": "Adidas",
+          "category": "运动",
+          "dh_verified": true,
+          "pubDate": "Sat, 17 Oct 2026 03:00:00 GMT",
+          "platform": "brands"
+        },
+        {
+          "rank": 40,
           "title": "Billikens Run Strong at Under Armour Pre-National Invitational",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONlF4Q0NTejV1aXRFTmJFUWVNVUVubTFuSTNFbFFfTkdienN6T3B3UFFINlZGMmdsRUc2aF8xSzBhLXIweXhMWld4bExxa2pzbURkZDZwRkxfUGlzaUJwY0FSZnFUVnB0M3E0cGI1d2xSaUoxbF9iNzVaZmJidDA0Rm9oVVY5TjFPbFpVYjM0NnFaRFRoeDFFbkxTTlIzOHRTamwzaVpKNFM5MWhoYUlpTmVWamhkbjV0ekVlU016RQ?oc=5",
           "hot": "Under Armour",
           "category": "运动",
           "dh_verified": true,
           "pubDate": "Sat, 17 Oct 2026 02:23:24 GMT",
-          "platform": "brands"
-        },
-        {
-          "rank": 34,
-          "title": "!+[Here's Way To Watch]\" Samson vs Barbour County 𝐋𝐈𝐕𝐄 HS Football ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 16 October 2026",
-          "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPOC1YOXBOOXZJTUxjMHJudXNMbjhkZFhudWtoN0oweUhiNjkwNHZ2NDMwNVRUQU8zNi1tSUJIbmNacFJjcW1zVjNzZElkdUhtOGZqTGVMTVBwLXp5c0tOSGlMNmtjeDVnNnhnTjhEZXBTb1lSOXBpU1pOWnZkYkkxTEJDSXZ5VE9VY0JnUVlwOW9sUTI3UVBmLThCdGN5dU9rcmZtYWViNlMzZ05acHpyVjVOX0E5aURROWdnMDdmcGhWa2E4R1prLWNQcUotSmNMRVZHak1CUlJCUkRqTDRpaXVGUnlJSGFiSjlvMUdfWDhadW91QnhYcjdSQldiVENSTGtlTHNtandQakZrNmR2U053bXJWcDBLMGhTaDRRdm5mRV9ERGx3TGRSQzFWT2lvc2ItYVJn?oc=5",
-          "hot": "Barbour",
-          "category": "英伦户外",
-          "dh_verified": true,
-          "pubDate": "Sat, 17 Oct 2026 02:14:31 GMT",
-          "platform": "brands"
-        },
-        {
-          "rank": 35,
-          "title": "+🌶✨ＶＩＲＡＬＳ🌵]!`)!OsamaSon Video Viral On Social Media!HQx105099P",
-          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPMDRPQU9qbGVzNlZuTUkzSnBCWEVOLXNVcHJoaGdaS2ozVFBHOG4xRFA0ZEtVMnlsZG9JOUN1Y1pSX0FrcHNkdUwySTlVbmlxTDB3MkpBRElMaW5WekdJTGloQ09FLUxFMzNUbHdsU0N4TEVjV3hYUDJlWEpuZGVjNW5ualdjdk1TRWRUanR4MFBKWVRwMzJOdEVZS0xUX18xcGlEU3g2cmVKTEdGdi15SUtqOGRtY29FXzkwZ1ZsY19yeVg0bzd2SFRpeUw3ZWl3SklTVXVyMVNsS28zMnFvbU1vU0psekJ0U2ZMWlF2MHJUZXVIcEhfa0xDQlZZUXFHTEcwTFhUcFBNdkl4Zm10cmlR?oc=5",
-          "hot": "Osamason",
-          "category": "说唱/巡演周边",
-          "dh_verified": true,
-          "pubDate": "Sat, 17 Oct 2026 02:11:58 GMT",
-          "platform": "brands"
-        },
-        {
-          "rank": 36,
-          "title": "Moose Knuckles turns Chicago into a frozen “Urban Tundra”",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNV2NYbDI2OEFfaHcyU05mOEVoZmhEQTNiSjQxOS02bHk0NUpPdEJfX3lVZUM5MDNIZkI4VXNBb2VWQzdNV1dIU2tGeUwtOFFxMy1HLTlIRGJJcDZRcmhDZ3lXZHZFV0hrb1hDN0dzUEFEOGtwRFNUbU02R3UwTGEzYzBkRWVvcHNmc2t4S2FsSl9nZw?oc=5",
-          "hot": "Moose Knuckles",
-          "category": "奢侈羽绒服",
-          "dh_verified": true,
-          "pubDate": "Sat, 17 Oct 2026 01:39:11 GMT",
-          "platform": "brands"
-        },
-        {
-          "rank": 37,
-          "title": "Exclusive: Louis Vuitton parent company just bought a building in S.F. Is a flagship store coming?",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOemZHZFQ2UlZNdjdWNUtDSEcycFZ5QWFCSzZ6eFg3U1BONTllMG0ydS12UkhXTVBtUTlmaVZkemJDbU9aWlVVdVJldnl2LTByekZSZW5xdFg4OHM1cm5ES1BsQ25HejNic1Z0S09COUQxQ1JLMjRIbE1scG9OTkoxVzFPNnFWbDNES1dqMjdHeFhvVGc?oc=5",
-          "hot": "Louis Vuitton / LV",
-          "category": "奢侈",
-          "dh_verified": true,
-          "pubDate": "Sat, 17 Oct 2026 01:09:45 GMT",
-          "platform": "brands"
-        },
-        {
-          "rank": 38,
-          "title": "F1 US GP: Would a Special Livery Follow Red Bull's Special Race Suits in Austin?",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5xa2Jia01zcUY4RWVEM1ZVUFVQWGFGVjlsbFBfVGlqczZrQ3d4Vm92V2xFMkRodGR6T0lyVWdKYVpNUnpiUDZwaEdtWDYzTC1MblQ2d2Zjb0M4bUc1em9nVFhnX3MyUmhDMkwyb19UVWQ1cVBIQmo2WDR4bGs?oc=5",
-          "hot": "Off-White",
-          "category": "设计师潮牌",
-          "dh_verified": true,
-          "pubDate": "Sat, 17 Oct 2026 00:36:00 GMT",
-          "platform": "brands"
-        },
-        {
-          "rank": 39,
-          "title": "Hilary Duff Is the Latest Celeb to Break Out the Adidas Sneakers That Shoppers Call ‘Comfortable for All-Day Wear’",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9PRmoyOWlUaHRmZGxHRjJxSV92ZVdYWlp5OXJab2dmWEp5U1JBbDc2ZkRaV1otV2czRjIzOU0yVkdWRDF3NXI1eGJPNWdoUldZcWtNT1paNk9NcDZvbWp4NEd2bzFpUUxFdFA1eFNOOTVJanVrUUhvbktkUlotZw?oc=5",
-          "hot": "Adidas",
-          "category": "运动",
-          "dh_verified": true,
-          "pubDate": "Sat, 17 Oct 2026 00:30:00 GMT",
-          "platform": "brands"
-        },
-        {
-          "rank": 40,
-          "title": "C.P. Company Microreps Boxy Cargo Pants \"Elmwood Green\"",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWTlWR2ttQVhHYUxfblJ1RlQ0ZzJleHBuRVhxclZfWmo1ZGxFcHNETERQVnIyUjl5VDh2Ym5zM2w1NWJVLVFaWE1PSGVWbUstd1hueGRFSjVmb01qbkdiMFZjVlZya1FBOEJJOV8wTlpIMDA5SnZoaE9BaGxiMVR5dFFUU0lCd2xoUXB6QXlfb1N5MUx2dTI1MFRpakp6TUs0a0E?oc=5",
-          "hot": "C.P. Company",
-          "category": "意系男装",
-          "dh_verified": true,
-          "pubDate": "Sat, 17 Oct 2026 00:22:08 GMT",
           "platform": "brands"
         }
       ]
@@ -457,7 +457,7 @@
           "rank": 7,
           "title": "Vans Is Now",
           "url": "https://news.google.com/search?q=Vans%20Is%20Now%20fashion&hl=en-US",
-          "hot": "累计提及 20 次",
+          "hot": "累计提及 21 次",
           "platform": "discovery"
         },
         {
@@ -469,15 +469,15 @@
         },
         {
           "rank": 9,
-          "title": "LaMelo Ball",
-          "url": "https://news.google.com/search?q=LaMelo%20Ball%20fashion&hl=en-US",
-          "hot": "累计提及 17 次",
+          "title": "JW Anderson",
+          "url": "https://news.google.com/search?q=JW%20Anderson%20fashion&hl=en-US",
+          "hot": "累计提及 18 次",
           "platform": "discovery"
         },
         {
           "rank": 10,
-          "title": "JW Anderson",
-          "url": "https://news.google.com/search?q=JW%20Anderson%20fashion&hl=en-US",
+          "title": "LaMelo Ball",
+          "url": "https://news.google.com/search?q=LaMelo%20Ball%20fashion&hl=en-US",
           "hot": "累计提及 17 次",
           "platform": "discovery"
         },
@@ -594,30 +594,30 @@
         },
         {
           "rank": 11,
-          "title": "Clothing Companies Innovating To Reduce Textile Waste",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNLS1wS0Jqbi1wcWZZN0FGa1BNSUtVNUZNWnUxcjVYN2VUYnZ3MWNOZ0tMX3AzVEhCVzBtVUJXS2NKZU01YXlydEo0eWFZWThQMVFEdGhuU3hOY1AyWHhsSU43bWl4YVdGbmlJbnlBbkdHMG5rTU5VTjBOUWMwTWRaSmx3?oc=5",
-          "hot": "Emagazine.com",
+          "title": "Gallery: SFW US Enlists Local Responsible-Fashion Leaders in L.A.",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcXM2bHRBaGczTVF0cTdMZ0tIYXUwbFIzLUQwaW1jdVJwT1BKOTBiYTgzZFc2ZXhRS1J4RGZ0ODJXWWU2WmNnUUxkdGMtOTZaNFk1Y3BvQ01VS19nbml0VHpvVVdBLUZneXdTRTQtX2Q2bGNzbnpSMng4b3E4VFlMc1NnMmpabkhycVh1Z0VKSGFTMDV4MF9od3BRUVZod1BHbWc?oc=5",
+          "hot": "California Apparel News",
           "platform": "news"
         },
         {
           "rank": 12,
-          "title": "Guerrilla fashion shows are redefining how collections are presented outside the official Fashion Week schedule",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBVX1Q4R3FMWk1LRHduM0hmZWMyd2NNSDJfdG8xNXY5bjZEc1phenJON0cwdlY2ZWZMX2F6US1MVGExRERGdnM5eGFUSmIzX3Q4UzlfcHh3cDU1ZnFfQmNyRFVR?oc=5",
-          "hot": "Vogue Adria",
-          "platform": "news"
-        },
-        {
-          "rank": 13,
           "title": "Desmond Lester turned a teenage sneaker obsession into a fashion brand",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdDVaRng3VUxzZnhvamd5bVk0bi1kcDdiMGJsUnBpV3BtaE55ampjZUhlXzJ6UndSTEYtbHV0NEJNWkNlckNyaWRCNW01dUVwTmNGVHZJc3JzYS1GbTZrNUdTVzZzZVFvOWdxRjRNQjR4VXVKb3RoVlQyanFBTVlhQTVzc0d4cFF4R09NdGtyNUd4YUNMTkhaZnVrTEwwQmVDMTJZQ1hR?oc=5",
           "hot": "Detroit Metro Times",
           "platform": "news"
         },
         {
-          "rank": 14,
+          "rank": 13,
           "title": "Sustainable Fashion Market Size, Share | Forecast Report [2034]",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9uVlJiZVpGWmFZVWhYemxRaGx5ZGpkV0kwSkhpeVQzakVCVGhzbC0tTHRtLURrbUphcVIyVUgtTkhsQ21QQU9EbVN6ZGRQUnpVdDlKczkzbmdKeURMbnZiUFY3eklKc2p5alZhbXFobzQybVIwbWdVM01DbFBKdw?oc=5",
           "hot": "Fortune Business Insights",
+          "platform": "news"
+        },
+        {
+          "rank": 14,
+          "title": "The Fashion Industry Must Change",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80dHFrWXFkb3l1Z2VrQnQ5XzQyMmd6Wm55QXBydl81aTN0UHpMeFJvYlhHTjQtblhUTmZ1RkxOREdld3lkb0NXcV9MYUNseG5Ib3JPUnRsSHVsQUtYVUhETUs1VWNCZFNFREE?oc=5",
+          "hot": "EarthDay.org",
           "platform": "news"
         },
         {
@@ -629,23 +629,23 @@
         },
         {
           "rank": 16,
-          "title": "The Fashion Industry Must Change",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80dHFrWXFkb3l1Z2VrQnQ5XzQyMmd6Wm55QXBydl81aTN0UHpMeFJvYlhHTjQtblhUTmZ1RkxOREdld3lkb0NXcV9MYUNseG5Ib3JPUnRsSHVsQUtYVUhETUs1VWNCZFNFREE?oc=5",
-          "hot": "EarthDay.org",
-          "platform": "news"
-        },
-        {
-          "rank": 17,
           "title": "Iris Law Is the Blueprint",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6c21KRzhJZGxROVZUN09qcGRNa09USi02aUdRX2gyaVlDcDNUM1RZMzNKV09QTzVJSjZmWURmdUpTaE5pT3Y0Uy1ybGZaeGZiY3kxNHlWZjZFdlBrbFZUVjJhcUNua1NDZDJXMGVGYUhYcEhZeVVtTw?oc=5",
           "hot": "Who What Wear",
           "platform": "news"
         },
         {
+          "rank": 17,
+          "title": "Fashion brand campaigns and activations raising breast cancer awareness",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1MU3JDdGlxSGNVYmFBUkgyUlh4cE5wUXIxc1BfcXFIQ0hmdUJWMTh5SnZ2eG56UnREclBkcGN1S1VHZGphWWlab3Q2b09rWGFGM1FtV0xIc0JNQTYxUHdjRmdHdDlHQWhkUzlIWEt2TkMzU1dWcmtV?oc=5",
+          "hot": "Vogue Adria",
+          "platform": "news"
+        },
+        {
           "rank": 18,
-          "title": "Richmonder co-launches housecoat-focused fashion brand Cerise",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX0J2cUt1eXZtbUtwMDM0cjhtUXlUYnNlUG1faTQ4MEpwbklCd1pGMkRWdkhsN1N1b1dCOWZwZ1hfUENoM3ItMXd4THhiWm5ES2FsYmF1WDk5Q1FMaWVacnVUWnRTdFVEeG5MVWMwelBlUW9SOTdLbFdMd1dscFNVM3ZMcTQyd3BSSXc3SEduRnZzUTM5ZzJPUnp5bFdRbnR5bmlxNw?oc=5",
-          "hot": "Richmond BizSense",
+          "title": "WESTPHEST: Fashion Industry and Merchandising Student Showcase",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUlBPNERzUEx1RnRBTENfM2dLaFJicm1CVVdVc05Pa2pWc1I4RmhLbExRcy1WMTgyRXlqNHJhQWpJUGc1bG9VTDIzTklOMUlyUkdweXp1clBmT2NjV0N6bUtxalBXYl9wSzZ4Qktoc0M5Q3p5TmQ0RXNYN2ZCVlVURmh3?oc=5",
+          "hot": "Drexel",
           "platform": "news"
         },
         {
@@ -664,163 +664,163 @@
         },
         {
           "rank": 21,
-          "title": "Fashion brand campaigns and activations raising breast cancer awareness",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1MU3JDdGlxSGNVYmFBUkgyUlh4cE5wUXIxc1BfcXFIQ0hmdUJWMTh5SnZ2eG56UnREclBkcGN1S1VHZGphWWlab3Q2b09rWGFGM1FtV0xIc0JNQTYxUHdjRmdHdDlHQWhkUzlIWEt2TkMzU1dWcmtV?oc=5",
-          "hot": "Vogue Adria",
-          "platform": "news"
-        },
-        {
-          "rank": 22,
           "title": "CANEX WKND in Lagos to spotlight the future of African fashion",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMGVUTnRYNXFwWjBJLUxyVFBwdDZCSDZzWGJ5elg5OGtqd2tHNG16Q3Rjek5iWWFfWkVkSHRQQTFqRm5sOWpOTUNrNlFkUzVMeUpsNGJlVWRPRUg3WkFYYmQwYnhoNnBaN0xIbGZDdWVCaE85ZHFlT3BzUFlUZFhsZEhvalNJTjk4MDEzTFdjY1RhOHg0Q21ZdVdXWEtVR1VyRDE5Q0hDYnpyQzRy?oc=5",
           "hot": "African Business",
           "platform": "news"
         },
         {
-          "rank": 23,
-          "title": "WESTPHEST: Fashion Industry and Merchandising Student Showcase",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUlBPNERzUEx1RnRBTENfM2dLaFJicm1CVVdVc05Pa2pWc1I4RmhLbExRcy1WMTgyRXlqNHJhQWpJUGc1bG9VTDIzTklOMUlyUkdweXp1clBmT2NjV0N6bUtxalBXYl9wSzZ4Qktoc0M5Q3p5TmQ0RXNYN2ZCVlVURmh3?oc=5",
-          "hot": "Drexel",
-          "platform": "news"
-        },
-        {
-          "rank": 24,
+          "rank": 22,
           "title": "See how physical AI is transforming the fashion industry",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORE5lODNTMkJYSUs5MFhWWWh3VTFDeG9NOHZzYjYteVRXZnE0Qnl3dzJhREZCclB6a1FFUjVEaUNQSU5SRXpwZVhnTzlXQXB2bkZTcnhiWXhkWlMxXzBnT3FTSjFlT2RyY1VVbklGamhtcmdXWEh6c3RtUk9mMjZ1T0d1MzgxWmJwZUpKRWlqT01PNVg4MXIzazlWNjVrcTcxRkpj?oc=5",
           "hot": "World Economic Forum",
           "platform": "news"
         },
         {
-          "rank": 25,
+          "rank": 23,
           "title": "Apparel Market Size, Share, Future Trends & Forecast, 2034",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10ZGllZmF6c0hVN3NKUllOVHFYVzl3OGJjY21VSm0zMU5EOVdkOWZmRlVVRU9QbDRTdWdsQjlkbVEtb1R0Zkh5bFY3YmpmWTFOTGdmUWplZlcwSVFqVGFrTFlWbHRWYWdoWnJ0UzR3?oc=5",
           "hot": "Fortune Business Insights",
           "platform": "news"
         },
         {
-          "rank": 26,
+          "rank": 24,
           "title": "Esthetician prepares for New York Fashion Week",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWWRhSkIxdHVJUDJSTVZzbjdOSkxXRW5xRzl3SXpjMFh1ZG9ZMzZCUmFPMkptcktULWZWbHJ3N1V2NmJkVnVaUkEtd0dkYUdZUS04YzZBd0pYV3I2QWp2cGN3aGVyelB0VDZyQzNseTFNbW9NN3pQZWg0VDk2dW43RlI1aXlCdHhranlPcXl3?oc=5",
           "hot": "Nunatsiaq News",
           "platform": "news"
         },
         {
-          "rank": 27,
-          "title": "Four actions for the fashion sector to cut emissions",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQzg2S3pCTnpqQVBucG1zekxRMy0ySThUMGtVWlRaeHk2M1BrRHUxZHR2RGU2OHFGN1JkQjM2VTAtQldIa2xTNTAxLWFNeW5yb3J0a2ZkSU9aUEpLa0lhajFsalVoaVlPWVVDQWNsMmYzTDhTRWRJbkk1Qm5GekpRMUdDcG9WWU9Jd19Db2Nn?oc=5",
-          "hot": "Just Style",
-          "platform": "news"
-        },
-        {
-          "rank": 28,
+          "rank": 25,
           "title": "I Love Boosters: an absurdist critique of the fashion industry",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNmFPSlR0blltQXZJVWd5T3pJQVZmTTdVUWl2SkpEeDFlNTdiR3JqTWJGZlZ1MFIxODdtdE5RTExqS19vbnlhNnhlNGthS0p3VGM2dnFac196VHlHanpaVF9ENlh0X1pHU1lIOFRlQmVWM3k4TTdlWExTamFnT1RmS1JpSDRrVnhnbk1EbDVBWUs2cXFMSUUwamRHcw?oc=5",
           "hot": "Freedom Socialist Party",
           "platform": "news"
         },
         {
-          "rank": 29,
+          "rank": 26,
+          "title": "Four actions for the fashion sector to cut emissions",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQzg2S3pCTnpqQVBucG1zekxRMy0ySThUMGtVWlRaeHk2M1BrRHUxZHR2RGU2OHFGN1JkQjM2VTAtQldIa2xTNTAxLWFNeW5yb3J0a2ZkSU9aUEpLa0lhajFsalVoaVlPWVVDQWNsMmYzTDhTRWRJbkk1Qm5GekpRMUdDcG9WWU9Jd19Db2Nn?oc=5",
+          "hot": "Just Style",
+          "platform": "news"
+        },
+        {
+          "rank": 27,
           "title": "Lady Gaga LIED TO About Ostrich Feather Cruelty",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5CZENOdVFES1V5VTBCZDQyMkF6NTBEWmpLd3Bubzc4WnJJNmswanBaTHI0MmY4V1pqSHBaSTJma1FZZDJIcmQtMEd5YWYwa3Iwb1AtTkJINE5rbE9fQ0pHNFlFVDRXQXBqcnBn?oc=5",
           "hot": "People for the Ethical Treatment of Animals (PETA)",
           "platform": "news"
         },
         {
-          "rank": 30,
+          "rank": 28,
           "title": "How 10 People Are Reclaiming Their Disabilities Through Fashion",
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQUI2WmRZb0c3UGl2eUk5UUlFUHRKQWdxQVNpUExUUDhESzZCOWREcGVXX2hCdk5Gb0ZXVW9KNlBqb3B5OWpmVUI2bG9fZU11SjVESV9LYWNTNUJtc05vZHNhTHZ4MG9ra3FUakRaTFg3bEszWDlXckVUNlo0WUNOU1BnUzE4OXc?oc=5",
           "hot": "The Zoe Report",
           "platform": "news"
         },
         {
-          "rank": 31,
+          "rank": 29,
           "title": "Enfants Riches Déprimés’ Racist Shoes",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQkdTSEtSYUEwWTNqZHN2d1FtVnRLWnBwb2c3WTN2R2swVzJlZy1jbFZ0OHVIUnVrWU1ET2djenlWYWRkV3BMLWRGUWV3X0JEaHdjMWlfYnRlMTVBZXZWX0pqOE1HZnNWQTFGdVNhUS1yMWZNQ3BxRl9ST0Z1elJHQ2NEaWRwN203Ti01M09yTnMyOU40LXJOYw?oc=5",
           "hot": "Tablet Magazine",
           "platform": "news"
         },
         {
-          "rank": 32,
+          "rank": 30,
           "title": "Networking in the Fashion Industry",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLXVpdG1fajEzS0FhbDFyVUwxVk1XWHFydzY4MXA1TmlXcURzOTdqUjBTeU9nakpLVXk1cHhfR256eXFyMk1LNjlZMkxMcG1zOVEzOXVFVk1qY3N6S1BETXdmVUFnUms5NHNhNjI2OEZ0akhTWHhlcDh1eTJkNTVOOFdDS3VVcHNEWUFaYVVOczM2LTNIaWdJ?oc=5",
           "hot": "BYU-Idaho",
           "platform": "news"
         },
         {
-          "rank": 33,
+          "rank": 31,
           "title": "WIPO Launches New IP Diagnostics Tool for the Fashion Industry",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeFBSTk5MXzJwQjFyRTF2b3I3R2s3RWM0YzNXY3FnT0Z2MVJRLUdMMkJxaDZ2TGhGcjBNbVU2Ri1vRlRMUUFITkUzX3VqMjk3YUVWaFNfcVFqTmY4NXVMbGVZQkFnc2ZRdmZuWmdpaDV6TzlPZk03OGtfUFBYZF9RdFhoU3J6ekNfYVhvcUkzUjBxaFFJQU9QdVlWR0FEZEJzWnhudHhmZUdDZ05iWkJ1Wg?oc=5",
           "hot": "WIPO",
           "platform": "news"
         },
         {
-          "rank": 34,
+          "rank": 32,
           "title": "Heat catches Europe's fashion industry unprepared as models face the sun in fur and wool",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdXo3eVpydlo4bl83T3RBWkdCeVBvckx4YzFuai03V1N1QnNxWGM4b1lyVjRaX0hROEFka0FjUE9xWndxLTZkUG9LY093SlIyenBuRmR4bXdqZGVwa2lXcExyNkFLbHpHc0RTQy1DcXprVEt3emdyLTV6MkdRelV5R3Fjc01jTEJ2SzFQNnl4SEk1M3pGOFdObUw1d3QwOUFSNjR0Nmt5cmFxVkxBYk1UWk1nb2ZBcFhfSnNxQmpvQdIBxAFBVV95cUxQUHJFWFpTb0dOV0k1UmFmRVBidzRUejdWRVpCWUhRM0NWSVZnNTFMNkJ4eVdDTVh6aHBFMkRiYjFrelFPQjJqZWJCRnhPRXMyU2pzV0huNTZSZTVjTmt2czZLSWxUWURQc3duNGNXbTFHT1NxODF0bGx2UlpKNEJXa2h1SW9DR3hPd1FZR2paSXpQWGhJVmZQbUpubU9uME9FWVFRUklBODctejJiYm94VERiTmo3RHJhbGVjaVB2dEhhLXB1?oc=5",
           "hot": "PBS",
           "platform": "news"
         },
         {
-          "rank": 35,
-          "title": "Fashion industry needs policy support, investment to scale up",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZEVUMDVjN2JhWF91YURWLV9SdUVyaHFZRmpJY1pUOXV3Z2tNVWgzbEpNdWNPai1SZS13MGR0cnUwQkpRcjZ6MTJFSF81ZjN1N2ZaVThhb2xjSHJFTkgtR1l5NGFEcVZnRlpySHZLSkNLVFRCTkVWNG1IdlhXNFdtdGEwZVU0Zw?oc=5",
-          "hot": "The Sun Nigeria",
-          "platform": "news"
-        },
-        {
-          "rank": 36,
-          "title": "Dubai Fashion Week unveils the programme for its upcoming season - FashionNetwork",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYmNjYWViUTZXMVBPakpMUVcwMXNHQ0xTZDR1WFo4dF94eXBTSjZwNXJoaGlSUURpQnVFT3BDT3VLVlFyeGVBd0VYZlFrUmlQTkxrYkI5RDNSRlFkb1pDZ3loczYtVDR3TFVteTlzWUhHUlFQby1EMEhfaWRndWt3U2ltc0RFcHNrcFJyUmZzZXlSVkJTbXZ5QVNickVTeE9xd2VHMHo3VTdIRlZHQUx0NFZn?oc=5",
-          "hot": "The World's Fashion Business News",
-          "platform": "news"
-        },
-        {
-          "rank": 37,
+          "rank": 33,
           "title": "Hot couture: How will extreme heat change the fashion industry?",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOS25BTUdtVWo1YzZhdWh5dGE4VGdIU3l3aXZyM0NwalI3YkJiNVJ0NE9UVlladjJOeGkyVW5FMnpOZVhieVFQVXV5SFNqTkZLWi1DaE5xXzRsOHJBVWlNUFNWRk4wbDZ4dUhRZmlRWi1XUXpTSVdFbXR0RkNNMWdXWWJTZFdfejJjSEVKU0MwVGsxdENBRkxkV1R3WDhveGFOUzh0OWU4ZzVweWFEQ2VqT3NIalZfQ2pU?oc=5",
           "hot": "Dazed",
           "platform": "news"
         },
         {
-          "rank": 38,
+          "rank": 34,
           "title": "Fashion Forward | Jed Perl",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOUlQOTFxb05Vb0JRejlLTTBONUtDcDZQblJYQ1o3QjFHU2tFeEJoZGR6d0cxUjcwOE01bDFnSm02dE9jQjJmVUlXczNtemVWckp0eVhhWlR4bFdDZTBjVDJVY3lBemlDZ25fUU52OWFocHd6NnpDSHNlcHVjTHVZR0dVSzAzYmpmOGNr?oc=5",
           "hot": "The New York Review of Books",
           "platform": "news"
         },
         {
-          "rank": 39,
+          "rank": 35,
           "title": "When It Comes to AI Adoption, Fashion Apparel is Ahead of the Curve",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQd1pJbW9SV3N3V1J2OWRQYnhZd1l6T2tMaEpib1k0QXQ3WjkwR3Z2Y09XRDlabjVyTXJSOEM2aHJHU3lhaE5zZjRnejJrLWxUdEljZW1YNXZBOFBweWN0eFRKNjlWS1YwMTFCUi1yUmpqNU0tQVNQaThDNUJfNXN2SlpnUXNOanNQRHlOVXBVaXVvVTNWcnRSZlJ3cjY5UQ?oc=5",
           "hot": "Yahoo Finance",
           "platform": "news"
         },
         {
-          "rank": 40,
+          "rank": 36,
           "title": "How 9/11 Changed the Fashion Industry",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWHpzcDI2aVNFZlBhWGswQXRzdTFqZFNiRzVObTNYTHB6WVJhWmVtV2ZicmtXN2tXVEpYa0dDa1pjZldWWVhjQnlIdzlWSVRPM3lQdjNRcDBEMTJSR2pZN0ZQM1Rrb2M5OGlrZGFDTzRHenRYblRONm1SZEdKVXRYZVBCeERfQkNxMi02QS1xd1paRHdTX1FB?oc=5",
           "hot": "Harper's BAZAAR",
           "platform": "news"
         },
         {
+          "rank": 37,
+          "title": "Face to Face With Luxury Clients | BoF",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNkxZODlWeDVWSmlfYWRGMjJnaERYcTRycHpnY2otZFhoaXBCaGpBX3pQRGp4eGJyU2dhYklKNUpOdW1kelFOcmFJSlNlb2RBV0lOWGxDUGVPYThmQkRoak8xX2xZTS11OWVWcTRRN0dWMVVLd1F4WVlsbUVQX3ZncQ?oc=5",
+          "hot": "The Business of Fashion",
+          "platform": "news"
+        },
+        {
+          "rank": 38,
+          "title": "Energy Transition Update - Fashion Industry Joins Forces For Renewable Energy Revolution",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNGVWTlgzOU9udzZTY0FPdlVaYVVaOGlvcVRQTHFLWkcySUFPZ0UxbEd4YkVLeFRLZHpIay1hZzF5TDI1R0xzeFNPU21ZSnYzSERoMWZaX3JBR0daLVM0WlhUV2Y2dXBrdlFpYS1uSkdyajA0WjU3ZGpIc2lkcXVNTDZobUxDdDBwakJoWS1Ra1RVZzZVdklBMWozMlFxUQ?oc=5",
+          "hot": "Yahoo Finance",
+          "platform": "news"
+        },
+        {
+          "rank": 39,
+          "title": "Dubai Fashion Week unveils the programme for its upcoming season - FashionNetwork",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYmNjYWViUTZXMVBPakpMUVcwMXNHQ0xTZDR1WFo4dF94eXBTSjZwNXJoaGlSUURpQnVFT3BDT3VLVlFyeGVBd0VYZlFrUmlQTkxrYkI5RDNSRlFkb1pDZ3loczYtVDR3TFVteTlzWUhHUlFQby1EMEhfaWRndWt3U2ltc0RFcHNrcFJyUmZzZXlSVkJTbXZ5QVNickVTeE9xd2VHMHo3VTdIRlZHQUx0NFZn?oc=5",
+          "hot": "The World's Fashion Business News",
+          "platform": "news"
+        },
+        {
+          "rank": 40,
+          "title": "Greenwashing Fashion: How Brands Sell Sustainability",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONE1jUWpWdlg2aklBTGhJRVNiRjZHNVFwNXQ4Q1hCbkwzM3l5bjdLaDJjWEw4WE00TWhmUGdPaFpSSnFKbTJpTllFUnFpYkNLdUpUUFItMTE3OTlSejIwYU5IYnFqaXNGQ2RESlVNN1R1em1COS14c1RQc0hHSHZhVVlyaw?oc=5",
+          "hot": "EarthDay.org",
+          "platform": "news"
+        },
+        {
           "rank": 41,
-          "title": "Queen Camilla joins Zara Tindall for race day at Ascot",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb21wbXJwZGx2cHB1LXcxT1c5N295aDhpOHR1ZERfZ3hkU0VjY0w5eUI3QmhRVVlTaW5rTE1NNGRuc1Jtc3ZyNS1OX3k3QnNCVDJacHJvdW91V0ZOXzVxaFBoM2wwdWNwdjhLcUxUUllMWnpLLWx6UGtTR09rY1k2MzNLeWFsalhSSnQ4MzhDS2k0RnhxbnhvbFNRcjUxNDNsNVE?oc=5",
-          "hot": "The Independent",
+          "title": "Temu agrees to new data security, product safety standards to settle Texas lawsuit",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMVFhdHdwSnE2M2luX19keHgyVHJoYmV4bF9YZHVTY0NaejhWX3pkYWxDRlRjdlJlSGhiWUFMR2s2aVJOaXFyN1RmdEVTQW1ocFNFWEJsdE9aY2g4OXhoaVpWQkVEZURWYi1BYkI5YWlyTlNQTFZfVGJWQXU4Tjg0STNjcUU0UmJLeldWWWhhLUZvUUl3bFpoNWU0YW9Oc1dnR04zT2hSbmhIVzg?oc=5",
+          "hot": "FOX 7 Austin",
           "platform": "news"
         },
         {
           "rank": 42,
-          "title": "Chinese online retailer Temu agrees to data privacy curbs to settle Texas lawsuit",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUURFUXU2ZzFtZmdDWGE1X0otUGFGeEFTc0RVbFJDaExxTlltMnlqUVhnbmxVSjhqeDNyZEFMcnpodkJoYXpENk5pLTNpZUFGb2RXUEN0RUl3RDduTC1peE94aUNTT0dCRllVTks4cDM0ZDd1bHV5d1Bvb1V6ZE80dFowNFJyb09Bd19haVRUcGRQLUtwdlM4ekVfcXJlaWNublYwQk1mSUhUNlItMUtHNmZUSllWdVBTUTRfTmp0XzBVcUlET0lxMzlENXlxZjVs?oc=5",
-          "hot": "Reuters",
+          "title": "I Tried Uniqlo x JW Anderson’s New ‘Academia’-Themed Collection",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNHpDa3hZTnhPeE1LWFJlUVROdUM1ZkVMZm1SX3dDZTV1Y3ZSNXJXZm8tZFEwOExYRkwtOTJQaFhzZTFEaEwzMWsxX3F2bkNxUEl4Z0VzYjNfcFhxenlJLV9GeEs5dHgycU9lSTR2R2xEUmZsdi1BYk1BNnJhMXprSlFQd21iVVpVSDRwdDduaEh4alE0MVE?oc=5",
+          "hot": "New York Magazine",
           "platform": "news"
         },
         {
           "rank": 43,
-          "title": "I Tried Uniqlo x JW Anderson’s New ‘Academia’-Themed Collection",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNHpDa3hZTnhPeE1LWFJlUVROdUM1ZkVMZm1SX3dDZTV1Y3ZSNXJXZm8tZFEwOExYRkwtOTJQaFhzZTFEaEwzMWsxX3F2bkNxUEl4Z0VzYjNfcFhxenlJLV9GeEs5dHgycU9lSTR2R2xEUmZsdi1BYk1BNnJhMXprSlFQd21iVVpVSDRwdDduaEh4alE0MVE?oc=5",
-          "hot": "New York Magazine",
+          "title": "Queen Camilla joins Zara Tindall for race day at Ascot",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb21wbXJwZGx2cHB1LXcxT1c5N295aDhpOHR1ZERfZ3hkU0VjY0w5eUI3QmhRVVlTaW5rTE1NNGRuc1Jtc3ZyNS1OX3k3QnNCVDJacHJvdW91V0ZOXzVxaFBoM2wwdWNwdjhLcUxUUllMWnpLLWx6UGtTR09rY1k2MzNLeWFsalhSSnQ4MzhDS2k0RnhxbnhvbFNRcjUxNDNsNVE?oc=5",
+          "hot": "The Independent",
           "platform": "news"
         },
         {
@@ -853,9 +853,9 @@
         },
         {
           "rank": 48,
-          "title": "Zara Tindall debuts witchy black nails amid private family celebrations",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRGxKeVVlRXJVRVZoQXQyWW5TN0p0b2lzVE5Mb1NWUkxaSjVYQzlWUVVDZVIwWVhmTTctWi1UeXNmZF83TmxyTGx6UlRRZEtVNWlCV1ZQaG1VaFJMeFpCTkF0TjdJN1R5aUhCdFJ5amg0QWtHQWM2YWg2Vmx1cVB1SzdrZHY4QkFlZzU1akx3Y1dlOU43T3VHeGdOWkRWNFExVFJrZQ?oc=5",
-          "hot": "Yahoo",
+          "title": "Zara founder pays $550 million for Wacker Drive office tower",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZVIweW1jZDUzRnNONFc1UDMzOW5EUGstR1h1di1JUENXcVpYZUpYd2hmQUhZWXY1NWw1ajFKeFFFQXlnUXpvMEZrenFfY19McjdmdnJhSk1hVjBXcWV6YXRWaXpOaUtHWkNoRUh6M2RpeDVoOUdrT0kwUHYxemJ1YmZjUlZQM0JHT1FuMEJKTGJxU0ZIWVFyWll0a0J2MWdHZ3BBM0ZGbmlGTEx6?oc=5",
+          "hot": "Crain's Chicago Business",
           "platform": "news"
         },
         {
@@ -867,9 +867,9 @@
         },
         {
           "rank": 50,
-          "title": "Zara Larsson Transforms Into a Fairy, a Mermaid, and More in ‘Blue Moon’ Video",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeXN5ZVRRWk5CZ0N0Nkppdm4zaDJRU2NlQ3BsbGFKdllCYk80U2xUYV9oOWZkaWJaWHBPcjlkWXdsTFdMWG9DNkI0NF9hUjlMU2FSNWg3cWpIdjhZeHdhUE9hdG9qenlIa1ljd2sxYkJ3WVhhVTFOYXJfbHBiSXd2U3lka1lQQ3J1bGRobWNPdw?oc=5",
-          "hot": "Rolling Stone",
+          "title": "Zara founder Amancio Ortega closes on 1 North Wacker for $550M",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOR3NLOEQ5Ym9tbmVOVGVBSGxFN3hnbnBnSDBjam5ZbV8yXzBXeVRUNTNqOFgzRnVSUmVUdTA5RF9hWHhiVENRLWJPNC1yLWdmZ01neXhFZVRuZ0M3ZnZJYllraGo1YmpRd3dDZHRVZkVsVXBuOGZzUjFhVmxKWmhKTGlNcF9VOHJGRkw0WTFfeFlVY2NoVzl0WEFGZ2c?oc=5",
+          "hot": "Yahoo Finance",
           "platform": "news"
         }
       ]
