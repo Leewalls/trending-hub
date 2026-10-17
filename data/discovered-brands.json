@@ -35,17 +35,17 @@
     "sample": "Balenciaga Spring 2027 Ready-to-Wear Collection [PHOTOS]",
     "lastSeen": "2026-10-12T11:09:52.733Z"
   },
+  "SFMTA": {
+    "totalMentions": 18,
+    "firstSeen": "2026-10-14T15:38:06.674Z",
+    "sample": "SFMTA launches merchandise line with Uniqlo",
+    "lastSeen": "2026-10-17T04:44:58.718Z"
+  },
   "LaMelo Ball": {
     "totalMentions": 17,
     "firstSeen": "2026-10-14T00:44:48.105Z",
     "sample": "LaMelo Ball’s Fashion Brand Agrees to Major Deal With TNA Wrestling",
     "lastSeen": "2026-10-16T18:31:24.689Z"
-  },
-  "SFMTA": {
-    "totalMentions": 17,
-    "firstSeen": "2026-10-14T15:38:06.674Z",
-    "sample": "SFMTA launches merchandise line with Uniqlo",
-    "lastSeen": "2026-10-17T00:03:08.605Z"
   },
   "Zara": {
     "totalMentions": 16,
@@ -65,6 +65,12 @@
     "sample": "Bad Bunny x adidas Gazelle Indoor Solar: Release Date & Where to Buy",
     "lastSeen": "2026-10-15T15:58:06.398Z"
   },
+  "Vans Is Now": {
+    "totalMentions": 15,
+    "firstSeen": "2026-10-15T01:05:48.012Z",
+    "sample": "Vans Is Now Selling Its Sneakers at Zara",
+    "lastSeen": "2026-10-17T04:44:58.718Z"
+  },
   "Uniqlo's Affordable Spinoff": {
     "totalMentions": 14,
     "firstSeen": "2026-10-10T12:47:05.345Z",
@@ -83,12 +89,6 @@
     "sample": "Uniqlo's Affordable Spinoff Brand Previews Stylish Winter Basics Steeped in Vintage Workwear and Mil",
     "lastSeen": "2026-10-13T17:14:48.254Z"
   },
-  "Vans Is Now": {
-    "totalMentions": 14,
-    "firstSeen": "2026-10-15T01:05:48.012Z",
-    "sample": "Vans Is Now Selling Its Sneakers at Zara",
-    "lastSeen": "2026-10-17T00:03:08.605Z"
-  },
   "These": {
     "totalMentions": 12,
     "firstSeen": "2026-10-03T12:08:36.278Z",
@@ -102,10 +102,10 @@
     "lastSeen": "2026-10-16T18:31:24.689Z"
   },
   "JW Anderson": {
-    "totalMentions": 11,
+    "totalMentions": 12,
     "firstSeen": "2026-10-15T15:58:06.397Z",
     "sample": "I Tried Uniqlo x JW Anderson’s New Academia-Themed Collection",
-    "lastSeen": "2026-10-17T00:03:08.605Z"
+    "lastSeen": "2026-10-17T04:44:58.718Z"
   },
   "California": {
     "totalMentions": 10,
