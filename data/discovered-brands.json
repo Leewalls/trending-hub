@@ -30,10 +30,10 @@
     "lastSeen": "2026-10-07T17:36:21.737Z"
   },
   "SFMTA": {
-    "totalMentions": 19,
+    "totalMentions": 20,
     "firstSeen": "2026-10-14T15:38:06.674Z",
     "sample": "SFMTA launches merchandise line with Uniqlo",
-    "lastSeen": "2026-10-17T08:56:02.355Z"
+    "lastSeen": "2026-10-17T12:36:53.918Z"
   },
   "PHOTOS": {
     "totalMentions": 18,
@@ -47,6 +47,12 @@
     "sample": "LaMelo Ball’s Fashion Brand Agrees to Major Deal With TNA Wrestling",
     "lastSeen": "2026-10-16T18:31:24.689Z"
   },
+  "Vans Is Now": {
+    "totalMentions": 17,
+    "firstSeen": "2026-10-15T01:05:48.012Z",
+    "sample": "Vans Is Now Selling Its Sneakers at Zara",
+    "lastSeen": "2026-10-17T12:36:53.918Z"
+  },
   "Zara": {
     "totalMentions": 16,
     "firstSeen": "2026-10-02T13:45:18.455Z",
@@ -58,12 +64,6 @@
     "firstSeen": "2026-10-05T00:19:29.962Z",
     "sample": "Berkeley luxury fashion brand founders found dead outside upscale Oakland Hills home",
     "lastSeen": "2026-10-07T10:41:51.148Z"
-  },
-  "Vans Is Now": {
-    "totalMentions": 16,
-    "firstSeen": "2026-10-15T01:05:48.012Z",
-    "sample": "Vans Is Now Selling Its Sneakers at Zara",
-    "lastSeen": "2026-10-17T08:56:02.355Z"
   },
   "Where": {
     "totalMentions": 15,
@@ -89,16 +89,16 @@
     "sample": "Uniqlo's Affordable Spinoff Brand Previews Stylish Winter Basics Steeped in Vintage Workwear and Mil",
     "lastSeen": "2026-10-13T17:14:48.254Z"
   },
+  "JW Anderson": {
+    "totalMentions": 14,
+    "firstSeen": "2026-10-15T15:58:06.397Z",
+    "sample": "I Tried Uniqlo x JW Anderson’s New Academia-Themed Collection",
+    "lastSeen": "2026-10-17T12:36:53.918Z"
+  },
   "Ayrton Senna": {
     "totalMentions": 13,
     "firstSeen": "2026-10-14T05:37:28.399Z",
     "sample": "Zara launches new Ayrton Senna clothing collection inspired by F1 legend",
-    "lastSeen": "2026-10-17T08:56:02.355Z"
-  },
-  "JW Anderson": {
-    "totalMentions": 13,
-    "firstSeen": "2026-10-15T15:58:06.397Z",
-    "sample": "I Tried Uniqlo x JW Anderson’s New Academia-Themed Collection",
     "lastSeen": "2026-10-17T08:56:02.355Z"
   },
   "These": {
