@@ -12,10 +12,10 @@
     "lastSeen": "2026-10-12T20:22:02.689Z"
   },
   "JW Anderson": {
-    "totalMentions": 33,
+    "totalMentions": 34,
     "firstSeen": "2026-10-15T15:58:06.397Z",
     "sample": "I Tried Uniqlo x JW Anderson’s New Academia-Themed Collection",
-    "lastSeen": "2026-10-20T15:28:26.390Z"
+    "lastSeen": "2026-10-20T19:29:04.643Z"
   },
   "Berkeley": {
     "totalMentions": 31,
@@ -191,6 +191,12 @@
     "sample": "Alo Yoga Surpasses Lululemon in Teen Brand Recognition Amid LULU's Attractive Valuation",
     "lastSeen": "2026-10-16T18:31:24.689Z"
   },
+  "FashionNetwork": {
+    "totalMentions": 3,
+    "firstSeen": "2026-10-20T15:28:26.390Z",
+    "sample": "Rapper Nemzzz fronts latest Mertra campaign, collection - FashionNetwork",
+    "lastSeen": "2026-10-20T19:29:04.643Z"
+  },
   "Pieces Are All": {
     "totalMentions": 2,
     "firstSeen": "2026-10-04T02:14:19.433Z",
@@ -232,11 +238,5 @@
     "firstSeen": "2026-10-19T21:37:43.722Z",
     "sample": "Our Favorite Uniqlo Tee Is Just $15 Today",
     "lastSeen": "2026-10-19T21:37:43.722Z"
-  },
-  "FashionNetwork": {
-    "totalMentions": 2,
-    "firstSeen": "2026-10-20T15:28:26.390Z",
-    "sample": "Rapper Nemzzz fronts latest Mertra campaign, collection - FashionNetwork",
-    "lastSeen": "2026-10-20T15:28:26.390Z"
   }
 }
