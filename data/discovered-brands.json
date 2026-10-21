@@ -131,22 +131,22 @@
     "sample": "Giorgio Armani and Kith present 'Dreams of the Dune', the third chapter in their collaboration - Fas",
     "lastSeen": "2026-10-13T21:54:35.714Z"
   },
+  "Made": {
+    "totalMentions": 7,
+    "firstSeen": "2026-10-20T22:31:06.145Z",
+    "sample": "The UNIQLO F.RISSO 2026 Knitwear Collection Is \"Made for Dreaming\"",
+    "lastSeen": "2026-10-21T20:46:35.431Z"
+  },
+  "Dreaming": {
+    "totalMentions": 7,
+    "firstSeen": "2026-10-20T22:31:06.145Z",
+    "sample": "The UNIQLO F.RISSO 2026 Knitwear Collection Is \"Made for Dreaming\"",
+    "lastSeen": "2026-10-21T20:46:35.431Z"
+  },
   "Lil Yachty": {
     "totalMentions": 6,
     "firstSeen": "2026-10-16T05:17:05.135Z",
     "sample": "Lil Yachty x Nike Tech Fleece: a collaboration to be unveiled on October 16, 2026",
-    "lastSeen": "2026-10-21T06:10:43.182Z"
-  },
-  "Made": {
-    "totalMentions": 6,
-    "firstSeen": "2026-10-20T22:31:06.145Z",
-    "sample": "The UNIQLO F.RISSO 2026 Knitwear Collection Is \"Made for Dreaming\"",
-    "lastSeen": "2026-10-21T06:10:43.182Z"
-  },
-  "Dreaming": {
-    "totalMentions": 6,
-    "firstSeen": "2026-10-20T22:31:06.145Z",
-    "sample": "The UNIQLO F.RISSO 2026 Knitwear Collection Is \"Made for Dreaming\"",
     "lastSeen": "2026-10-21T06:10:43.182Z"
   },
   "Spent": {
@@ -185,6 +185,18 @@
     "sample": "Rapper Nemzzz fronts latest Mertra campaign, collection - FashionNetwork",
     "lastSeen": "2026-10-21T12:06:32.597Z"
   },
+  "Risso": {
+    "totalMentions": 4,
+    "firstSeen": "2026-10-21T12:06:32.597Z",
+    "sample": "UNIQLO Tapped Francesco Risso for a Fresh Knitwear Drop",
+    "lastSeen": "2026-10-21T20:46:35.431Z"
+  },
+  "Fresh Knitwear Drop": {
+    "totalMentions": 4,
+    "firstSeen": "2026-10-21T12:06:32.597Z",
+    "sample": "UNIQLO Tapped Francesco Risso for a Fresh Knitwear Drop",
+    "lastSeen": "2026-10-21T20:46:35.431Z"
+  },
   "Anniversary Tees Have": {
     "totalMentions": 3,
     "firstSeen": "2026-10-06T08:18:30.526Z",
@@ -208,18 +220,6 @@
     "firstSeen": "2026-10-16T14:38:46.251Z",
     "sample": "Alo Yoga Surpasses Lululemon in Teen Brand Recognition Amid LULU's Attractive Valuation",
     "lastSeen": "2026-10-16T18:31:24.689Z"
-  },
-  "Risso": {
-    "totalMentions": 3,
-    "firstSeen": "2026-10-21T12:06:32.597Z",
-    "sample": "UNIQLO Tapped Francesco Risso for a Fresh Knitwear Drop",
-    "lastSeen": "2026-10-21T17:26:44.272Z"
-  },
-  "Fresh Knitwear Drop": {
-    "totalMentions": 3,
-    "firstSeen": "2026-10-21T12:06:32.597Z",
-    "sample": "UNIQLO Tapped Francesco Risso for a Fresh Knitwear Drop",
-    "lastSeen": "2026-10-21T17:26:44.272Z"
   },
   "Pieces Are All": {
     "totalMentions": 2,
