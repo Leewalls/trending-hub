@@ -12,10 +12,10 @@
     "lastSeen": "2026-10-12T20:22:02.689Z"
   },
   "JW Anderson": {
-    "totalMentions": 35,
+    "totalMentions": 36,
     "firstSeen": "2026-10-15T15:58:06.397Z",
     "sample": "I Tried Uniqlo x JW Anderson’s New Academia-Themed Collection",
-    "lastSeen": "2026-10-20T22:31:06.145Z"
+    "lastSeen": "2026-10-21T01:07:44.877Z"
   },
   "Berkeley": {
     "totalMentions": 31,
@@ -162,10 +162,22 @@
     "lastSeen": "2026-10-04T18:27:52.183Z"
   },
   "Lil Yachty": {
-    "totalMentions": 4,
+    "totalMentions": 5,
     "firstSeen": "2026-10-16T05:17:05.135Z",
     "sample": "Lil Yachty x Nike Tech Fleece: a collaboration to be unveiled on October 16, 2026",
-    "lastSeen": "2026-10-20T22:31:06.145Z"
+    "lastSeen": "2026-10-21T01:07:44.878Z"
+  },
+  "Made": {
+    "totalMentions": 4,
+    "firstSeen": "2026-10-20T22:31:06.145Z",
+    "sample": "The UNIQLO F.RISSO 2026 Knitwear Collection Is \"Made for Dreaming\"",
+    "lastSeen": "2026-10-21T01:07:44.877Z"
+  },
+  "Dreaming": {
+    "totalMentions": 4,
+    "firstSeen": "2026-10-20T22:31:06.145Z",
+    "sample": "The UNIQLO F.RISSO 2026 Knitwear Collection Is \"Made for Dreaming\"",
+    "lastSeen": "2026-10-21T01:07:44.877Z"
   },
   "Anniversary Tees Have": {
     "totalMentions": 3,
@@ -238,17 +250,5 @@
     "firstSeen": "2026-10-19T21:37:43.722Z",
     "sample": "Our Favorite Uniqlo Tee Is Just $15 Today",
     "lastSeen": "2026-10-19T21:37:43.722Z"
-  },
-  "Made": {
-    "totalMentions": 2,
-    "firstSeen": "2026-10-20T22:31:06.145Z",
-    "sample": "The UNIQLO F.RISSO 2026 Knitwear Collection Is \"Made for Dreaming\"",
-    "lastSeen": "2026-10-20T22:31:06.145Z"
-  },
-  "Dreaming": {
-    "totalMentions": 2,
-    "firstSeen": "2026-10-20T22:31:06.145Z",
-    "sample": "The UNIQLO F.RISSO 2026 Knitwear Collection Is \"Made for Dreaming\"",
-    "lastSeen": "2026-10-20T22:31:06.145Z"
   }
 }
