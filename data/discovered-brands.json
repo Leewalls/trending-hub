@@ -6,10 +6,10 @@
     "lastSeen": "2026-10-05T13:46:29.305Z"
   },
   "Ready": {
-    "totalMentions": 40,
+    "totalMentions": 41,
     "firstSeen": "2026-10-03T12:08:36.278Z",
     "sample": "Balenciaga Spring 2027 Ready-to-Wear Collection [PHOTOS]",
-    "lastSeen": "2026-10-12T20:22:02.689Z"
+    "lastSeen": "2026-10-22T21:47:37.692Z"
   },
   "JW Anderson": {
     "totalMentions": 39,
@@ -101,23 +101,23 @@
     "sample": "Zara launches new Ayrton Senna clothing collection inspired by F1 legend",
     "lastSeen": "2026-10-17T08:56:02.355Z"
   },
+  "Made": {
+    "totalMentions": 13,
+    "firstSeen": "2026-10-20T22:31:06.145Z",
+    "sample": "The UNIQLO F.RISSO 2026 Knitwear Collection Is \"Made for Dreaming\"",
+    "lastSeen": "2026-10-22T21:47:37.692Z"
+  },
+  "Dreaming": {
+    "totalMentions": 13,
+    "firstSeen": "2026-10-20T22:31:06.145Z",
+    "sample": "The UNIQLO F.RISSO 2026 Knitwear Collection Is \"Made for Dreaming\"",
+    "lastSeen": "2026-10-22T21:47:37.692Z"
+  },
   "These": {
     "totalMentions": 12,
     "firstSeen": "2026-10-03T12:08:36.278Z",
     "sample": "These popular Adidas sneakers are 67% off right now — this sale won’t last long",
     "lastSeen": "2026-10-04T08:36:49.540Z"
-  },
-  "Made": {
-    "totalMentions": 12,
-    "firstSeen": "2026-10-20T22:31:06.145Z",
-    "sample": "The UNIQLO F.RISSO 2026 Knitwear Collection Is \"Made for Dreaming\"",
-    "lastSeen": "2026-10-22T18:04:20.314Z"
-  },
-  "Dreaming": {
-    "totalMentions": 12,
-    "firstSeen": "2026-10-20T22:31:06.145Z",
-    "sample": "The UNIQLO F.RISSO 2026 Knitwear Collection Is \"Made for Dreaming\"",
-    "lastSeen": "2026-10-22T18:04:20.314Z"
   },
   "California": {
     "totalMentions": 10,
@@ -262,5 +262,11 @@
     "firstSeen": "2026-10-19T21:37:43.722Z",
     "sample": "Our Favorite Uniqlo Tee Is Just $15 Today",
     "lastSeen": "2026-10-19T21:37:43.722Z"
+  },
+  "With Occasion": {
+    "totalMentions": 2,
+    "firstSeen": "2026-10-22T21:47:37.692Z",
+    "sample": "Zara's New Studio Collection Is Overflowing With Occasion-Worthy Fashion Finds",
+    "lastSeen": "2026-10-22T21:47:37.692Z"
   }
 }
