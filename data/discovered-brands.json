@@ -113,6 +113,18 @@
     "sample": "Co-founders of luxury women’s fashion brand found shot dead at their California home",
     "lastSeen": "2026-10-07T17:36:21.737Z"
   },
+  "Made": {
+    "totalMentions": 9,
+    "firstSeen": "2026-10-20T22:31:06.145Z",
+    "sample": "The UNIQLO F.RISSO 2026 Knitwear Collection Is \"Made for Dreaming\"",
+    "lastSeen": "2026-10-22T02:27:38.809Z"
+  },
+  "Dreaming": {
+    "totalMentions": 9,
+    "firstSeen": "2026-10-20T22:31:06.145Z",
+    "sample": "The UNIQLO F.RISSO 2026 Knitwear Collection Is \"Made for Dreaming\"",
+    "lastSeen": "2026-10-22T02:27:38.809Z"
+  },
   "BEAMS": {
     "totalMentions": 8,
     "firstSeen": "2026-10-04T14:30:21.327Z",
@@ -125,18 +137,6 @@
     "sample": "The Hellstar x 2Pac Collaboration is Available Now on Complex",
     "lastSeen": "2026-10-19T10:33:25.377Z"
   },
-  "Made": {
-    "totalMentions": 8,
-    "firstSeen": "2026-10-20T22:31:06.145Z",
-    "sample": "The UNIQLO F.RISSO 2026 Knitwear Collection Is \"Made for Dreaming\"",
-    "lastSeen": "2026-10-21T23:48:06.507Z"
-  },
-  "Dreaming": {
-    "totalMentions": 8,
-    "firstSeen": "2026-10-20T22:31:06.145Z",
-    "sample": "The UNIQLO F.RISSO 2026 Knitwear Collection Is \"Made for Dreaming\"",
-    "lastSeen": "2026-10-21T23:48:06.507Z"
-  },
   "Giorgio Armani": {
     "totalMentions": 7,
     "firstSeen": "2026-10-13T02:08:57.167Z",
@@ -148,6 +148,18 @@
     "firstSeen": "2026-10-16T05:17:05.135Z",
     "sample": "Lil Yachty x Nike Tech Fleece: a collaboration to be unveiled on October 16, 2026",
     "lastSeen": "2026-10-21T06:10:43.182Z"
+  },
+  "Risso": {
+    "totalMentions": 6,
+    "firstSeen": "2026-10-21T12:06:32.597Z",
+    "sample": "UNIQLO Tapped Francesco Risso for a Fresh Knitwear Drop",
+    "lastSeen": "2026-10-22T02:27:38.809Z"
+  },
+  "Fresh Knitwear Drop": {
+    "totalMentions": 6,
+    "firstSeen": "2026-10-21T12:06:32.597Z",
+    "sample": "UNIQLO Tapped Francesco Risso for a Fresh Knitwear Drop",
+    "lastSeen": "2026-10-22T02:27:38.809Z"
   },
   "Spent": {
     "totalMentions": 5,
@@ -178,18 +190,6 @@
     "firstSeen": "2026-10-04T08:36:49.540Z",
     "sample": "I Spent a Full Day Shopping at Zara—Whoever Designed Its Fall Collection Owes My Wallet an Apology",
     "lastSeen": "2026-10-04T18:27:52.183Z"
-  },
-  "Risso": {
-    "totalMentions": 5,
-    "firstSeen": "2026-10-21T12:06:32.597Z",
-    "sample": "UNIQLO Tapped Francesco Risso for a Fresh Knitwear Drop",
-    "lastSeen": "2026-10-21T23:48:06.507Z"
-  },
-  "Fresh Knitwear Drop": {
-    "totalMentions": 5,
-    "firstSeen": "2026-10-21T12:06:32.597Z",
-    "sample": "UNIQLO Tapped Francesco Risso for a Fresh Knitwear Drop",
-    "lastSeen": "2026-10-21T23:48:06.507Z"
   },
   "FashionNetwork": {
     "totalMentions": 4,
