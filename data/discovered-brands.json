@@ -107,35 +107,35 @@
     "sample": "These popular Adidas sneakers are 67% off right now — this sale won’t last long",
     "lastSeen": "2026-10-04T08:36:49.540Z"
   },
+  "Made": {
+    "totalMentions": 11,
+    "firstSeen": "2026-10-20T22:31:06.145Z",
+    "sample": "The UNIQLO F.RISSO 2026 Knitwear Collection Is \"Made for Dreaming\"",
+    "lastSeen": "2026-10-22T13:18:37.061Z"
+  },
+  "Dreaming": {
+    "totalMentions": 11,
+    "firstSeen": "2026-10-20T22:31:06.145Z",
+    "sample": "The UNIQLO F.RISSO 2026 Knitwear Collection Is \"Made for Dreaming\"",
+    "lastSeen": "2026-10-22T13:18:37.061Z"
+  },
   "California": {
     "totalMentions": 10,
     "firstSeen": "2026-10-05T21:17:38.819Z",
     "sample": "Co-founders of luxury women’s fashion brand found shot dead at their California home",
     "lastSeen": "2026-10-07T17:36:21.737Z"
   },
-  "Made": {
-    "totalMentions": 10,
-    "firstSeen": "2026-10-20T22:31:06.145Z",
-    "sample": "The UNIQLO F.RISSO 2026 Knitwear Collection Is \"Made for Dreaming\"",
-    "lastSeen": "2026-10-22T07:50:05.324Z"
-  },
-  "Dreaming": {
-    "totalMentions": 10,
-    "firstSeen": "2026-10-20T22:31:06.145Z",
-    "sample": "The UNIQLO F.RISSO 2026 Knitwear Collection Is \"Made for Dreaming\"",
-    "lastSeen": "2026-10-22T07:50:05.324Z"
+  "Collaboration": {
+    "totalMentions": 9,
+    "firstSeen": "2026-10-12T20:22:02.689Z",
+    "sample": "The Hellstar x 2Pac Collaboration is Available Now on Complex",
+    "lastSeen": "2026-10-22T13:18:37.061Z"
   },
   "BEAMS": {
     "totalMentions": 8,
     "firstSeen": "2026-10-04T14:30:21.327Z",
     "sample": "BEAMS x Lacoste Turned the Iconic Crocodile Into a \"BEAMS\" Logo for the Label's 50th",
     "lastSeen": "2026-10-05T00:19:29.962Z"
-  },
-  "Collaboration": {
-    "totalMentions": 8,
-    "firstSeen": "2026-10-12T20:22:02.689Z",
-    "sample": "The Hellstar x 2Pac Collaboration is Available Now on Complex",
-    "lastSeen": "2026-10-19T10:33:25.377Z"
   },
   "Giorgio Armani": {
     "totalMentions": 7,
