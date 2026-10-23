@@ -6,10 +6,10 @@
     "lastSeen": "2026-10-05T13:46:29.305Z"
   },
   "Ready": {
-    "totalMentions": 41,
+    "totalMentions": 42,
     "firstSeen": "2026-10-03T12:08:36.278Z",
     "sample": "Balenciaga Spring 2027 Ready-to-Wear Collection [PHOTOS]",
-    "lastSeen": "2026-10-22T21:47:37.692Z"
+    "lastSeen": "2026-10-23T00:15:03.605Z"
   },
   "JW Anderson": {
     "totalMentions": 39,
@@ -48,10 +48,10 @@
     "lastSeen": "2026-10-07T17:36:21.737Z"
   },
   "PHOTOS": {
-    "totalMentions": 19,
+    "totalMentions": 20,
     "firstSeen": "2026-10-03T16:33:24.887Z",
     "sample": "Balenciaga Spring 2027 Ready-to-Wear Collection [PHOTOS]",
-    "lastSeen": "2026-10-20T15:28:26.390Z"
+    "lastSeen": "2026-10-23T00:15:03.605Z"
   },
   "LaMelo Ball": {
     "totalMentions": 17,
@@ -95,23 +95,23 @@
     "sample": "Uniqlo's Affordable Spinoff Brand Previews Stylish Winter Basics Steeped in Vintage Workwear and Mil",
     "lastSeen": "2026-10-13T17:14:48.254Z"
   },
+  "Made": {
+    "totalMentions": 14,
+    "firstSeen": "2026-10-20T22:31:06.145Z",
+    "sample": "The UNIQLO F.RISSO 2026 Knitwear Collection Is \"Made for Dreaming\"",
+    "lastSeen": "2026-10-23T00:15:03.605Z"
+  },
+  "Dreaming": {
+    "totalMentions": 14,
+    "firstSeen": "2026-10-20T22:31:06.145Z",
+    "sample": "The UNIQLO F.RISSO 2026 Knitwear Collection Is \"Made for Dreaming\"",
+    "lastSeen": "2026-10-23T00:15:03.605Z"
+  },
   "Ayrton Senna": {
     "totalMentions": 13,
     "firstSeen": "2026-10-14T05:37:28.399Z",
     "sample": "Zara launches new Ayrton Senna clothing collection inspired by F1 legend",
     "lastSeen": "2026-10-17T08:56:02.355Z"
-  },
-  "Made": {
-    "totalMentions": 13,
-    "firstSeen": "2026-10-20T22:31:06.145Z",
-    "sample": "The UNIQLO F.RISSO 2026 Knitwear Collection Is \"Made for Dreaming\"",
-    "lastSeen": "2026-10-22T21:47:37.692Z"
-  },
-  "Dreaming": {
-    "totalMentions": 13,
-    "firstSeen": "2026-10-20T22:31:06.145Z",
-    "sample": "The UNIQLO F.RISSO 2026 Knitwear Collection Is \"Made for Dreaming\"",
-    "lastSeen": "2026-10-22T21:47:37.692Z"
   },
   "These": {
     "totalMentions": 12,
@@ -161,6 +161,12 @@
     "sample": "UNIQLO Tapped Francesco Risso for a Fresh Knitwear Drop",
     "lastSeen": "2026-10-22T02:27:38.809Z"
   },
+  "FashionNetwork": {
+    "totalMentions": 6,
+    "firstSeen": "2026-10-20T15:28:26.390Z",
+    "sample": "Rapper Nemzzz fronts latest Mertra campaign, collection - FashionNetwork",
+    "lastSeen": "2026-10-23T00:15:03.605Z"
+  },
   "Spent": {
     "totalMentions": 5,
     "firstSeen": "2026-10-04T08:36:49.540Z",
@@ -191,12 +197,6 @@
     "sample": "I Spent a Full Day Shopping at Zara—Whoever Designed Its Fall Collection Owes My Wallet an Apology",
     "lastSeen": "2026-10-04T18:27:52.183Z"
   },
-  "FashionNetwork": {
-    "totalMentions": 5,
-    "firstSeen": "2026-10-20T15:28:26.390Z",
-    "sample": "Rapper Nemzzz fronts latest Mertra campaign, collection - FashionNetwork",
-    "lastSeen": "2026-10-22T18:04:20.314Z"
-  },
   "Anniversary Tees Have": {
     "totalMentions": 3,
     "firstSeen": "2026-10-06T08:18:30.526Z",
@@ -220,6 +220,12 @@
     "firstSeen": "2026-10-16T14:38:46.251Z",
     "sample": "Alo Yoga Surpasses Lululemon in Teen Brand Recognition Amid LULU's Attractive Valuation",
     "lastSeen": "2026-10-16T18:31:24.689Z"
+  },
+  "With Occasion": {
+    "totalMentions": 3,
+    "firstSeen": "2026-10-22T21:47:37.692Z",
+    "sample": "Zara's New Studio Collection Is Overflowing With Occasion-Worthy Fashion Finds",
+    "lastSeen": "2026-10-23T00:15:03.605Z"
   },
   "Pieces Are All": {
     "totalMentions": 2,
@@ -263,10 +269,10 @@
     "sample": "Our Favorite Uniqlo Tee Is Just $15 Today",
     "lastSeen": "2026-10-19T21:37:43.722Z"
   },
-  "With Occasion": {
+  "Amazon": {
     "totalMentions": 2,
-    "firstSeen": "2026-10-22T21:47:37.692Z",
-    "sample": "Zara's New Studio Collection Is Overflowing With Occasion-Worthy Fashion Finds",
-    "lastSeen": "2026-10-22T21:47:37.692Z"
+    "firstSeen": "2026-10-23T00:15:03.605Z",
+    "sample": "Asics’ Supportive Trail Running Sneakers Dropped to Just $70 at Amazon",
+    "lastSeen": "2026-10-23T00:15:03.605Z"
   }
 }
